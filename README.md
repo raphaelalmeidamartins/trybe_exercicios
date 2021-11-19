@@ -18,7 +18,7 @@
 - [ ] 02.02 — Git & GitHub - Entendendo os comandos
 
 <h2 id="en">:us: English</h2>
-<p id="en">Portfolio of exercises and activities performed by <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> during the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
+<p>Portfolio of exercises and activities performed by <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> during the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 <p>Class 19 | November 2021.</b>
 <i>
     <p>"Trybe is a technology school that has a genuine commitment to the professional success of its students. With the Shared Success Model, those who study at Trybe have the option of paying only when they are already working.</b>
