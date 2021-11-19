@@ -51,23 +51,23 @@ SQL</pre>
         <li>Por último, acessei o manual do comando ls: <code>man ls</code>.
     </ol>
 <h2 id="en">:us: English</h2>
-<p>Today we learn about the Unix system, its history, how it influenced modern operational systems (Linux and MacOS), its internal structure and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we exercised the unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
+<p>Today we learned about the Unix system, its history, how it influenced modern Operating Systems (such as Linux and MacOS), its internal structure and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we practiced some unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
 <h3>Part I — Creating files and directories</h3>
     <ol>
-        <li>I ran the <code>mkdir</code> command to create the unix_tests directory and the <code>cd unix_tests/</code> command to navigate to it.
-        <li>I created a new text file named trybe.txt running the command <code>touch trybe.txt</code>.
+        <li>I ran <code>mkdir</code> to create the unix_tests directory and <code>cd unix_tests/</code> to navigate to it.
+        <li>Created a new text file named trybe.txt running command <code>touch trybe.txt</code>.
         <li>Then, I created a copy of the file trybe.txt named trybe_backup.txt using  <code>cp trybe.txt trybe_backup.txt</code>.
-        <li>I changed the name of the file trybe.txt to trybe_original.txt with the command line <code>mv trybe.txt trybe_original</code>.
-        <li>Still inside the unix_tests directory, I created a new folder called backup with <code>mkdir backup/</code>.
+        <li>Changed the name of the file trybe.txt to trybe_original.txt with the command line <code>mv trybe.txt trybe_original</code>.
+        <li>While inside the unix_tests directory, I created a new folder called backup with <code>mkdir backup/</code>.
         <li>Then I moved the file trybe_backup.txt to the backup folder using <code>mv trybe_backup.txt backup/</code>.
-        <li>After that, I created another new directory inside unix_tests called backup2 running the line <code>mkdir backup2</code>.
+        <li>After that, I created another directory inside unix_tests called backup2 running the line <code>mkdir backup2</code>.
         <li>Moved the file trybe_backup.txt from the backup directory to backup2: <code>mv backup/trybe_backup.txt backup2/</code>
         <li>Deleted the backup folder: <code>rm -rf backup/</code>.
-        <li>Then I changed the name of the backup2 directory to backup: <code>mv backup2 backup</code>.
-        <li>I ran the command <code>pwd</code> to see the complete path of the current directory and the terminal returned: <i>/home/raphael/Documentos/Trybe/trybe_exercicios/1_fundamentos-do-desv-web/b01_unix-e-shell/01.03/unix_tests</i>.
+        <li>Then I renamed the backup2 directory to backup: <code>mv backup2 backup</code>.
+        <li>Ran the command <code>pwd</code> to see the complete path of the current directory and the terminal returned: <i>/home/raphael/Documentos/Trybe/trybe_exercicios/1_fundamentos-do-desv-web/b01_unix-e-shell/01.03/unix_tests</i>.
         <li>Deleted the backup directory, running the command <code>rm -rf backup</code>.
         <li>And I cleaned my terminal with the command <code>clear</code>.
-        <li>Still inside the unix_tests folder, I created a new text file called skills.txt using the GUI (Graphic User Interface) of my system with the following content:
+        <li>Created a new text file called skills.txt (inside the unix_tests folder) using the GUI (Graphic User Interface) of my system with the following content:
         <blockquote>
         <pre>
 Internet
@@ -79,24 +79,24 @@ JavaScript
 React
 SQL</pre>
         </blockquote>
-        <li>I ran <code>head -5 skills.txt</code> to see the first five lines of the file on the terminal.
+        <li>Ran <code>head -5 skills.txt</code> to see the first five lines of the file on the terminal.
         <li>And to see the four last ones, I ran: <code>tail -4 skills.txt</code>.
         <li>Finally, I deleted every single file that had the .txt extension running the command line <code>rm *txt </code>.
     </ol>
 <h3>Part II — Manipulation & Search</h3>
     <ol>
         <li>Inside the unix_tests directory again, I downloaded a text file that contains a list of every single country of the world running the command line <code>curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"</code>
-        <li>I ran <code>cat countries.txt</code> to show the whole content of the file on the terminal itself.
-        <li>I used the command <code>less countries.txt</code> to show the content of the file divided in pages, and I moved from page to page using the space key until I found the country Zambia.
-        <li>I ran <code>less countries.txt</code> again, but this time I typed <code>/Zambia</code> and pressed enter to search for the name of the country.
-        <li>I looked for Brazil using the command <code>grep Brazil countries.txt</code>.
-        <li>I performed the same search again, but using the command <code>grep -i brazil countries.txt</code> to ignore case.
+        <li>Ran <code>cat countries.txt</code> to show the whole content of the file on the terminal itself.
+        <li>Run the command <code>less countries.txt</code> to show the content of the file divided in pages, and I moved from page to page using the space key until I found the country Zambia.
+        <li>Ran <code>less countries.txt</code> again, but this time I typed <code>/Zambia</code> and pressed enter to search for the name of the country.
+        <li>Looked for Brazil using the command <code>grep Brazil countries.txt</code>.
+        <li>Performed the same search again, but using the command <code>grep -i brazil countries.txt</code> to ignore case.
         <li>Then I created a new text file named phrases.txt, and I put some random English phrases running  <code>cat > phrases.txt</code>.
-        <li>I looked for the phrases that do not contain the word fox: <code>grep -v fox phrases.txt</code>.
+        <li>Looked for the phrases that do not contain the word fox: <code>grep -v fox phrases.txt</code>.
         <li>Counted how many words there are in the file <code>wc -w phrases.txt</code>.
         <li>How many lines <code>wc -l phrases.txt</code>.
         <li>Created two new files empty.tbt and empty.pdf running <code>touch empty.tbt empty.pdf</code>.
-        <li>I ran <code>ls -a</code> to list every single file inside unix_tests.
+        <li>Ran <code>ls -a</code> to list every single file inside unix_tests.
         <li>And <code>ls *txt</code> to list every file with the .txt extension.
         <li>Then I listed all the files having both the .tbt and .txt extensions running <code>ls *.t*t</code>.
         <li>Finally, I checked the manual for the command ls: <code>man ls</code>.
