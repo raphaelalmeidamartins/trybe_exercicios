@@ -1,7 +1,7 @@
 <small>(for the English version, <a href="#en">click here</a>)</small>
 
 # Trybe
-## :brazil: Português
+<h2>:brazil: Português</h2>
 <p id="pt">Portfólio de exercícios e atividades realizadas por <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> no decorrer do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 
 <p>Turma 19 | Novembro de 2021.</p>
@@ -17,7 +17,7 @@
 - [x] <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web/b02_git-github-e-internet/02.01" rel="next">02.01 — Git & GitHub - O que é e para que serve</a>
 - [ ] 02.02 — Git & GitHub - Entendendo os comandos
 
-## :us: English
+<h2 id="en">:us: English</h2>
 <p id="en">Portfolio of exercises and activities performed by <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> during the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 <p>Class 19 | November 2021.</b>
 <i>
