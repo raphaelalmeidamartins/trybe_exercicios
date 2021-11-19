@@ -51,7 +51,7 @@ SQL</pre>
         <li>Por último, acessei o manual do comando ls: <code>man ls</code>.
     </ol>
 <h2 id="en">:us: English</h2>
-<p>Today we learn about the Unix system, its history, how it influenced modern operational systems (Linux and MacOS), its internal structure and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we exercised the unix commands in bash to create, manipulate, and search files and directories.</p>
+<p>Today we learn about the Unix system, its history, how it influenced modern operational systems (Linux and MacOS), its internal structure and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we exercised the unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
 <h3>Part I — Creating files and directories</h3>
     <ol>
         <li>I ran the <code>mkdir</code> command to create the unix_tests directory and the <code>cd unix_tests/</code> command to navigate to it.
