@@ -87,7 +87,7 @@ SQL</pre>
     <ol>
         <li>Inside the unix_tests directory again, I downloaded a text file that contains a list of every single country of the world running the command line <code>curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"</code>
         <li>Ran <code>cat countries.txt</code> to show the whole content of the file on the terminal itself.
-        <li>Run the command <code>less countries.txt</code> to show the content of the file divided in pages, and I moved from page to page using the space key until I found the country Zambia.
+        <li>Ran the command <code>less countries.txt</code> to show the content of the file divided in pages, and I moved from page to page using the space key until I found the country Zambia.
         <li>Ran <code>less countries.txt</code> again, but this time I typed <code>/Zambia</code> and pressed enter to search for the name of the country.
         <li>Looked for Brazil using the command <code>grep Brazil countries.txt</code>.
         <li>Performed the same search again, but using the command <code>grep -i brazil countries.txt</code> to ignore case.
