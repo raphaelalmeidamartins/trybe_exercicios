@@ -57,7 +57,7 @@ SQL</pre>
         <li>I ran <code>mkdir</code> to create the unix_tests directory and <code>cd unix_tests/</code> to navigate to it.
         <li>Created a new text file named trybe.txt running command <code>touch trybe.txt</code>.
         <li>Then, I created a copy of the file trybe.txt named trybe_backup.txt using  <code>cp trybe.txt trybe_backup.txt</code>.
-        <li>Changed the name of the file trybe.txt to trybe_original.txt with the command line <code>mv trybe.txt trybe_original</code>.
+        <li>Renamed the file trybe.txt to trybe_original.txt with the command line <code>mv trybe.txt trybe_original</code>.
         <li>While inside the unix_tests directory, I created a new folder called backup with <code>mkdir backup/</code>.
         <li>Then I moved the file trybe_backup.txt to the backup folder using <code>mv trybe_backup.txt backup/</code>.
         <li>After that, I created another directory inside unix_tests called backup2 running the line <code>mkdir backup2</code>.
