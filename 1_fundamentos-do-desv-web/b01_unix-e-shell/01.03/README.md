@@ -59,7 +59,7 @@ SQL</pre>
         <li>Then, I created a copy of the file trybe.txt named trybe_backup.txt using  <code>cp trybe.txt trybe_backup.txt</code>.
         <li>I changed the name of the file trybe.txt to trybe_original.txt with the command line <code>mv trybe.txt trybe_original</code>.
         <li>Still inside the unix_tests directory, I created a new folder called backup with <code>mkdir backup/</code>.
-        <li>Then I moved the file try_backup to the backup folder using <code>mv trybe_backup.txt backup/</code>.
+        <li>Then I moved the file trybe_backup.txt to the backup folder using <code>mv trybe_backup.txt backup/</code>.
         <li>After that, I created another new directory inside unix_tests called backup2 running the line <code>mkdir backup2</code>.
         <li>Moved the file trybe_backup.txt from the backup directory to backup2: <code>mv backup/trybe_backup.txt backup2/</code>
         <li>Deleted the backup folder: <code>rm -rf backup/</code>.
