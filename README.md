@@ -12,7 +12,7 @@
 
 ### <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web" rel="next">Bloco 01: Unix & Bash</a>
 - [x] <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web/b01_unix-e-shell/01.03" rel="next">01.03 — Unix & Bash - Parte 1</a>
-- [ ] 01.04 — Unix & Bash - Parte 2
+- [x] <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web/b01_unix-e-shell/01.04" rel="next">01.04 — Unix & Bash - Parte 2</a>
 ### <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web/b02_git-github-e-internet" rel="next">Bloco 02: Git, GitHub e Internet</a>
 - [x] <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web/b02_git-github-e-internet/02.01" rel="next">02.01 — Git & GitHub - O que é e para que serve</a>
 - [ ] 02.02 — Git & GitHub - Entendendo os comandos
