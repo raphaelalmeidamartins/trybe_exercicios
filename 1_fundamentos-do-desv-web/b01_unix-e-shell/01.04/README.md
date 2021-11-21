@@ -100,7 +100,7 @@ total 24
     <ol>
         <li>Navigated to the folder of the module 1 book 1 by running <code>cd 1_fundamentos-do-desv-web/b01_unix-e-shell</code> and I created a directory for today with <code>mkdir 01.04</code>.
         <li>Copied the unix_tests directory from the 01.03 folder to the 01.04 folder using the command <code>cd 01.03/unix_tests 01.04/</code>.
-        <li>Running <code>cat > skills2.txt</code>, I created a new file named skills2.txt and I added the following content:
+        <li>Running <code>cat > skills2.txt</code>, I created a new file named skills2.txt , and I added the following content:
             <blockquote>
                 <pre>
 Internet
@@ -127,9 +127,9 @@ Trybe is a great school
 I am a software developer</pre>
             </blockquote>
         <li>Counted how many lines there are in the file phrases2.txt containing "br": <code>grep -i "br" phrases2.txt | wc -l</code>. The terminal returned: 1.
-        <li>Counted how many lines there are in the file phrases2.txt that<strong>do not contain</strong> "br": <code>grep -iv "br" phrases2.txt | wc -l</code>. The terminal returned: 3.
+        <li>Counted how many lines there are in the file phrases2.txt that <strong>do not contain</strong> "br": <code>grep -iv "br" phrases2.txt | wc -l</code>. The terminal returned: 3.
         <li>Added two country names to the end of the file phrases.txt running <code>cat >> phrases2.txt</code>.
-        <li>Ran <code>catphrases2.txt countries.txt > bunch_of_things.txt</code> to create a file named bunch_of_things.txt contaning the content of both phrases2.txt and countries.txt .
+        <li>Ran <code>catphrases2.txt countries.txt > bunch_of_things.txt</code> to create a file named bunch_of_things.txt containing the content of both phrases2.txt and countries.txt .
         <li>Finally, I printed the content of the file bunch_of_things.txt on the screen in alphabetic order: <code>sort bunch_of_things.txt</code>.
     </ol>
 <h3>Part II — Permissions</h3>
@@ -147,7 +147,7 @@ total 24
 -rw-rw-r-- 1 raphael raphael   52 nov 21 13:23 skills2.txt
 -rw-rw-r-- 1 raphael raphael   14 nov 21 13:25 top_skills.txt</pre>
             </blockquote>
-        <li>With the command <code>chmod a+rw bunch_of_things.txt</code>, I changed the permissions of the file bunch_of_things.txt so every user now have read and write permissions:
+        <li>With the command <code>chmod a+rw bunch_of_things.txt</code>, I changed the permissions of the file bunch_of_things.txt , so every user now have read and write permissions:
             <blockquote>
                 <pre>
 -rw-rw-rw- 1 raphael raphael 1964 nov 21 14:10 bunch_of_things.txt</pre>
