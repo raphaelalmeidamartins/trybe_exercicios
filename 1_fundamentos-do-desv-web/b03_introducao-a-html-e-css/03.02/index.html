@@ -5,15 +5,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+        
+        body {
+            font-size: 16px;
+            text-align: center;
+        }
+
         h1 {
             font-size: 65px;
+            font-family: sans-serif;
             color: orange;
+            line-height: 100px;
+        }
+        
+        p {
+            font-weight: 600;
+            font-size: 3em;
+        }
+
+        li {
+            text-decoration: underline;
         }
 
         .favcolor {
             background-color: aqua;
         }
 
+        #cor1 {
+            color: blue;
+        }
+
+        #cor2 {
+            color: red;
+        }
+
+        #cor3 {
+            color: purple;
+        }
 
     </style>
     <title>HTML</title>
@@ -22,9 +50,9 @@
     <h1>Exercícios 03.02</h1>
     <p class="favcolor">Qual é a sua cor favorita?</p>
     <ul class="favcolor">
-        <li>Azul</li>
-        <li>Vermelho</li>
-        <li>Roxo</li>
+        <li id="cor1">Azul</li>
+        <li id="cor2">Vermelho</li>
+        <li id="cor3">Roxo</li>
     </ul>
 </body>
 </html>
