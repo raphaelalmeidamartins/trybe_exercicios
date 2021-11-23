@@ -1,3 +1,32 @@
 div:hover {
     border: 1px solid black;
 }
+
+#primaria {
+    color: blue;   
+    font-style: italic;
+}
+
+
+#secundaria {
+    color: orange;
+}
+
+#complementar {
+    color: purple;
+    height: 70px;
+    font-style: italic;
+}
+
+#escura {
+    color: black;
+}
+
+#clara {
+    color: lightblue;
+    font-style: italic;
+}
+
+h3 {
+
+}
