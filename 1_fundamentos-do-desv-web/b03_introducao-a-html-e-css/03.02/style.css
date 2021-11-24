@@ -1,0 +1,37 @@
+
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+    color: orange;
+    line-height: 100px;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+li {
+    text-decoration: underline;
+}
+
+.favcolor {
+    background-color: aqua;
+}
+
+#cor1 {
+    color: blue;
+}
+
+#cor2 {
+    color: red;
+}
+
+#cor3 {
+    color: purple;
+}
