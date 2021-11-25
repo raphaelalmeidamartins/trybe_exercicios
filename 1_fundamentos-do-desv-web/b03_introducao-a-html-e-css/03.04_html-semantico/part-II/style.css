@@ -1,0 +1,14 @@
+body {
+    color: rgb(122, 122, 211);
+    background-color: rgb(34, 34, 112);
+}
+
+.container {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.menu {
+    text-decoration: none;
+    color: white;
+}
