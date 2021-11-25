@@ -43,6 +43,10 @@ table {
     width: 355px;
 }
 
+table th {
+    text-align: left;
+}
+
 table caption {
     background-color: rgb(0, 0, 0);
     color: rgb(122, 122, 211);
