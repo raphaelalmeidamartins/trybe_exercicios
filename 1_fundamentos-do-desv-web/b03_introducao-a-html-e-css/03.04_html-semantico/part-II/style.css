@@ -94,12 +94,17 @@ aside {
     border-radius: 40px;
 }
 
+aside h3 {
+    color: rgb(34, 34, 112);
+    padding: 10px;
+}
+
 #video {
     display: inline-block;
     margin: 0 auto;
     width: 560px;
     height: 315px;
-    margin: 50px;
+    margin-bottom: 50px;
 }
 
 footer {
