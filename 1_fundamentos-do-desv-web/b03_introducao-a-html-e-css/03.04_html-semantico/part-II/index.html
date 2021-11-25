@@ -12,17 +12,15 @@
         <header>
             <h1>Soco a 80km/h: Conheça o Stomatopoda</h1>
             <nav>
-                <div class="menu">
-                    <a href="#">Página Inicial</a>
-                    <a href="#">Sobre</a>
-                    <a href="#">Contato</a>
-                </div>
+                <a href="#">Página Inicial</a>
+                <a href="#">Sobre</a>
+                <a href="#">Contato</a>
             </nav>
         </header>
         <main>
             <article>
                 <h2>Fatos sobre o Stomatopoda</h2>
-                <section>
+                <section class="descricao-geral">
                     <!--Informações gerais a respeito:
         
                     Precisa constar nome científico em itálico.
@@ -30,7 +28,7 @@
                     Precisa de informação tabular a respeito de sua identidade científica em específico: Reino, Filo, Subfilo, Classe, Subclasse e Ordem -->
                     <h3>Bichinho simpático</h3>
                     <img src="imagens/Odontodactylus_scyllarus1.jpg" alt="Imagem do stomatopoda (Odontodactylus scyllarus)" title="Odontodactylus scyllarus">
-                    <p>Também conhecidos popularmente no Brasil como <strong>tamarucatas</strong> ou <strong>lacraias-do-mar</strong>, os stomatopodas (ou estomatópodes) são uma ordem de crustáceos marinhos que habitam águas tropicais e subtropicais.</p>
+                    
                     <table>
                         <caption>Classificação científica</caption>
                         <tr>
@@ -54,6 +52,8 @@
                             <td>Stomatopoda</td>
                         </tr>
                     </table>
+
+                    <p>Também conhecidos popularmente no Brasil como <strong>tamarucatas</strong> ou <strong>lacraias-do-mar</strong>, os stomatopodas (ou estomatópodes) são uma ordem de crustáceos marinhos que habitam águas tropicais e subtropicais.</p>
                 </section>
                 <section>
                     <!--Crie uma seção para cada fato interessante:
@@ -62,7 +62,7 @@
                         Destaque características impressionantes;
                         Adicionar uma imagem para ilustrar o fato;
                     -->
-                    <h3>Os olhos mais impressionantes do reino animal</h3>
+                    <h3>Os olhos mais impressionantes</h3>
                     <img src="imagens/Cores.png" alt="Espectro de cores visível a humanos" title="Cores">
                     <p>Os stomatopodas possuem um sistema de visão extremamente complexo capaz de reconhecer 12 cores primárias. Para efeitos de comparação, o ser humano possui apenas três receptores diferentes de cores (vermelho, verde e azul) que combinadas correspondem a todo o espectro de luz visível para nós.</p>
                     <p>Em constaste, os stomatopodas possuem 12 sensores sensíveis a cores e outros quatro que filtram a luz, totalizando 16. Isso significa que eles conseguem enxergar cores que nós não conseguimos nem imaginar e em uma quantidade que nosso cérebro sequer é capaz de processar.</p>
@@ -78,7 +78,7 @@
                     <img src="imagens/Odontodactylus_scyllarus-armadura.jpg" alt="Imagem do corpo do stomatopoda (Odontodactylus scyllarus)" title="Odontodactylus scyllarus">
                     <p>Seus membros se movem tão rápido que fazem com que a água em torno deles ferva. E são tão resistentes que pesquisadores estão estudando suas estruturas celulares para usar no desenvolvimento de armaduras corporais para tropas de combate.</p>
                 </section>
-                <section>
+                <section class="referencias">
                     <!--Crie uma sessão de referências bibliográficas-->
                     <h3>Referências</h3>
                     <ul>
@@ -91,7 +91,7 @@
         
             <aside>
                 <!--Vídeo do animal-->
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/E0Li1k5hGBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe id="video" src="https://www.youtube.com/embed/E0Li1k5hGBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </aside>
         </main>
         <footer>
