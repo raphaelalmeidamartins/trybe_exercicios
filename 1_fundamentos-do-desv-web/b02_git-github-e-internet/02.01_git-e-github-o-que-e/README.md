@@ -31,6 +31,27 @@ git config --global user.email seuemail@exemplo.br</pre>
         <li>Cliquei em <strong>New SSH key</strong>, adicionei uma descrição para minha chave, depois cliquei em <strong>Add SSH key</strong>.
         <li>Por último, inseri a minha senha do Github para confirmar.
     </ol>
+<h3>Parte IV — Meu repositório no Github</h3>
+    <ol>
+        <li>Criei um diretório chamado trybe-exercicios para ser meu portfólio de exercícios.
+        <li>Organizei as pastas conforme módulos, blocos e dias.
+        <li>Naveguei pelo terminal até a pasta do dia de hoje com o comando <code>cd</code>.
+        <li>Criei um arquivo chamada trybe-skills.txt com o comando <code>cat > trybe.skills.txt</code> e inseri o seguinte conteúdo nele:
+            <blockquote>
+    <pre>
+O que eu vou aprender na Trybe:
+- Unix
+- Bash
+- Git</pre>
+            </blockquote>
+        <li>Naveguei de volta para a pasta trybe-exercicios e executei <code>git init</code> para transforma-la em um repositório git.
+        <li>Executei <code>git add .</code> e <code>git commit -m "Initial commit"</code> para fazer o meu primeiro commit.
+        <li>Fui até o site do Github e criei um repositório público com o nome trybe-exercicios e copiei a URL SSH dele.
+        <li>Executei <code>git remote add origin git@github.com:raphaelalmeidamartins/trybe_exercicios.git</code> para vincular meu repositório local com remote.
+        <li>Executei <code>git push origin master</code> para submeter meu primeiro commit para o repositório remoto.
+        <li>Criei um arquivo README.md descrevendo o repositório.
+        <li>Por último, commitei a criação do arquivo e dei um push.
+    </ol>
 
 <h2 id="en">:us: English</h2>
 <h3>Git & Github - What are they and what are they used for</h3>
@@ -61,5 +82,26 @@ git config --global user.email seuemail@exemplo.br</pre>
         <li>Then I ran: <code>xclip -sel clip < ~/.ssh/id_rsa.pub</code> to copy the SSH key to my Clipboard.
         <li>Went to Github website, went to <strong>Settings</strong>, <strong>SSH and GPD keys</strong>.
         <li>Clicked in <strong>New SSH key</strong>, added a description to my key, then I clicked in <strong>Add SSH key</strong>.
-        <li>Finally, I entered my Github password to confirm..
+        <li>Finally, I entered my Github password to confirm.
+    </ol>
+<h3>Part IV — My Github repository</h3>
+    <ol>
+        <li>Created a directory called trybe-exercicios to be my exercises portfolio.
+        <li>Organized the folders with the modules, units and days.
+        <li>Navigated to today's folder through the terminal by using the command <code>cd</code>.
+        <li>Created a file named trybe-skills.txt by using the command <code>cat > trybe.skills.txt</code> and I entered the following content in it:
+            <blockquote>
+    <pre>
+O que eu vou aprender na Trybe:
+- Unix
+- Bash
+- Git</pre>
+            </blockquote>
+        <li>Navigated back to the trybe-exercicios directory, and I ran <code>git init</code> to make the folder a Git repository.
+        <li>Ran <code>git add .</code> and <code>git commit -m "Initial commit"</code> to commit for the very first time.
+        <li>Entered the Github website and created a public repository named trybe-exercicios, and I copied its SSH URL.
+        <li>Ran <code>git remote add origin git@github.com:raphaelalmeidamartins/trybe_exercicios.git</code> to sincronize my local and remote repositories.
+        <li>Ran <code>git push origin master</code> to submit my first commit to the remote repository.
+        <li>Created a README.md file describing the reposity.
+        <li>Finally, commited the new file and pushed.
     </ol>
