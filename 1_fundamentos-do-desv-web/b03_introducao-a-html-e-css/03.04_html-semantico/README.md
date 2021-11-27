@@ -28,7 +28,7 @@
         <li>Adicione, por fim, uma seção de referências bibliográficas, contendo uma lista de todos os links que foram usados como base para compilar a página em questão.
         <li>Adicione um conteúdo adjacente ao artigo, disponibilizando um link <a href="https://youtu.be/E0Li1k5hGBE" rel="external">para este vídeo</a>, que mostra o animal em ação.
         <li>Adicione um rodapé na página, mostrando algo do gênero:
-            <blockquote>"Conteúdo compilado por <insere seu nome>, <ano atual>".</blockquote>
+            <blockquote>"Conteúdo compilado por insere_seu_nome, ano_atual".</blockquote>
         <em>Obs:</em> é obrigatório usar, no mínimo, 6 elementos com as seguintes tags: <em>header, nav, article, section, h1, h2, h3, aside ,footer ,table</em> e <em>img</em>.
         </ul>
 </ol>
