@@ -10,7 +10,7 @@
     <li>Coloque uma margem de 30 pixels na classe .margin .
     <li>Insira uma borda com o valor "5px solid black" na classe .border para aplicá-la ao item D.
 </ol>
-<h3>Posicionamento - Requisitos<h3>
+<h3>Posicionamento - Requisitos</h3>
 <p>Preencha os requisitos a seguir utilizando os arquivos index.html e style.css fornecidos:</p>
 <ol>
     <li>Posicione o Mário acima do Goomba.
@@ -61,7 +61,7 @@
     <li>Put a 30-pixel marginin the class .margin .
     <li>Put a border with the value "5px solid black" in the class .border to apply to the item D.
 </ol>
-<h3>Positioning - Requirements<h3>
+<h3>Positioning - Requirements</h3>
 <p>Meet the requirements below using the index.html and style.css files provided:</p>
 <ol>
     <li>Position Mário above Goomba.
