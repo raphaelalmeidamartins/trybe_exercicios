@@ -61,7 +61,7 @@
 - [x] 03.01 — _HTML & CSS - Page stucture_
 - [x] 03.02 — _HTML & CSS - First steps with CSS_
 - [x] 03.03 — _HTML & CSS - Selectors and positioning_
-- [x] 03.04 — _HTML Semantic_
+- [x] 03.04 — _Semantic HTML_
 - [ ] 03.05 — _[Project - Lessons Learned]()_
 
 #### [Unit 04: Introduction to JavaScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/)
