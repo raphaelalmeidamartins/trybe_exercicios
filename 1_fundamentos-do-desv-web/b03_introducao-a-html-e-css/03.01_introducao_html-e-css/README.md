@@ -23,5 +23,5 @@
     <li>Add a image grom your local computer.
     <li>Create a paragraph for every person in your list.
     <li>Create internal links between the paragraphs and the people.
-    <li>Crie um link para a página do Google. 
+    <li>Create an external link to a Google web page. 
 </ol>
