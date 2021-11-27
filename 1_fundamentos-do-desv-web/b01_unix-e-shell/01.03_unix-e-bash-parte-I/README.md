@@ -1,5 +1,5 @@
-# Dia 3/Day 3
 <small>(for the English version, <a href="#en">click here</a>)</small>
+# Dia 3/Day 3
 <h2>:brazil: Português</h2>
 <p>Hoje aprendemos sobre o sistema Unix, a sua história, como ele influenciou os sistemas operacionais modernos (Linux e MacOS), sua estrutura interna e seu sistema de arquivos. Também conhecemos o bash, que é uma interface (ou shell) de linhas de comando extremamente útil no processo de desenvolvimento de software. Depois, exercitamos os comandos unix no bash para criar, manipular e pesquisar aquivos e diretórios.</p>
 <h3>Parte I — Criação de arquivos e diretórios</h3>
