@@ -1,0 +1,60 @@
+.ordenadas li {
+    background-color: yellow;
+}
+
+.par {
+    color: green;
+}
+
+.impar {
+    text-transform: uppercase;
+}
+
+.headers {
+    color: red;
+}
+
+.headers em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.azul {
+    color: blue;
+}
+
+.java {
+    background-color: pink;
+}
+
+.aliados li:hover{
+    font-weight: bold;
+}
+
+.SO:hover {
+    color: orange;
+}
+
+.W3S:hover {
+    color: green;
+}
+
+.MDN:hover {
+    color: black;
+}
+
+.DD:hover {
+    color: yellow;
+}
+
+.TB:hover {
+    color: green;
+}
