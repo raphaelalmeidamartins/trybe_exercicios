@@ -9,7 +9,7 @@ const angulo3 = 10;
 
 let somaAngulos = angulo1 + angulo2 + angulo3;
 
-if (somaAngulos == 180) {
+if (somaAngulos == 180 && somaAngulos > 0) {
     console.log('É um triângulo');
 } else {
     console.log('Não é um triângulo');
