@@ -20,8 +20,6 @@ git config --global user.email seuemail@exemplo.br</pre>
     </ol>
 <h3>Parte II — Criar conta no Github</h3>
     <p>Criei minha conta no site do Github utilizando meu e-mail pessoal.</p>
-<h2>:us: English</h2>
-<h3>Git & Github - What are they and what are they used for</h3>
 <h3>Parte III — Adicionando uma chave SSH na minha conta do Github</h3>
     <ol>
         <li>Gerando uma nova chave SSH executando o comando: <code>ssh-keygen -t rsa -b 4096 -C "meuemail@gmail.com"</code>. Pressionei enter para aceitar a localização padrão da chave e em seguida defini a minha senha.
@@ -33,6 +31,8 @@ git config --global user.email seuemail@exemplo.br</pre>
         <li>Por último, inseri a minha senha do Github para confirmar.
     </ol>
 
+<h2>:us: English</h2>
+<h3>Git & Github - What are they and what are they used for</h3>
 <p>In today's class we learned about the Git version control system and the Github platform. In this exercise, we practiced creating and linking a local Git repository to one of our Github account using bash.</p>
 <h3>Part I — Instalation and settings</h3>
     <ol>   
