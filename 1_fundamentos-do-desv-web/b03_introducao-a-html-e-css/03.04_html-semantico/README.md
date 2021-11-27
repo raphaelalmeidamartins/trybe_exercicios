@@ -60,8 +60,6 @@
         <li>Add an image for each section as a way of illustrating the fact.
         <li>Add adjacent content to the article by providing a link <a href="https://youtu.be/E0Li1k5hGBE" rel="external">to this video</a>, that shows the animal in action.
         <li>Add a footer to the page containing something like:
-            <blockquote>"Conteúdo compilado por <code>
-                <insere seu nome>, <ano atual>
-            </code>".</blockquote>
+            <blockquote>"Conteúdo compilado por insere_seu_nome, ano_atual".</blockquote>
         <em>Obs:</em> it's mandatory to use, at least, 6 elements with the following tags: <em>header, nav, article, section, h1, h2, h3, aside, footer,table</em> and <em>img</em>.
 <ol>
