@@ -70,3 +70,5 @@
 - [ ] 04.03 — _JavaScript - Programming Logic and Algorithms_
 - [ ] 04.04 — _JavaScript - Objects and Functions_
 - [ ] 04.05 — _[Project - Playground Functions]()_
+
+# [...]
