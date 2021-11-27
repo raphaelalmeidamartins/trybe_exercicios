@@ -3,6 +3,7 @@
 <h2>:brazil: Português</h2>
 <h3>Git & Github - Entendendo os comandos</h3>
 Na aula de hoje aprendemos como clonar um repositório e mais comandos para trabalhar com nossos repositórios Git locais e remotos através do terminal.
+<h3>Exercícios</h3>
     <ol>
         <li>Copiei o arquivo trybe-skills.txt da pasta do dia anterior para essa.
         <li>Verifiquei se havia algo para commitar usando o comando <code>git status</code>.
@@ -36,6 +37,7 @@ CSS</pre>
 <h2 id="en">:us: English</h2>
 <h3>Git & Github - Understading the commands</h3>
 In today's class, we learned how to clone a repository and more commands to work with our local and remote Git repositories through the terminal.
+<h3>Exercises</h3>
     <ol>
         <li>Copied the trybe-skills.txt file from the yesterday's folder to today's folder.
         <li>Checked if there were something to commit by running <code>git status</code>.
