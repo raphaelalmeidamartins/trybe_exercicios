@@ -58,7 +58,7 @@
 <p>Meet the requirements below using the index.html and style.css files provided:</p>
 <ol>
     <li>Insert a 20-pixel padding in the class .padding .
-    <li>Put a 30-pixel marginin the class .margin .
+    <li>Put a 30-pixel margin in the class .margin .
     <li>Put a border with the value "5px solid black" in the class .border to apply to the item D.
 </ol>
 <h3>Positioning - Requirements</h3>
@@ -66,7 +66,7 @@
 <ol>
     <li>Position Mário above Goomba.
     <li>Position the tag p inside the speech bubble.
-    <li>Position the speech bubble so it becomes Bowser's line.
+    <li>Position the speech bubble, so it becomes Bowser's line.
 </ol>
 <p><em>All these characters belong to Nintendo©</em></p>
 <h3>Grouping selectors and pseudo-classes Part I - Requirements</h3>
@@ -80,11 +80,11 @@
             <li>The background color of the list changes when the cursor is hovering over the item. 
             <li>The font of the item changes when it's clicked.
         </ul>
-    <li>Add an unordered list with, at least, 3 characteristcs you characteristics about these websites.
+    <li>Add an unordered list with, at least, 3characteristics you appreciate about these websites.
     <li>In 'style.css', add the propriety 'list-style: none' to both lists. 
 </ol>
 <h3>Grouping selectors and pseudo-classes Part II - Requirements</h3>
-<p>In this next exercise, you shouldn't assing any class or id to the items, you should only use pseudo-classes. Meet the requirements below using the index.html and style.css files provided:</p>
+<p>In this next exercise, you shouldn't assign any class or id to the items, you should only use pseudo-classes. Meet the requirements below using the index.html and style.css files provided:</p>
 <ol>
     <li>Style the divs so, when the cursor is hovering over them, they have a border. 
     <li>Make each div have a different color. 
