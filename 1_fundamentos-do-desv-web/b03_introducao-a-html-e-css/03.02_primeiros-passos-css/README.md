@@ -6,7 +6,7 @@
 <h3>Exercício - Requisitos</h3>
 <ol>
     <li>Crie um arquivo index.html.
-    <li>Modifique o família do h1 para sans-serif.
+    <li>Modifique a família do h1 para sans-serif.
     <li>Deixe o parágrafo com o font-weight 600.
     <li>Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body.
     <li>Explore as propriedades font-style, line-height, text-align e text-decoration.
