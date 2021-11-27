@@ -32,7 +32,7 @@ git config --global user.email seuemail@exemplo.br</pre>
         <li>Por último, inseri a minha senha do Github para confirmar.
     </ol>
 
-<h2>:us: English</h2>
+<h2 id="en">:us: English</h2>
 <h3>Git & Github - What are they and what are they used for</h3>
 <p>In today's class we learned about the Git version control system and the Github platform. In this exercise, we practiced creating and linking a local Git repository to one of our Github account using bash.</p>
 <h3>Part I — Instalation and settings</h3>
