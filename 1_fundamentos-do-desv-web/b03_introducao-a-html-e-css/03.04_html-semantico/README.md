@@ -31,7 +31,7 @@
             <blockquote>"Conteúdo compilado por <insere seu nome>, <ano atual>".</blockquote>
         <em>Obs:</em> é obrigatório usar, no mínimo, 6 elementos com as seguintes tags: <em>header, nav, article, section, h1, h2, h3, aside ,footer ,table</em> e <em>img</em>.
         </ul>
-<ol>
+</ol>
 
 <h2 id="en">:us: English</h2>
 <h3>HTML & CSS - Semantic HTML</h3>
