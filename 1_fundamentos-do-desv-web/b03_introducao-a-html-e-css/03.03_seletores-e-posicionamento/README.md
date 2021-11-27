@@ -99,6 +99,6 @@
     <li>Make each item of the ordered lists have a yellow background color. If the number of the item is even, turn the background color green, and if the number is odd, use propriety text-transform to make the text upper case. (Tip: combining classes could be a good idea here). 
     <li>Make all the Header tags (h1, h2...) have the font color red, and if one of them have font-style italic, change the size to 40px and add a 1px black solid border. 
     <li>Change the list items to 20px font-size, every text inside a li to italic, and the font-weight to bold. 
-    <li>In the list of programming languages, make the first 3 items of the list to have the color blue, and, if some of them contain "java*" in the text, change the background color to pink. 
-    <li>(Bonus) to every link in the list containing allies of developers, make the text change weight to bold and the color to "temática do site".
+    <li>In the "As maiores linguagens de programação", make the first 3 items of the list to have the color blue, and, if some of them contain "java*" in the text, change the background color to pink. 
+    <li>(Bonus) to every link in the "Maiores aliados de uma pessoa desenvolvedora", change the font-weight to bold and the font-color to "temática do site".
 </ol>
