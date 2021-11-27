@@ -29,7 +29,8 @@
         <li>Adicione um conteúdo adjacente ao artigo, disponibilizando um link <a href="https://youtu.be/E0Li1k5hGBE" rel="external">para este vídeo</a>, que mostra o animal em ação.
         <li>Adicione um rodapé na página, mostrando algo do gênero:
             <blockquote>"Conteúdo compilado por <insere seu nome>, <ano atual>".</blockquote>
-        <em>Obs:</em> é obrigatório usar, no mínimo, 6 elementos com as seguintes tags: <em>header, nav, article, section, h1, h2, h3, aside ,footer ,table</em> e <em>img</em>.</li>
+        <em>Obs:</em> é obrigatório usar, no mínimo, 6 elementos com as seguintes tags: <em>header, nav, article, section, h1, h2, h3, aside ,footer ,table</em> e <em>img</em>.
+        </ul>
 <ol>
 
 <h2 id="en">:us: English</h2>
