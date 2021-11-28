@@ -12,7 +12,7 @@
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-#### [Bloco 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web)
+#### [Bloco 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b01_unix-e-shell)
 - [x] 01.03 — _Unix & Bash - Parte 1_
 - [x] 01.04 — _Unix & Bash - Parte 2_
 
@@ -48,7 +48,7 @@
 
 ## Principles of Web Development :hourglass_flowing_sand:
 
-#### [Unit 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web)
+#### [Unit 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b01_unix-e-shell)
 - [x] 01.03 — _Unix & Bash - Part 1_
 - [x] 01.04 — _Unix & Bash - Part 2_
 
