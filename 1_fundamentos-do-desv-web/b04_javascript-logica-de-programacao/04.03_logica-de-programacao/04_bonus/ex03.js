@@ -9,5 +9,5 @@ for (let index = 0; index < n; index += 1) {
 for (let index = 0; index < n; index += 1) {
     linha.shift();
     linha.push(symbol);
-    console.log(linha.join([separator = ""]));
+    console.log(linha.join(""));
 }
