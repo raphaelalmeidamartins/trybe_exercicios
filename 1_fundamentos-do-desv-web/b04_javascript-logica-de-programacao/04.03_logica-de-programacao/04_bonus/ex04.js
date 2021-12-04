@@ -18,9 +18,6 @@ if (n % 2 === 0) {
     for (let coluna = 0; coluna < linha; coluna += 1) {
       stringLinha += '*';
     }
-    for (let coluna = 1; coluna < (centroN - linha); coluna += 1) {
-      stringLinha += ' ';
-    }
     console.log(stringLinha);
     stringLinha = '';
   }
