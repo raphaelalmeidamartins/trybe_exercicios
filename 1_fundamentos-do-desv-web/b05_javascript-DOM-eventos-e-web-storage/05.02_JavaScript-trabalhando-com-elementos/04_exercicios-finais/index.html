@@ -94,7 +94,18 @@
       imgL.className = 'small-image';
       document.getElementsByClassName('left-content')[0].appendChild(imgL);
 
-      
+      // 8 - Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um , dois , três , ... como valores da lista. Essa lista deve ser filha do section criado no passo 6;
+      let unorderedList = document.createElement('ul');
+
+      document.getElementsByClassName('right-content')[0].appendChild(unorderedList);
+
+      let listItems = ['um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez'];
+
+      for (let item of listItems) {
+        let currentItem = document.createElement('li');
+        currentItem.innerText = item;
+        document.getElementsByClassName('right-content')[0].firstElementChild.appendChild(currentItem);
+      }
     </script>
   </body>
 </html>
