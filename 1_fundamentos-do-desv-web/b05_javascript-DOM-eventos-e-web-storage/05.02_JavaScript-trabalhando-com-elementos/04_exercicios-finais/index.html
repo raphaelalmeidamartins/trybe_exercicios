@@ -116,9 +116,17 @@
       mainElement.appendChild(subtitle3);
 
       // COLOQUE SEU CÓDIGO AQUI - PARTE II
-      // 1 Adicione a classe title na tag h1 criada;
+      // 1 - Adicione a classe title na tag h1 criada;
       titulo.className = 'title';
 
+      // 2 - Adicione a classe description nas 3 tags h3 criadas;
+      subtitle1.className = 'description';
+      subtitle2.className = 'description';
+      subtitle3.className = 'description';
+
+      // 3 - Remova a section criado no passo 5 (aquele que possui a classe left-content ). Utilize a função .removeChild() ;
+      mainElement.removeChild(sectionL);
+      
       
     </script>
   </body>
