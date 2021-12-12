@@ -161,8 +161,3 @@ label {
 .marked-friday {
   background-color: aquamarine;
 }
-
-span {
-  display: block;
-  margin: 0 auto;
-}

@@ -18,6 +18,54 @@ const calenderDays = document.getElementById('days');
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
 const dezHolidays = [24, 25, 31];
 const dezFridays = [4, 11, 18, 25];
+const color = 'purple';
+
+function addLegend(color) {
+  const newLegend = document.createElement('div');
+  newLegend.style.backgroundColor = color;
+  newLegend.classList.add('task');
+  newLegend.addEventListener('click', selectTask);
+  const myTaskList = document.querySelector('.my-tasks');
+  myTaskList.appendChild(newLegend);
+}
+
+const task = 'Projeto';
+
+function addTaskOnTheList(string) {
+  const newTask = document.createElement('span');
+  newTask.innerHTML = string;
+  const myTaskList = document.querySelector('.my-tasks');
+  myTaskList.appendChild(newTask);
+  addLegend(color);
+}
+
+function addAppointmentOnTheList() {
+  const inputAppointments = document.getElementById('task-input');
+  if (!inputAppointments.value) {
+    alert('Texto inválido');
+  } else {
+    const newAppointment = document.createElement('li');
+    const appointmentList = document.querySelector('.task-list');
+    newAppointment.innerHTML = inputAppointments.value;
+    appointmentList.appendChild(newAppointment);
+  }
+}
+
+const buttonAddAppointment = document.getElementById('btn-add');
+buttonAddAppointment.addEventListener('click', addAppointmentOnTheList);
+
+function selectTask(event) {
+  const previousSeleted = document.querySelector('.selected');
+  const selectedTask = event.target;
+  if (selectedTask === previousSeleted) {
+    previousSeleted.classList.remove('selected');
+  } else if (previousSeleted) {
+    previousSeleted.classList.remove('selected');
+    selectedTask.classList.add('selected');
+  } else {
+    selectedTask.classList.add('selected');
+  }
+}
 
 function zoomInMouseHover(event) {
   const currentDay = event.target;
@@ -29,6 +77,15 @@ function zoomOutMouseLeaves(event) {
   currentDay.style.fontSize = '';
 }
 
+function selectDays(event) {
+  const selectedDay = event.target;
+  if (selectedDay.style.color === color) {
+    selectedDay.style.color = '';
+  } else {
+    selectedDay.style.color = color;
+  }
+}
+
 function addDays() {
   for (const day of dezDaysList) {
     const newDay = document.createElement('li');
@@ -36,6 +93,7 @@ function addDays() {
     newDay.innerHTML = day;
     newDay.addEventListener('mouseenter', zoomInMouseHover);
     newDay.addEventListener('mouseleave', zoomOutMouseLeaves);
+    newDay.addEventListener('click', selectDays);
     calenderDays.appendChild(newDay);
   }
 }
@@ -141,21 +199,11 @@ function holidaysButton(string) {
   document.querySelector('.buttons-container').appendChild(newButton);
 }
 
-function addTaskOnTheList() {
-  const inputTask = document.getElementById('task-input');
-  const newTask = document.createElement('span');
-  newTask.innerHTML = inputTask.value;
-  const myTaskList = document.querySelector('.my-tasks');
-  myTaskList.appendChild(newTask);
-}
-
-const buttonAddTask = document.getElementById('btn-add');
-buttonAddTask.addEventListener('click', addTaskOnTheList);
-
 window.onload = function() {
   addDays();
   addHolidays();
   addFridays();
   holidaysButton(stringHolidays);
   fridaysButton(stringFridays);
+  addTaskOnTheList(task);
 };
