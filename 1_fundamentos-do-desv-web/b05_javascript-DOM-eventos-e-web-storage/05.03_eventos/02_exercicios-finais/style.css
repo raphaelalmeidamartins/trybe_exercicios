@@ -153,3 +153,16 @@ label {
   margin: 0px;
   padding: 10px 0;
 }
+
+.marked-holiday {
+  background-color: aqua;
+}
+
+.marked-friday {
+  background-color: aquamarine;
+}
+
+span {
+  display: block;
+  margin: 0 auto;
+}
