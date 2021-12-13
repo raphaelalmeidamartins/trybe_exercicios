@@ -71,7 +71,7 @@ function numQueMaisRepete(arrayNumbers) {
   return numeroQueRepete;
 }
 
-// 6 - Crie uma função que receba um número natural N e retorne o somatório de todos os números de 1 até N. 
+// 6 - Crie uma função que receba um número natural N e retorne o somatório de todos os números de 0 até N. 
 function somatorio(n) {
   let sum = 0;
   for (let i = 0; i <= n; i += 1) {
