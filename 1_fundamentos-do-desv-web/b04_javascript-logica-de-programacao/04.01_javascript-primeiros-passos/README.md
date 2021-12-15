@@ -78,7 +78,11 @@ const patientEmail = 'ana@email.com';</pre>
     </ol>
   </li>
 </ol>
-
+<h3>Switch/case</h3>
+<ol>
+  <li>Declarei uma variável com o status de uma pessoa candidata em um processo seletivo com um dos seguintes valores: <em>"aprovado(a)"</em>, <em>"reprovado(a)"</em> ou <em>"lista"</em>(.</li>
+  <li>Usei uma estrutura <code>switch/case</code> para imprimir as mesmas mensagens do exercício anterior de <code>if/else</code> se o status do candidato for aprovado, reprovado ou lista de espera. Como default default, imprime a mensagem: <em>"não se aplica"</em>.</li>
+</ol>
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - First steps</h3>
@@ -155,4 +159,9 @@ const patientEmail = 'ana@email.com';</pre>
       <li>Ran <code>console.log(!(2 + 2) === 4);</code> to see what the NOT operator does.</li>
     </ol>
   </li>
+</ol>
+<h3>Switch/case</h3>
+<ol>
+  <li>Declared a variable with the status of a candidate in a selection process that has one of the following values: <em>"aprovado(a)"</em>(aproved), <em>"reprovado(a)"</em>(reproved) or <em>"lista"</em>(waiting list).</li>
+  <li>Used a <code>switch/case</code> structure to print the same messages of the previous exercise about <code>if/else</code> if the status of the candidate is aproved, reproved or waiting list. As default, it prints the message: <em>"não se aplica"</em> (<em>"not applicable"</em>).</li>
 </ol>
