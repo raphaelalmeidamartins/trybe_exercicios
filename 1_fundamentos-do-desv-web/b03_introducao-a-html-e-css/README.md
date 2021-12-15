@@ -12,4 +12,4 @@
 <p>Then we learned how to improve the accessibility and indexation of our page by using Semantic HTML.</p>
 <p>Here you will find the exercises I developed to record the knowledge I acquired during the unit. You can also check out the project I developed in the end:</p>
 
-- _[Projedt - Lessons Learned]()_
+- _[Project - Lessons Learned]()_
