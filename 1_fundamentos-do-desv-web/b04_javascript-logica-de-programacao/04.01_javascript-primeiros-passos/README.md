@@ -59,6 +59,24 @@ const patientEmail = 'ana@email.com';</pre>
       </li>
       <li>Por fim, imprimi o valor atualizado de <strong>message</strong> no console.</li>
     </ol>
+  <br>
+  <li>Operador OR:
+    <ol>
+      <li>Declarei uma variável chamada <strong>weekDay</strong> que recebe o valor "quarta-feira".</li>
+      <li>Usei estruturas if/else para que:
+        <ul>
+          <li>Se <strong>weekDay</strong> é "segunda-feira", "terça-feira", "quarta-feira", "quinta-feira" ou "sexta-feira", imprima: <em>"Oba, mais um dia de aprendizado na Trybe >:D"</em>. </li>
+          <li>Se <strong>weekDay</strong> for um dia de final de semana, imprima: <em>"FINALMENTE, descanso merecido UwU"</em>.</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <br>
+  <li>Operador NOT:
+    <ol>
+      <li>Utilizei o comando <code>console.log(!(2 + 2) === 4);</code> para ver o que o operador NOT faz.</li>
+    </ol>
+  </li>
 </ol>
 
 
@@ -119,15 +137,22 @@ const patientEmail = 'ana@email.com';</pre>
       </li>
       <li>Then I printed the variable <strong>message</strong> with the update value on the console.</li>
     </ol>
-    <br>
-  <li>The OR operator:</li>
+  <br>
+  <li>The OR operator:
     <ol>
       <li>Declared a variable named <strong>weekDay</strong> which receives the value "quarta-feira".</li>
       <li>Used if/else statements, so:
         <ul>
           <li>If <strong>weekDay</strong> is "segunda-feira"(Monday), "terça-feira"(Tuesday), "quarta-feira"(Wednesday), "quinta-feira"(Thursday) or "sexta-feira"(Friday), print: <em>"Oba, mais um dia de aprendizado na Trybe >:D"</em> (<em>"Yeah! Another day of study at Trybe!"</em>). </li>
-          <li>If <strong>weekDay</strong> is a weekend day, print: <em>"FINALMENTE, descanso merecido UwU"</em> (<em>"Finally, my well-deserved rest"</em>)</li>
+          <li>If <strong>weekDay</strong> is a weekend day, print: <em>"FINALMENTE, descanso merecido UwU"</em> (<em>"Finally, my well-deserved rest"</em>).</li>
         </ul>
       </li>
     </ol>
+  </li>
+  <br>
+  <li>The NOT operator:
+    <ol>
+      <li>Ran <code>console.log(!(2 + 2) === 4);</code> to see what the NOT operator does.</li>
+    </ol>
+  </li>
 </ol>
