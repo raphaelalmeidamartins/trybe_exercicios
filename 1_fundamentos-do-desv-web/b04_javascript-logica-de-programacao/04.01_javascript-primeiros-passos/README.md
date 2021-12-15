@@ -247,7 +247,7 @@ const patientEmail = 'ana@email.com';</pre>
       <li>Also, a angle needs to be positive to be valid.</li>
     </ul>
   </li>
-  <li>Write a program that receives a chess piece and return the movements it is able to do. The program needs to work even if the name of the piece is lower case or upper case, and it needs to return an error message if the given piece is invalid.</li>
+  <li>Write a program that receives a chess piece and returns the movements it is able to do. The program needs to work even if the name of the piece is lower case or upper case, and it needs to return an error message if the given piece is invalid.</li>
   <li>Develop a program that converts a given grade in percentage (from 0 to 100) in grades from A to F. Consider the following rules:
     <ul>
       <li>Percentage >= 90 -> A</li>
