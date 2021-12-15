@@ -1,0 +1,85 @@
+# Dia 1/Day 1
+
+<small>(for the English version, <a href="#en">click here</a>)</small>
+
+<h2>:brazil: Português</h2>
+<h3>JavaScript - Primeiros passos</h3>
+<p>Na aula de hoje aprendemos sobre variáveis, tipos primitivos, tipagem dinâmica, operações aritiméticas, estruturas condicionais <code>if/else</code>, operadores lógicos e <code>switch/case</code>.</p>
+<h3>Variáveis</h3>
+<ol>
+  <li>Criei uma constante chamada <strong>myName</strong> e atribuí a ela meu nome.</li>
+  <li>Criei outra constante chamada <strong>birthCity</strong> e atribuí a ela minha cidade natal.</li>
+  <li>Criei uma variável chamada <strong>birthYear</strong> e atribuí a ela o meu ano de nascimento.</li>
+  <li>Utilizei o comando <code>console.log()</code> para imprimir as variáveis e constantes criadas no console.</li>
+  <li>Alterei o valor da variável <strong>birthYear</strong> para 2030 e a imprimi com o comando <code>console.log(birthYear)</code>.</li>
+  <li>Tentei reatribuir o valor à constante <strong>birthCity</strong>, mas obtive uma mensagem de erro de que não é possível alterar valor de constantes.</li>
+</ol>
+<h3>Tipos primitivos, tipagem dinâmica e operações aritiméticas</h3>
+<ol>
+  <li>Utilizei o operador <code>typeof</code> para imprimir no console os tipos das variáveis abaixo:
+    <blockquote>
+      <pre>
+let patientId = 50;
+let isEnrolled = true;
+const patientInfo = {
+  firstName: 'Ana',
+  lastName: 'Santos',
+};
+const patientEmail = 'ana@email.com';</pre>
+    </blockquote>
+  <li>Criei uma constante chamada <strong>base</strong> e outra chamada <code>height</code>, com os valores 5 e 8, respectivamente.</li>
+  <li>Criei uma constante chamada <code>area</code> e atribui a ela o resultado da multiplicação de <strong>base</strong> por <code>height</code>.</li>
+  <li>Por fim, criei uma constante chamada <strong>perimeter</strong> e atribuí a ela a soma de todos os lados do retângulo.</li>
+</ol>
+<h3>if/else</h3>
+<ol>
+  <li>Declarei uma constante que recebe a nota de uma pessoa candidata em um desafio técnico, de 1 a 100.</li>
+  <li>Criei um programa utilizando <code>if/else</code> que verifica se a pessoa candidata foi aprovada, reprovada ou está na lista de espera, com base nas informações abaixo:
+    <ul>
+      <li>Se a nota for maior ou igual a 80, imprima: <em>"Parabéns, você foi aprovada(o)!"</em>.</li>
+      <li>Se for menor que 80 e maior ou igual a 60, imprima: <em>"Você está na nossa lista de espera"</em>.</li>
+      <li>Se for menor que 60, imprima: <em>"Você foi reprovada(o)"</em>.</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="en">:us: English</h2>
+<h3>JavaScript - First steps</h3>
+<p>In today's class, we learned about variables, primitive types, dynamic typing, arithmetic operations, <code>if/else</code>, logic operators and <code>switch/case</code>.</p>
+<h3>Variables</h3>
+<ol>
+  <li>Declared a constant named <strong>myName</strong> and attributed my name to it.</li>
+  <li>Declared another constant named <strong>birthCity</strong> and attributed my home town to it.</li>
+  <li>Declared a variable named <strong>birthYear</strong> with my birth year.</li>
+  <li>Using the command <code>console.log()</code>, I printed on the console all the variables and constants I previously created.</li>
+  <li>Changed the value of <strong>birthYear</strong> to 2030 and printed the variable on the console by using <code>console.log(birthYear)</code>.</li>
+  <li>Finally, I tried to change the value of the constant <strong>birthCity</strong>, but I got an error message saying that's not possible to change the value of a constant.</li>
+</ol>
+<h3>Primitive types, dynamic typing and arithmetic operations</h3>
+<ol>
+  <li>Used the <code>typeof</code> operator to print on the console the type of the variables below:
+    <blockquote>
+      <pre>
+let patientId = 50;
+let isEnrolled = true;
+const patientInfo = {
+  firstName: 'Ana',
+  lastName: 'Santos',
+};
+const patientEmail = 'ana@email.com';</pre>
+    </blockquote>
+  <li>Created a constant named <strong>base</strong> and other constant named <code>height</code>, with the values ​​5 and 8, respectively.</li>
+  <li>Declared another constant named <code>area</code> and attributed it the result of the multiplication <strong>base</strong> times <code>height</code>.</li>
+  <li>Finally, I created a constant named <strong>perimeter</strong> and attributed it the result of the sum of all the sides of the rectangle.</li>
+</ol>
+<h3>if/else</h3>
+<ol>
+  <li>Declared a constant which receives the grade of a candidate in a technical challenge from 1 to 100.</li>
+  <li>Created a program using <code>if/else</code> to verify if the candidate was approved, reproved or if the person is on the waiting list, considering the following pieces of information:
+    <ul>
+      <li>If the grade is higher or equal to 80, print: <em>"Parabéns, você foi aprovada(o)!"</em> (<em>"Congratulations, you've been approved!"</em>).</li>
+      <li>If the grade is lower than 80 and higher or equal to 60, print: <em>"Você está na nossa lista de espera"</em> (<em>"You are in the waiting list"</em>).</li>
+      <li>If the grade is lower than 60, print: <em>"Você foi reprovada(o)"</em> (<em>"You've been reproved!"</em>).</li>
+    </ul>
+  </li>
+</ol>
