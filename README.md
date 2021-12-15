@@ -26,7 +26,7 @@
 - [x] 03.02 — _HTML & CSS - Primeiros passos em CSS_
 - [x] 03.03 — _HTML & CSS - Seletores e posicionamento_
 - [x] 03.04 — _HTML Semântico_
-- [ ] 03.05 — _[Projeto - Lessons Learned]()_
+- [x] 03.05 — _[Projeto - Lessons Learned]()_
 
 #### [Bloco 04: Introdução - JavaScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/)
 - [x] 04.01 — _JavaScript - Primeiros passos_
