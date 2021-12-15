@@ -119,6 +119,7 @@ const patientEmail = 'ana@email.com';</pre>
       </li>
       <li>Then I printed the variable <strong>message</strong> with the update value on the console.</li>
     </ol>
+    <br>
   <li>The OR operator:</li>
     <ol>
       <li>Declared a variable named <strong>weekDay</strong> which receives the value "quarta-feira".</li>
