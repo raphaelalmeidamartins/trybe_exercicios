@@ -48,13 +48,13 @@ const patientEmail = 'ana@email.com';</pre>
     <ol>
       <li>Declarei uma constante com o nome <strong>currentHour</strong> que recebeu um valor de 4 a 24, representando horas do dia.</li>
       <li>Declarei uma variável chamada <strong>message</strong> que inicia como uma string vazia</li>
-      <li>Utilizei estruturas condicionais if/else statements para que:
+      <li>Utilizei estruturas condicionais if/else para que:
         <ul>
-          <li>Se <strong>currentHour</strong> for maior ou igual a 22, mude o valor de <string>message</string> para <em>"Não deveríamos comer nada, é hora de dormir"</em>.</li>
+          <li>Se <strong>currentHour</strong> for maior ou igual a 22, mude o valor de <strong>message</strong> para <em>"Não deveríamos comer nada, é hora de dormir"</em>.</li>
           <li>Se <strong>currentHour</strong> for maior ou igual a 18, mas menor que 22, atualize o valor de <strong>message</strong> para <em>"Rango da noite, vamos jantar :D"</em>.</li>
           <li>Se <strong>currentHour</strong> maior ou igual a 14, mas menor que 18, atualize o valor de <strong>message</strong> para <em>"Vamos fazer um bolo pro café da tarde?"</em>.</li>
-          <li>Se <strong>currentHour</strong> estiver entre 11 e 14. atualize <strong>message</strong> para <em>"Hora do almoço!!!"</em>.</li>
-          <li>Se <strong>currentHour</strong> estiver entre 4 e 11, mude o valor de <strong>message</strong> para <em>"Hmmm, cheiro de café recém passado"</em>.</li>
+          <li>Se <strong>currentHour</strong> estiver entre 11 e 14, atualize <strong>message</strong> para <em>"Hora do almoço!!!"</em>.</li>
+          <li>Se <strong>currentHour</strong> estiver entre 4 e 11, mude o valor de <strong>message</strong> para <em>"Hmmm, cheiro de café recém-passado"</em>.</li>
         </ul>
       </li>
       <li>Por fim, imprimi o valor atualizado de <strong>message</strong> no console.</li>
@@ -110,7 +110,7 @@ const patientEmail = 'ana@email.com';</pre>
       <li>Declared a variable named <strong>message</strong> that started as an empty string.</li>
       <li>Used if/else statements so:
         <ul>
-          <li>If <strong>currentHour</strong> is later or equal to 22, change the value of the <string>message</string> variable to <em>"Não deveríamos comer nada, é hora de dormir"</em> (<em>"We shouldn't eat anything right now, it's time to go to bed"</em>).</li>
+          <li>If <strong>currentHour</strong> is later or equal to 22, change the value of the <strong>message</strong> variable to <em>"Não deveríamos comer nada, é hora de dormir"</em> (<em>"We shouldn't eat anything right now, it's time to go to bed"</em>).</li>
           <li>If <strong>currentHour</strong> is later or equal to 18, but earlier than 22, change the value of <strong>message</strong> to <em>"Rango da noite, vamos jantar :D"</em> (<em>"Meal of the evening, let's have dinner :D"</em>).</li>
           <li>If <strong>currentHour</strong> is later or equal to 14, but earlier than 18, change the value of <strong>message</strong> to <em>"Vamos fazer um bolo pro café da tarde?"</em> (<em>"Let's make a cake for the meal of the afternoon"</em>).</li>
           <li>If <strong>currentHour</strong> is between 11 and 14, change the value of <strong>message</strong> to <em>"Hora do almoço!!!"</em> (<em>"Lunch time"</em>).</li>
