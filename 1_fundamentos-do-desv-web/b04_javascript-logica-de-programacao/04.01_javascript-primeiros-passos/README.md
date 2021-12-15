@@ -44,7 +44,7 @@ const patientEmail = 'ana@email.com';</pre>
 </ol>
 <h3>Operadores lógicos</h3>
 <ol>
-  <li>Operador AND</li>
+  <li>Operador AND:</li>
     <ol>
       <li>Declarei uma constante com o nome <strong>currentHour</strong> que recebeu um valor de 4 a 24, representando horas do dia.</li>
       <li>Declarei uma variável chamada <strong>message</strong> que inicia como uma string vazia</li>
@@ -104,7 +104,7 @@ const patientEmail = 'ana@email.com';</pre>
 </ol>
 <h3>Logic operators</h3>
 <ol>
-  <li>The AND operator</li>
+  <li>The AND operator:</li>
     <ol>
       <li>Declared a constant named <strong>currentHour</strong> which receives a number from 4 to 24, to represent the hours of the day.</li>
       <li>Declared a variable named <strong>message</strong> that started as an empty string.</li>
@@ -118,5 +118,14 @@ const patientEmail = 'ana@email.com';</pre>
         </ul>
       </li>
       <li>Then I printed the variable <strong>message</strong> with the update value on the console.</li>
+    </ol>
+  <li>The OR operator:</li>
+    <ol>
+      <li>Declared a variable named <strong>weekDay</strong> which receives the value "quarta-feira".</li>
+      <li>Used if/else statements, so:
+        <ul>
+          <li>If <strong>weekDay</strong> is "segunda-feira"(Monday), "terça-feira"(Tuesday), "quarta-feira"(Wednesday), "quinta-feira"(Thursday) or "sexta-feira"(Friday), print: <q>"Oba, mais um dia de aprendizado na Trybe >:D"</q> (<em>"Yeah! Another day of study at Trybe!"</em>). </li>
+        </ul>
+      </li>
     </ol>
 </ol>
