@@ -14,5 +14,5 @@ let lucro = valorVenda - valorCustoTotal;
 if (valorCusto < 0 || valorCusto < 0 ) {
     console.log("ERRO: valores inválidos. Os valores de custo e venda precisam ser maiores que 0.")
 } else {
-    console.log(lucro);
+    console.log(lucro * 1000);
 }

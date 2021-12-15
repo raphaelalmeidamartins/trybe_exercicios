@@ -84,6 +84,67 @@ const patientEmail = 'ana@email.com';</pre>
   <li>Usei uma estrutura <code>switch/case</code> para imprimir as mesmas mensagens do exercício anterior de <code>if/else</code> se o status do candidato for aprovado, reprovado ou lista de espera. Como default default, imprime a mensagem: <em>"não se aplica"</em>.</li>
 </ol>
 
+<h3>Exercícios finais - Requisitos</h3>
+<ol>
+  <li>Desenvolva cinco programas, um para cada operação aritimética básica. Seu programa precisa ter duas constantes <strong>a</strong> e <strong>b</strong>, declaradas no início com os valores que serão operados:
+    <ul>
+      <li>Adição (<strong>a</strong> + <strong>b</strong>)</li>
+      <li>Subtração (<strong>a</strong> - <strong>b</strong>)</li>
+      <li>Multiplicação (<strong>a</strong> * <strong>b</strong>)</li>
+      <li>Divisão (<strong>a</strong> / <strong>b</strong>)</li>
+      <li>Módulo (<strong>a</strong> % <strong>b</strong>)</li>
+    </ul>
+  </li>
+  <li>Desenvolva um programa que retorne o maior de dois números.</li>
+  <li>Desenvolva um programa que retorne o maior de três números.</li>
+  <li>Crie um programa que retorne se um número é positivo, negativo ou zero.</li>
+  <li>Declare três constantes com o valor de três ângulos. Desenvolva um programa que returna <em>true</em> se eles são ângulos de um triângulo, ou <em>false</em> se não são.
+    <ul>
+      <li>Dica: para que ângulos de um triângulo sejam válidos, eles precisam somar 180 graus.</li>
+      <li>Os ângulos também precisam ser positivos para serem válidos.</li>
+    </ul>
+  </li>
+  <li>Escreva um programa que receba o nome de uma peça de xadrez e retorne os movimentos que esta peça consegue fazer. O programa precisa funcionar independentemente de o nome da peça ser em maísculo ou minúsculo, e precisa retornar uma mensagem de erro se não for uma peça válida.</li>
+  <li>Desenvolva um programa que converta uma nota dadaem porcentagem (de 0 a 100) para conceitos de A a F. Considere:
+    <ul>
+      <li>Porcentagem >= 90 -> A</li>
+      <li>Porcentagem >= 80 -> B</li>
+      <li>Porcentagem >= 70 -> C</li>
+      <li>Porcentagem >= 60 -> D</li>
+      <li>Porcentagem >= 50 -> E</li>
+      <li>Porcentagem < 50 -> F</li>
+      <li>O programa também deve retornar uma mensagem de erro se a nota dada for menor que 0 ou maior que 100.</li>
+    </ul>
+  </li>
+  <li>Escreva um programa que define três números em constantes e retorna <em>true</em> se algum deles for par. Do contrário, deve retornar <em>false</em>. <em><strong>Bônus:</strong> tente utilizar apenas um if</em>.</li>
+  <li>Escreva um programa que define três números em constantes e retorna <em>true</em> se algum deles for ímpar. Do contrário, deve retornar <em>false</em>. <em><strong>Bônus:</strong> tente utilizar apenas um if</em>.</li>
+  <li>Escreva um programa com dois valores declarados como constantes: um para o preço de venda de um produto e outro para o preço de custo. O programa precisa retornar quanto de lucro a empresa terá se vender mil desse produto. Considere:</li>
+    <ul>
+    <li>Sobre o custo do produto, incide um imposto de 20%.</li>
+    <li>O programa precisa retornar uma mensagem de erro caso alguns dos valores fornecidos seja menor que zero.</li>
+    </ul>
+  <li>No Brasil, do salário de uma pessoa que trabalha em regime CLT são descontados impostos INSS e IR. Desenvolva um programa que retorn o salário líquido de um salário bruto fornecido. Primeiro, calcule o salário base (salário bruto - INSS), e então calcule o salário líquido (salário base - IR).
+    <ul>
+      <li>INSS aliquotas:
+        <ul>
+          <li>Salário bruto até R$ 1.556,94: 8%</li>
+          <li>De R$ 1.556,95 a R$ 2.594,92: 9%</li>
+          <li>De R$ 2.594,93 a R$ 5.189,82: 11%</li>
+          <li>Acima de R$ 5.189,82: aliquota máxima de R$ 570,88</li>
+        </ul>
+      </li>
+      <li>IR aliquotas:
+        <ul>
+          <li>Salário base até R$ 1.903,98: isento</li>
+          <li>De R$ 1.903,99 a R$ 2.826,65: 7,5% e R$ 142,80 a ser deduzido do imposto</li>
+          <li>De R$ 2.826,66 a R$ 3.751,05: 15% e R$ 354,80 a ser deduzido do imposto</li>
+          <li>De R$ 3.751,06 a R$ 4.664,68: 22,5% e R$ 636,13 a ser deduzido do imposto</li>
+          <li>Acima R$ 4.664,68: 27,5% e R$ 869,36 a ser deduzido do imposto</li>
+        </ul>
+    </ul>
+  </li>
+</ol>
+
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - First steps</h3>
 <p>In today's class, we learned about variables, primitive types, dynamic typing, arithmetic operations, <code>if/else</code>, logic operators and <code>switch/case</code>.</p>
@@ -164,4 +225,65 @@ const patientEmail = 'ana@email.com';</pre>
 <ol>
   <li>Declared a variable with the status of a candidate in a selection process that has one of the following values: <em>"aprovado(a)"</em>(aproved), <em>"reprovado(a)"</em>(reproved) or <em>"lista"</em>(waiting list).</li>
   <li>Used a <code>switch/case</code> structure to print the same messages of the previous exercise about <code>if/else</code> if the status of the candidate is aproved, reproved or waiting list. As default, it prints the message: <em>"não se aplica"</em> (<em>"not applicable"</em>).</li>
+</ol>
+
+<h3>Final exercises - Requirements</h3>
+<ol>
+  <li>Develop five programs, one for each basic arithmetic operation. Your program needs to have two constants <strong>a</strong> and <strong>b</strong>, both declared in the begining with the values that are going to be operated. Develop programs for:
+    <ul>
+      <li>Addition (<strong>a</strong> + <strong>b</strong>)</li>
+      <li>Subtraction (<strong>a</strong> - <strong>b</strong>)</li>
+      <li>Multiplication (<strong>a</strong> * <strong>b</strong>)</li>
+      <li>Division (<strong>a</strong> / <strong>b</strong>)</li>
+      <li>Module (<strong>a</strong> % <strong>b</strong>)</li>
+    </ul>
+  </li>
+  <li>Develop a program that returns the highest of two numbers.</li>
+  <li>Develop a program that returns the highest of three numbers.</li>
+  <li>Create a program that returns if a giving number is positive, negative or zero.</li>
+  <li>Declare three constants with the value of three angles. Develop a program that returns <em>true</em> if they are angles of a triangle or <em>false</em> if they are not.
+    <ul>
+      <li>Hint: for the angles of a triangle to be valid, the sum of them needs to be 180 degrees</li>
+      <li>Also, a angle needs to be positive to be valid.</li>
+    </ul>
+  </li>
+  <li>Write a program that receives a chess piece and return the movements it is able to do. The program needs to work even if the name of the piece is lower case or upper case, and it needs to return an error message if the given piece is invalid.</li>
+  <li>Develop a program that converts a given grade in percentage (from 0 to 100) in grades from A to F. Consider the following rules:
+    <ul>
+      <li>Percentage >= 90 -> A</li>
+      <li>Percentage >= 80 -> B</li>
+      <li>Percentage >= 70 -> C</li>
+      <li>Percentage >= 60 -> D</li>
+      <li>Percentage >= 50 -> E</li>
+      <li>Percentage < 50 -> F</li>
+      <li>The program needs to return an error message if the given grade is lower than 0 or higher than 100.</li>
+    </ul>
+  </li>
+  <li>Write a program that define three numbers in constants and returns <em>true</em> if at least one of them is even. If none of them are, it needs to return <em>false</em>. <em><strong>Bonus:</strong> try to use only one if statement</em>.</li>
+  <li>Write a program that define three numbers in constants and returns <em>true</em> if at least one of them is odd. If none of them are, it needs to return <em>false</em>. <em><strong>Bonus:</strong> try to use only one if statement</em>.</li>
+  <li>Write a program with two values declared as constants: one for sale price and the other one for the cost of the product. The program needs to return how much profit the company would get if they sell a thousand of this product. Please consider the following pieces of information:</li>
+    <ul>
+    <li>Note that the cost of the product is subject to a 20% tax.</li>
+    <li>Your program needs to return an error message and end if one of the given values is lower than zero.</li>
+    </ul>
+  <li>In Brazil, the salary of a person who works with a formal contract is subject to INSS and IR taxes. Develop a program that return the net salary of a given gross salary. First, calculate base salary (gross salary - INSS tax), and then calculate the net salary (base salary - IR tax).
+    <ul>
+      <li>INSS tax rates:
+        <ul>
+          <li>Gross salary lower or equal to R$ 1.556,94: 8% tax</li>
+          <li>From R$ 1.556,95 to R$ 2.594,92: 9% tax</li>
+          <li>From R$ 2.594,93 to R$ 5.189,82: 11% tax</li>
+          <li>Above R$ 5.189,82: maximal tax of R$ 570,88</li>
+        </ul>
+      </li>
+      <li>IR tax rates:
+        <ul>
+          <li>Base salary lower or equal to R$ 1.903,98: no tax</li>
+          <li>Base salary from R$ 1.903,99 to R$ 2.826,65: 7,5% tax and R$ 142,80 to be deduced from the tax</li>
+          <li>Base salary from R$ 2.826,66 to R$ 3.751,05: 15% tax and R$ 354,80 to be deduced from the tax</li>
+          <li>Base salary from R$ 3.751,06 to R$ 4.664,68: 22,5% tax and R$ 636,13 to be deduced from the tax</li>
+          <li>Base salary above R$ 4.664,68: 27,5% tax and R$ 869,36 to be deduced from the tax</li>
+        </ul>
+    </ul>
+  </li>
 </ol>
