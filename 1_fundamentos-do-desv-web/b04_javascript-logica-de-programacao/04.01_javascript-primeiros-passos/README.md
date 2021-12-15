@@ -43,7 +43,7 @@ const patientEmail = 'ana@email.com';</pre>
   </li>
 </ol>
 <h3>Operadores lógicos</h3>
-<ul>
+<ol>
   <li>Operador AND</li>
     <ol>
       <li>Declarei uma constante com o nome <strong>currentHour</strong> que recebeu um valor de 4 a 24, representando horas do dia.</li>
@@ -55,11 +55,11 @@ const patientEmail = 'ana@email.com';</pre>
           <li>Se <strong>currentHour</strong> maior ou igual a 14, mas menor que 18, atualize o valor de <strong>message</strong> para <em>"Vamos fazer um bolo pro café da tarde?"</em>.</li>
           <li>Se <strong>currentHour</strong> estiver entre 11 e 14. atualize <strong>message</strong> para <em>"Hora do almoço!!!"</em>.</li>
           <li>Se <strong>currentHour</strong> estiver entre 4 e 11, mude o valor de <strong>message</strong> para <em>"Hmmm, cheiro de café recém passado"</em>.</li>
-        <ul>
+        </ul>
       </li>
       <li>Por fim, imprimi o valor atualizado de <strong>message</strong> no console.</li>
     </ol>
-</ul>
+</ol>
 
 
 <h2 id="en">:us: English</h2>
@@ -103,7 +103,7 @@ const patientEmail = 'ana@email.com';</pre>
   </li>
 </ol>
 <h3>Logic operators</h3>
-<ul>
+<ol>
   <li>The AND operator</li>
     <ol>
       <li>Declared a constant named <strong>currentHour</strong> which receives a number from 4 to 24, to represent the hours of the day.</li>
@@ -115,8 +115,8 @@ const patientEmail = 'ana@email.com';</pre>
           <li>If <strong>currentHour</strong> is later or equal to 14, but earlier than 18, change the value of <strong>message</strong> to <em>"Vamos fazer um bolo pro café da tarde?"</em> (<em>"Let's make a cake for the meal of the afternoon"</em>).</li>
           <li>If <strong>currentHour</strong> is between 11 and 14, change the value of <strong>message</strong> to <em>"Hora do almoço!!!"</em> (<em>"Lunch time"</em>).</li>
           <li>If <strong>currentHour</strong> is between 4 and 11, change the <strong>message</strong> value to <em>"Hmmm, cheiro de café recém passado"</em> (<em>"Mmmm, I smell fresh coffee"</em>).</li>
-        <ul>
+        </ul>
       </li>
       <li>Then I printed the variable <strong>message</strong> with the update value on the console.</li>
     </ol>
-</ul>
+</ol>
