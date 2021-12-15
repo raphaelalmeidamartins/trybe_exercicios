@@ -132,3 +132,11 @@ const moradorAtual = moradores.blocoDois.reverse()[0];
 
 console.log(`O morador do bloco 2 de nome ${moradorAtual.nome} ${moradorAtual.sobrenome} mora no ${moradorAtual.andar}º andar, apartamento ${moradorAtual.apartamento}`);
 
+// 5 - Utilize o for para imprimir o nome completo de todos os moradores do bloco 1, acessando suas chaves nome e sobrenome , depois faça o mesmo para os moradores do bloco 2. 
+
+for (const bloco in moradores) {
+  console.log(`${bloco}:`);
+  for (const morador of moradores[bloco]) {
+    console.log(`${morador.nome} ${morador.sobrenome}`)
+  }
+}
