@@ -124,7 +124,8 @@ const patientEmail = 'ana@email.com';</pre>
       <li>Declared a variable named <strong>weekDay</strong> which receives the value "quarta-feira".</li>
       <li>Used if/else statements, so:
         <ul>
-          <li>If <strong>weekDay</strong> is "segunda-feira"(Monday), "terça-feira"(Tuesday), "quarta-feira"(Wednesday), "quinta-feira"(Thursday) or "sexta-feira"(Friday), print: <q>"Oba, mais um dia de aprendizado na Trybe >:D"</q> (<em>"Yeah! Another day of study at Trybe!"</em>). </li>
+          <li>If <strong>weekDay</strong> is "segunda-feira"(Monday), "terça-feira"(Tuesday), "quarta-feira"(Wednesday), "quinta-feira"(Thursday) or "sexta-feira"(Friday), print: <em>"Oba, mais um dia de aprendizado na Trybe >:D"</em> (<em>"Yeah! Another day of study at Trybe!"</em>). </li>
+          <li>If <strong>weekDay</strong> is a weekend day, print: <em>"FINALMENTE, descanso merecido UwU"</em> (<em>"Finally, my well-deserved rest"</em>)</li>
         </ul>
       </li>
     </ol>
