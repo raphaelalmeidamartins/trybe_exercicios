@@ -175,3 +175,79 @@ let car = {
 </ol>
 <h3>Functions - Requirements</h3>
 <p>Refactor the final exercises of the day <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/atualizar-docs/15.12/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/04.01_javascript-primeiros-passos">04.01</a> in functions that receive parameters.</p>
+<h3>Final exercises Part I - Requirements</h3>
+<p>Use the object below to do the next exercises:</p>
+<blockquote>
+  <pre>
+let info = {
+  personagem: 'Margarida',
+  origem: 'Pato Donald',
+  nota: 'Namorada do personagem principal nos quadrinhos do Pato Donald',
+};</pre>
+</blockquote>
+<ol>
+  <li>Print on the console a welcome message to the character above. Expected output:
+    <blockquote>
+<pre>Bem-vinda, Margarida</pre>
+    </blockquote>
+  </li>
+  <li>Insert on the object a new property named <em>'recorrente'</em>(recurrent) with the value <em>'Sim'</em> (Yes). Then, print the object on the console. Expected output:
+      <blockquote>
+        <pre>
+{
+  personagem: 'Margarida',
+  origem: 'Pato Donald',
+  nota: 'Namorada do personagem principal nos quadrinhos do Pato Donald',
+  recorrente: 'Sim'
+}</pre>
+      </blockquote>
+  </li>
+  <li>Use <code>for/in</code> to print all the keys of the object on the console. Expected output:
+      <blockquote>
+        <pre>
+personagem
+origem
+nota
+recorrente</pre>
+      </blockquote>
+  </li>
+  <li>Now, declare a second object with the same structure of the first one, and with the following values: <em>'Tio Patinhas', 'Christmas on Bear Mountain, Dell's Four Color Comics #178', 'O último MacPatinhas', 'Sim'</em>. Then, print on the console the values of both objects together according to their respective keys. Expected output:  
+    <blockquote>
+      <pre>
+Margarida e Tio Patinhas
+Pato Donald e Christmas on Bear Mountain, Dell's Four Color Comics #178
+Namorada do personagem principal nos quadrinhos do Pato Donald e O último MacPatinhas
+Ambos recorrentes // Atenção para essa última linha!
+  </pre>
+    </blockquote>  
+  </li>
+  <p>Use the object below to do the next exercises:</p>
+    <blockquote>
+      <pre>
+let leitor = {
+  nome: 'Julia',
+  sobrenome: 'Pessoa',
+  idade: 21,
+  livrosFavoritos: [
+    {
+      titulo: 'O Pior Dia de Todos',
+      autor: 'Daniela Kopsch',
+      editora: 'Tordesilhas',
+    },
+  ],
+};</pre>
+    </blockquote>
+  <li>Access the keys <strong>nome</strong>, <strong>sobrenome</strong> e <strong>titulo</strong>, that are inside the key <strong>livrosFavoritos</strong>, and print a message on the console with the following template: <em>"O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'"</em> (<em>"Julia Pessoa's favorite book is called 'O Pior Dia de Todos"</em>).</li> 
+  <li>Add a new favorite book on the key <strong>livrosFavoritos</strong>, that is an array. Attribute to this key a new object with the following data:
+    <blockquote>
+      <pre>
+{
+  titulo: 'Harry Potter e o Prisioneiro de Azkaban',
+  autor: 'JK Rowling',
+  editor: 'Rocco',
+}</pre>
+    </blockquote>  
+  </li>
+  <li>Acess the keys <strong>nome</strong> and <strong>livrosFavoritos</strong> print a message on the console with the following template: <em>"Julia tem 2 livros favoritos"</em>(<em>"Julia has 2 favorite books"</em>).</li>  
+</ol>
+<br>
