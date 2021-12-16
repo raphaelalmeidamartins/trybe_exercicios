@@ -57,7 +57,7 @@ console.log(menuServices);
 <ol>
   <li>Ordene os valores do array em ordem crescente e imprima eles.</li>
   <li>Ordene os valores do array em ordem descrescente e imprima eles.</li>
-  <li>Agora crie um novo array a partir de <strong>numbers</strong>, sem alterá-lo. Cada valor do novo array deve ser igual ao valor equivalente no array <strong>numbers</strong> multiplicado pelo próximo. Caso não haja próximo, multiplique por 2. Utilize <code>for</code> e o método <code>push</code> method. Resultado esperado:</li>
+  <li>Agora crie um novo array a partir de <strong>numbers</strong>, sem alterá-lo. Cada valor do novo array deve ser igual ao valor equivalente no array <strong>numbers</strong> multiplicado pelo próximo. Caso não haja próximo, multiplique por 2. Utilize <code>for</code> e o método <code>push</code>. Resultado esperado:</li>
     <blockquote>
 <pre>[45, 27, 57, 1330, 560, 800, 200, 70, 945, 54]</pre>
     </blockquote>
