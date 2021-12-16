@@ -52,6 +52,16 @@ console.log(menuServices);
   <li>Com o <code>for</code>, crie um array que vá de 1 até 25 e imprima o resultado.</li>
   <li>Utilizando o array criado no exercício anterior imprima o resultado da divisão de cada um dos elementos por 2.</li>
 </ol>
+<h3>Bônus - Bubble Sort</h3>
+<p>Use o mesmo array <strong>numbers</strong> dos exercícios anteriores.</p>
+<ol>
+  <li>Ordene os valores do array em ordem crescente e imprima eles.</li>
+  <li>Ordene os valores do array em ordem descrescente e imprima eles.</li>
+  <li>Agora crie um novo array a partir de <strong>numbers</strong>, sem alterá-lo. Cada valor do novo array deve ser igual ao valor equivalente no array <strong>numbers</strong> multiplicado pelo próximo. Caso não haja próximo, multiplique por 2. Utilize <code>for</code> e o método <code>push</code> method. Resultado esperado:</li>
+    <blockquote>
+<pre>[45, 27, 57, 1330, 560, 800, 200, 70, 945, 54]</pre>
+    </blockquote>
+</ol>
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Array and For loop</h3>
@@ -102,4 +112,14 @@ console.log(menuServices);
   <li>By using <code>for</code>, find out what is the lowest value in the array and print it.</li>
   <li>With <code>for</code>, create an array that go from 1 to 25 and print the result.</li>
   <li>By using the array created in the previous exercise, print the result of the division of every single number in the array by 2.</li>
+</ol>
+<h3>Bonus - Bubble Sort</h3>
+<p>Use the same array <strong>numbers</strong> from the previous exercises.</p>
+<ol>
+  <li>Sort the values of the array in ascending order and print them.</li>
+  <li>Sort the values of the array in descending order and print them.</li>
+  <li>Now create a new array from the array <strong>numbers</strong>, without changing it. Each value of the new array should be the equivalent value in the array <strong>numbers</strong> multiplied by the next one. If there's no next value, the value should be multiplied by 2. Do this by using <code>for</code> and the <code>push</code> method. Expected result:</li>
+    <blockquote>
+<pre>[45, 27, 57, 1330, 560, 800, 200, 70, 945, 54]</pre>
+    </blockquote>
 </ol>
