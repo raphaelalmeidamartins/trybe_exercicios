@@ -1,7 +1,7 @@
 # Dia 3/Day 3
 <small>(for the English version, <a href="#en">click here</a>)</small>
 <h2>:brazil: Português</h2>
-<p>Hoje aprendemos sobre o sistema Unix, a sua história, como ele influenciou os sistemas operacionais modernos (Linux e MacOS), sua estrutura interna e seu sistema de arquivos. Também conhecemos o bash, que é uma interface (ou shell) de linhas de comando extremamente útil no processo de desenvolvimento de software. Depois, exercitamos os comandos unix no bash para criar, manipular e pesquisar aquivos e diretórios.</p>
+<p>Hoje aprendemos sobre o sistema Unix, a sua história, como ele influenciou os sistemas operacionais modernos (Linux e macOS), sua estrutura interna e seu sistema de arquivos. Também conhecemos o bash, que é uma interface (ou shell) de linhas de comando extremamente útil no processo de desenvolvimento de software. Depois, exercitamos os comandos unix no bash para criar, manipular e pesquisar aquivos e diretórios.</p>
 <h3>Parte I — Criação de arquivos e diretórios</h3>
 <ol>
   <li>Utilizei o comando <code>mkdir</code> para criar o diretório unix_tests e o comando <code>cd unix_tests/</code> para navegar até ele.
@@ -38,8 +38,8 @@ SQL</pre>
   <li>Novamente dentro do diretório unix_tests, baixei um arquivo de texto com uma lista de todos os países do mundo executando comando: <code>curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"</code>
   <li>Executei <code>cat countries.txt</code> para exibir o conteúdo do arquivo no próprio terminal.
   <li>Executei o comando <code>less countries.txt</code> para exibir o conteúdo do arquivo em páginas e fui avançando (pressionando a barra de espaço) até encontrar a Zambia.
-  <li>Rodei novamente <code>less countries.txt</code> mas agora pressionei <code>/Zambia</code> e dei enter para pesquisar o nome do país.
-  <li>Agora busquei pelo Brasil utlizando o comando <code>grep Brazil countries.txt</code>.
+  <li>Rodei novamente <code>less countries.txt</code>, mas agora pressionei <code>/Zambia</code> e dei enter para pesquisar o nome do país.
+  <li>Agora busquei pelo Brasil utilizando o comando <code>grep Brazil countries.txt</code>.
   <li>Realizei a mesma busca novamente, mas utilizando <code>grep -i brazil countries.txt</code> para buscar ignorando maiúsculas e minúsculas.
   <li>Crie um novo arquivo chamado phrases.txt e adicione algumas frases em inglês utilizando a linha de comando <code>cat > phrases.txt</code>.
   <li>Procurei pelas frases que não contém a palavra fox: <code>grep -v fox phrases.txt</code>.
@@ -52,11 +52,11 @@ SQL</pre>
   <li>Por último, acessei o manual do comando ls: <code>man ls</code>.
 </ol>
 <h2 id="en">:us: English</h2>
-<p>Today we learned about the Unix system, its history, how it influenced modern Operating Systems (such as Linux and MacOS), its internal structure and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we practiced some unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
+<p>Today we learned about the Unix system, its history, how it influenced modern Operating Systems (such as Linux and macOS), its internal structure and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we practiced some unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
 <h3>Part I — Creating files and directories</h3>
 <ol>
   <li>I ran <code>mkdir</code> to create the unix_tests directory and <code>cd unix_tests/</code> to navigate to it.
-  <li>Created a new text file named trybe.txt by running command <code>touch trybe.txt</code>.
+  <li>Created a new text file named trybe.txt by running the command <code>touch trybe.txt</code>.
   <li>Then, I created a copy of the file trybe.txt named trybe_backup.txt by using <code>cp trybe.txt trybe_backup.txt</code>.
   <li>Renamed the file trybe.txt to trybe_original.txt by using the command line <code>mv trybe.txt trybe_original</code>.
   <li>While inside the unix_tests directory, I created a new folder called backup with <code>mkdir backup/</code>.
@@ -96,7 +96,7 @@ SQL</pre>
   <li>Looked for the phrases that do not contain the word fox: <code>grep -v fox phrases.txt</code>.
   <li>Counted how many words there are in the file <code>wc -w phrases.txt</code>.
   <li>How many lines <code>wc -l phrases.txt</code>.
-  <li>Created two new files empty.tbt and empty.pdf running <code>touch empty.tbt empty.pdf</code>.
+  <li>Created two new files, empty.tbt and empty.pdf, by running <code>touch empty.tbt empty.pdf</code>.
   <li>Ran <code>ls -a</code> to list every single file inside unix_tests.
   <li>And <code>ls *txt</code> to list every file with the .txt extension.
   <li>Then I listed all the files having both the .tbt and .txt extensions by running <code>ls *.t*t</code>.
