@@ -26,17 +26,27 @@
 - [x] 03.02 — _HTML & CSS - Primeiros passos em CSS_
 - [x] 03.03 — _HTML & CSS - Seletores e posicionamento_
 - [x] 03.04 — _HTML Semântico_
-- [ ] 03.05 — _[Projeto - Lessons Learned]()_
+- [x] 03.05 — _[Projeto - Lessons Learned](https://github.com/raphaelalmeidamartins/project-lessons-learned)_
 
 #### [Bloco 04: Introdução - JavaScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/)
 - [x] 04.01 — _JavaScript - Primeiros passos_
-- [ ] 04.02 — _JavaScript - Array e loop For_
-- [ ] 04.03 — _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 04.04 — _JavaScript - Objetos e Funções_
-- [ ] 04.05 — _[Projeto - Playground Functions]()_
+- [x] 04.02 — _JavaScript - Array e loop For_
+- [x] 04.03 — _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 04.04 — _JavaScript - Objetos e Funções_
+- [x] 04.05 — _[Projeto - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions)_
+
+#### [Bloco 05: JavaScript - DOM, Eventos e Web Storage](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage)
+- [x] 05.01 — _JavaScript - DOM e seletores_
+- [x] 05.02 — _JavaScript - Trabalhando com elementos_
+- [x] 05.03 — _JavaScript - Eventos_
+- [x] 05.04 — _JavaScript - Web Storage_
+- [x] 05.05 — _[Projeto - Pixels Art]()_
+- [ ] 05.06 — _[Projeto - To-do List]()_
+- [ ] 05.07 — _[(Bônus) Projeto - Meme Generator]()_
+- [ ] 05.07 — _[(Bônus) Projeto - Color Guess]()_
+- [ ] 05.07 — _[(Bônus) Projeto - Mistery Letter]()_
 
 # [...]
-
 
 <h2 id="en">:us: English</h2>
 <p>Portfolio of exercises and activities performed by <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> during the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
@@ -62,13 +72,24 @@
 - [x] 03.02 — _HTML & CSS - First steps with CSS_
 - [x] 03.03 — _HTML & CSS - Selectors and positioning_
 - [x] 03.04 — _Semantic HTML_
-- [ ] 03.05 — _[Project - Lessons Learned]()_
+- [x] 03.05 — _[Project - Lessons Learned]()_
 
 #### [Unit 04: Introduction to JavaScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/)
 - [x] 04.01 — _JavaScript - First steps_
-- [ ] 04.02 — _JavaScript - Array and For loop_
-- [ ] 04.03 — _JavaScript - Programming Logic and Algorithms_
-- [ ] 04.04 — _JavaScript - Objects and Functions_
-- [ ] 04.05 — _[Project - Playground Functions]()_
+- [x] 04.02 — _JavaScript - Array and For loop_
+- [x] 04.03 — _JavaScript - Programming Logic and Algorithms_
+- [x] 04.04 — _JavaScript - Objects and Functions_
+- [x] 04.05 — _[Project - Playground Functions]()_
+
+#### [Unit 05: JavaScript - DOM, Events and Web Storage](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage)
+- [x] 05.01 — _JavaScript - DOM and selectors_
+- [x] 05.02 — _JavaScript - Working with elements_
+- [x] 05.03 — _JavaScript - Events_
+- [x] 05.04 — _JavaScript - Web Storage_
+- [x] 05.05 — _[Project - Pixels Art]()_
+- [ ] 05.06 — _[Project - To-do List]()_
+- [ ] 05.07 — _[(Bonus) Project - Meme Generator]()_
+- [ ] 05.07 — _[(Bonus) Project - Color Guess]()_
+- [ ] 05.07 — _[(Bonus) Project - Mistery Letter]()_
 
 # [...]
