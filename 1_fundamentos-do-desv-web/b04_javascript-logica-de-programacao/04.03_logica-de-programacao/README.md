@@ -29,11 +29,11 @@ O fatorial é representado pelo sinal !
       <pre>
 n = 5
 
-*****
-*****
-*****
-*****
-*****</pre>
+\*****
+\*****
+\*****
+\*****
+\*****</pre>
     </blockquote>
   </li>
   <li>Agora imprima um triângulo retângulo com <strong>n</strong> asteriscos de base. Por exemplo:
@@ -41,11 +41,11 @@ n = 5
       <pre>
 n = 5
 
-*
-**
-***
-****
-*****</pre>
+\*
+\**
+\***
+\****
+\*****</pre>
     </blockquote>
   </li>
   <li>Depois, faça uma pirâmide com <strong>n</strong> asteriscos de base:
@@ -53,9 +53,9 @@ n = 5
       <pre>
 n = 5
 
-  *
-  ***
-*****</pre>
+\  *
+\ ***
+\*****</pre>
     </blockquote>
   </li>
 </ol>
@@ -87,11 +87,11 @@ The factorial is represented by the character !
       <pre>
 n = 5
 
-*****
-*****
-*****
-*****
-*****</pre>
+\*****
+\*****
+\*****
+\*****
+\*****</pre>
     </blockquote>
   </li>
   <li>Now, print a rectangle triangle with <strong>n</strong> stars as its base. For example:
@@ -99,11 +99,11 @@ n = 5
       <pre>
 n = 5
 
-*
-**
-***
-****
-*****</pre>
+\*
+\**
+\***
+\****
+\*****</pre>
     </blockquote>
   </li>
   <li>Finally, print a pyramid with <strong>n</strong> stars as its base:
@@ -111,9 +111,9 @@ n = 5
       <pre>
 n = 5
 
-  *
- ***
-*****</pre>
+\  *
+\ ***
+\*****</pre>
     </blockquote>
   </li>
 </ol>
