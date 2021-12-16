@@ -48,6 +48,18 @@ n = 5
 \*****</pre>
     </blockquote>
   </li>
+    <li>Agora inverta o lado do triângulo:
+    <blockquote>
+      <pre>
+n = 5
+
+&#32;&#32;&#32;&#32;*
+&#32;&#32;&#32;**
+&#32;&#32;***
+&#32;****
+\*****</pre>
+    </blockquote>
+  </li>
   <li>Depois, faça uma pirâmide com <strong>n</strong> asteriscos de base:
     <blockquote>
       <pre>
@@ -103,6 +115,18 @@ n = 5
 \**
 \***
 \****
+\*****</pre>
+    </blockquote>
+  </li>
+  <li>Now invert the triangle:
+    <blockquote>
+      <pre>
+n = 5
+
+&#32;&#32;&#32;&#32;*
+&#32;&#32;&#32;**
+&#32;&#32;***
+&#32;****
 \*****</pre>
     </blockquote>
   </li>
