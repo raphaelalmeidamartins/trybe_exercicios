@@ -96,7 +96,7 @@ total 24
 </ol>
 
 <h2 id="en">:us: English</h2>
-<p>In today's class we learned more unix commands and we also learned about file permissions.</p>
+<p>In today's class we learned more unix commands, and we also learned about file permissions.</p>
 <h3>Part I — Input and Output commands</h3>
 <ol>
   <li>Navigated to the folder of the module 1 book 1 by running <code>cd 1_fundamentos-do-desv-web/b01_unix-e-shell</code> and I created a directory for today with <code>mkdir 01.04</code>.
@@ -153,7 +153,7 @@ total 24
       <pre>
 -rw-rw-rw- 1 raphael raphael 1964 nov 21 14:10 bunch_of_things.txt</pre>
     </blockquote>
-  <li>With the command <code>chmod a-w bunch_of_things.txt</code>, I removed the write permission of all users:
+  <li>With the command <code>chmod a-w bunch_of_things.txt</code>, I removed the permission to write of all users:
     <blockquote>
       <pre>
 -r--r--r-- 1 raphael raphael 1964 nov 21 14:10 bunch_of_things.txt</pre>
