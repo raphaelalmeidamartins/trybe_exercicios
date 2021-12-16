@@ -50,6 +50,82 @@ let car = {
 </ol>
 <h3>Funções - Requisitos</h3>
 <p>Refatore os exercícios finais do dia <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/atualizar-docs/15.12/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/04.01_javascript-primeiros-passos">04.01</a> em forma de funções que recebam parâmetros.</p>
+<h3>Exercícios finais Parte I - Requisitos</h3>
+<p>Usando o objeto abaixo, faça os exercícios a seguir:</p>
+<blockquote>
+  <pre>
+let info = {
+  personagem: 'Margarida',
+  origem: 'Pato Donald',
+  nota: 'Namorada do personagem principal nos quadrinhos do Pato Donald',
+};</pre>
+</blockquote>
+<ol>
+  <li>Imprima no console uma mensagem de boas-vindas para a personagem acima, incluindo seu nome. Valor esperado no console:
+    <blockquote>
+<pre>Bem-vinda, Margarida</pre>
+    </blockquote>
+  </li>
+  <li>Insira no objeto uma nova propriedade com o nome de chave <em>'recorrente'</em> e o valor <em>'Sim'</em> e, em seguida, imprima o objeto no console. Valor esperado no console:
+      <blockquote>
+        <pre>
+{
+  personagem: 'Margarida',
+  origem: 'Pato Donald',
+  nota: 'Namorada do personagem principal nos quadrinhos do Pato Donald',
+  recorrente: 'Sim'
+}</pre>
+      </blockquote>
+  </li>
+  <li>Faça um <code>for/in</code> que mostre todas as chaves do objeto. Valor esperado no console:
+      <blockquote>
+        <pre>
+personagem
+origem
+nota
+recorrente</pre>
+      </blockquote>
+  </li>
+  <li>Agora, defina um segundo objeto com a mesma estrutura (as mesmas chaves) do primeiro e os seguintes valores: <em>'Tio Patinhas', 'Christmas on Bear Mountain, Dell's Four Color Comics #178', 'O último MacPatinhas', 'Sim'</em>. Então, imprima os valores de cada objeto juntos de acordo com cada uma das chaves. Valor esperado no console:  
+    <blockquote>
+      <pre>
+Margarida e Tio Patinhas
+Pato Donald e Christmas on Bear Mountain, Dell's Four Color Comics #178
+Namorada do personagem principal nos quadrinhos do Pato Donald e O último MacPatinhas
+Ambos recorrentes // Atenção para essa última linha!
+  </pre>
+    </blockquote>  
+  </li>
+  <p>Usando o objeto abaixo, faça os exercícios a seguir:</p>
+    <blockquote>
+      <pre>
+let leitor = {
+  nome: 'Julia',
+  sobrenome: 'Pessoa',
+  idade: 21,
+  livrosFavoritos: [
+    {
+      titulo: 'O Pior Dia de Todos',
+      autor: 'Daniela Kopsch',
+      editora: 'Tordesilhas',
+    },
+  ],
+};</pre>
+    </blockquote>
+  Acesse as chaves <strong>nome</strong>, <strong>sobrenome</strong> e <strong>titulo</strong>, que está dentro da chave <strong>livrosFavoritos</strong>, e faça um <code>console.log</code> no seguinte formato: <em>"O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'".</em> 
+  <li>Adicione um novo livro favorito na chave <strong>livrosFavoritos</strong>, que é um array. Atribua a esta chave um objeto contendo as seguintes informações:
+    <blockquote>
+      <pre>
+{
+  titulo: 'Harry Potter e o Prisioneiro de Azkaban',
+  autor: 'JK Rowling',
+  editor: 'Rocco',
+}</pre>
+    </blockquote>  
+  </li>
+  <li>Acesse as chaves <strong>nome</strong> e <strong>livrosFavoritos</strong> e faça um <code>console.log</code> no seguinte formato: <em>"Julia tem 2 livros favoritos".</em></li>  
+</ol>
+<br>
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Objects and functions</h3>
