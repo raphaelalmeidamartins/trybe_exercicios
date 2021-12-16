@@ -93,7 +93,7 @@ console.log(menuServices);
 <pre>let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];</pre>
 </blockquote>
 <ol>
-  <li>Traverse the array priting all its values one by one with the<code>console.log()</code> function</li>
+  <li>Traverse the array priting all its values one by one with the<code>console.log()</code> function.</li>
   <li>Sum all the values in the array and print the result.</li>
   <li>Calculate and print the arithmetic average of all values in the array and print the result.</li>
   <li>Using the same code of the previous exercise, if the final value is higher than 20, print the message: <em>"valor maior que 20"</em> (<em>"Value is higher than 20"</em>). If it's not, print: <em>"valor menor ou igual a 20"</em> (<em>"Value is lower or equal to 20"</em>)</li>
