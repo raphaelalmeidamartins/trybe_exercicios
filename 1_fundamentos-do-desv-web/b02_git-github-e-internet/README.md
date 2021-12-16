@@ -7,5 +7,5 @@
 
 <h2 id="en">:us: English</h2>
 <p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of the <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned about the Distributed Version Control System (DVCS) Git and about the Github platform.</p>
-<p>Then we learned how to create and sincronize local and remote repositories by using the terminal.</p>
+<p>Then we learned how to create and synchronize local and remote repositories by using the terminal.</p>
 <p>Here you will find the exercises I developed to record the knowledge I acquired during the unit.</p>
