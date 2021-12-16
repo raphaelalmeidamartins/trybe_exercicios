@@ -25,6 +25,29 @@ let medals = { golden: 2, silver: 3 };</pre>
   <li>Acesse a chave <strong>bestInTheWorld</strong> e faça um <code>console.log</code> no seguinte formato: <em>"A jogadora Marta Silva foi eleita a melhor do mundo por 6 vezes".</em></li>
   <li>Acesse a chave <strong>medals</strong> e faça um <code>console.log</code> no seguinte formato: <em>"A jogadora possui 2 medalhas de ouro e 3 medalhas de prata".</em></li>
 </ol>
+<h3>For/in - Requisitos</h3>
+<ol>
+  <li>Usando o objeto abaixo, utilize <code>for/in</code> e imprima no console a mensagem <em>'Olá xxxxx'</em> para cada nome, substituindo o <em>xxxxx</em> pelo nome em questão.
+    <blackquote>
+      <pre>
+let names = {
+  person1: 'João',
+  person2: 'Maria',
+  person3: 'Jorge'
+};</pre>
+    </blackquote>
+  </li>
+  <li>Usando o objeto abaixo, utilize <code>for/in</code> e imprima um <code>console.log</code> com as chaves e valores desse objeto.
+    <blockquote>
+      <pre>
+let car = {
+  model: 'A3 Sedan',
+  manufacturer: 'Audi',
+  year: 2020
+};</pre>
+    </blockquote>
+  </li> 
+</ol>
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Objects and functions</h3>
@@ -48,4 +71,27 @@ let medals = { golden: 2, silver: 3 };</pre>
   </li>
   <li>Access the key <strong>bestInTheWorld</strong> and print a message on the console with the following template: <em>"A jogadora Marta Silva foi eleita a melhor do mundo por 6 vezes"</em> (<em>"The soccer player Marta Silva was considered the best in the World for 6 times"</em>).</li>
   <li>Access the key <strong>medals</strong> and print on the console a message with the following template: <em>"A jogadora possui 2 medalhas de ouro e 3 medalhas de prata"</em> (<em>"The soccer player has 2 gold medals and 3 silver medals"</em>).</li>
+</ol>
+<h3>For/in - Requirements</h3>
+<ol>
+  <li>With the object below, use <code>for/in</code> to print on the console the message <em>'Olá xxxxx'</em>(<em>'Hello xxxxx'</em>) for each name. Replace the <em>xxxxx</em> for every name.
+    <blackquote>
+      <pre>
+let names = {
+  person1: 'João',
+  person2: 'Maria',
+  person3: 'Jorge'
+};</pre>
+    </blackquote>
+  </li>
+  <li>With the object below, use <code>for/in</code> to print on the console the keys and the values of the object.
+    <blockquote>
+      <pre>
+let car = {
+  model: 'A3 Sedan',
+  manufacturer: 'Audi',
+  year: 2020
+};</pre>
+    </blockquote>
+  </li> 
 </ol>
