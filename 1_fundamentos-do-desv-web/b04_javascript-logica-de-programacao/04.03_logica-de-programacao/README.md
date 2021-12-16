@@ -118,7 +118,7 @@ n = 5
 \*****</pre>
     </blockquote>
   </li>
-  <li>Now invert the triangle:
+  <li>Now, invert the triangle:
     <blockquote>
       <pre>
 n = 5
