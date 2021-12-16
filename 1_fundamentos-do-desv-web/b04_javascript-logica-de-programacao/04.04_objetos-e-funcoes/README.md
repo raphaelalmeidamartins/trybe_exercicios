@@ -248,6 +248,6 @@ let leitor = {
 }</pre>
     </blockquote>  
   </li>
-  <li>Acess the keys <strong>nome</strong> and <strong>livrosFavoritos</strong> print a message on the console with the following template: <em>"Julia tem 2 livros favoritos"</em>(<em>"Julia has 2 favorite books"</em>).</li>  
+  <li>Access the keys <strong>nome</strong> and <strong>livrosFavoritos</strong> print a message on the console with the following template: <em>"Julia tem 2 livros favoritos"</em>(<em>"Julia has 2 favorite books"</em>).</li>  
 </ol>
 <br>
