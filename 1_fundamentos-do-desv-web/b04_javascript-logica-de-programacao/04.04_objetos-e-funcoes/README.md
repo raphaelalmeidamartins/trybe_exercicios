@@ -112,7 +112,7 @@ let leitor = {
   ],
 };</pre>
     </blockquote>
-  Acesse as chaves <strong>nome</strong>, <strong>sobrenome</strong> e <strong>titulo</strong>, que está dentro da chave <strong>livrosFavoritos</strong>, e faça um <code>console.log</code> no seguinte formato: <em>"O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'".</em> 
+  <li>Acesse as chaves <strong>nome</strong>, <strong>sobrenome</strong> e <strong>titulo</strong>, que está dentro da chave <strong>livrosFavoritos</strong>, e faça um <code>console.log</code> no seguinte formato: <em>"O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'".</em></li> 
   <li>Adicione um novo livro favorito na chave <strong>livrosFavoritos</strong>, que é um array. Atribua a esta chave um objeto contendo as seguintes informações:
     <blockquote>
       <pre>
