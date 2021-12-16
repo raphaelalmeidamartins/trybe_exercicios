@@ -14,7 +14,7 @@ O fatorial é representado pelo sinal !
 ! = 4 x 3 x 2 x 1 = 24</pre>
     </blockquote>
   <p>Com base nessas informações, crie um algoritmo que retorne o fatorial de 10.</p></li>
-  <li>Crie um algoritimo que seja capaz de inventer uma palavra recebida como uma string.</li>
+  <li>Crie um algorítimo que consiga inverter uma palavra recebida como uma string.</li>
   <li>Considere o array de strings abaixo:
     <blockquote>
 <pre>let array = ['java', 'javascript', 'python', 'html', 'css'];</pre>
@@ -77,7 +77,7 @@ n = 5
 <p>In today's class, we learned more about programming logic and how we can divide bigger problems and smaller ones when we are developing our algorithms.</p>
 <h3>Final exercises - Requirements</h3>
 <ol>
-  <li>The factorial isO fatorial is the multiplication of a natural number for its predecessors, except zero. For example:
+  <li>The factorial is the multiplication of a natural number for its predecessors, except zero. For example:
     <blockquote>
       <pre>
 The factorial is represented by the character !
@@ -89,7 +89,7 @@ The factorial is represented by the character !
     <blockquote>
 <pre>let array = ['java', 'javascript', 'python', 'html', 'css'];</pre>
     </blockquote>
-  <p>Develop two programs, one that returns the bigger word of the array and other that returns the smaller one. Consider the number of characters of every string.</p></li>
+  <p>Develop two programs, one that returns the bigger word of the array another that returns the smaller one. Consider the number of characters of every string.</p></li>
   <li>A prime number is divisible only by one and for itself. Knowing that, write a program that returns the highest prime number between 0 and 50.</li>
 </ol>
 <h3>Bonus - Requirements</h3>
