@@ -4,7 +4,7 @@
 
 <h2>:brazil: Português</h2>
 <h3>JavaScript - Primeiros passos</h3>
-<p>Na aula de hoje aprendemos sobre variáveis, tipos primitivos, tipagem dinâmica, operações aritiméticas, estruturas condicionais <code>if/else</code>, operadores lógicos e <code>switch/case</code>.</p>
+<p>Na aula de hoje aprendemos sobre variáveis, tipos primitivos, tipagem dinâmica, operações aritméticas, estruturas condicionais <code>if/else</code>, operadores lógicos e <code>switch/case</code>.</p>
 <h3>Variáveis</h3>
 <ol>
   <li>Criei uma constante chamada <strong>myName</strong> e atribuí a ela meu nome.</li>
@@ -14,7 +14,7 @@
   <li>Alterei o valor da variável <strong>birthYear</strong> para 2030 e a imprimi com o comando <code>console.log(birthYear)</code>.</li>
   <li>Tentei reatribuir o valor à constante <strong>birthCity</strong>, mas obtive uma mensagem de erro de que não é possível alterar valor de constantes.</li>
 </ol>
-<h3>Tipos primitivos, tipagem dinâmica e operações aritiméticas</h3>
+<h3>Tipos primitivos, tipagem dinâmica e operações aritméticas</h3>
 <ol>
   <li>Utilizei o operador <code>typeof</code> para imprimir no console os tipos das variáveis abaixo:
     <blockquote>
@@ -81,12 +81,12 @@ const patientEmail = 'ana@email.com';</pre>
 <h3>Switch/case</h3>
 <ol>
   <li>Declarei uma variável com o status de uma pessoa candidata em um processo seletivo com um dos seguintes valores: <em>"aprovado(a)"</em>, <em>"reprovado(a)"</em> ou <em>"lista"</em>(.</li>
-  <li>Usei uma estrutura <code>switch/case</code> para imprimir as mesmas mensagens do exercício anterior de <code>if/else</code> se o status do candidato for aprovado, reprovado ou lista de espera. Como default default, imprime a mensagem: <em>"não se aplica"</em>.</li>
+  <li>Usei uma estrutura <code>switch/case</code> para imprimir as mesmas mensagens do exercício anterior de <code>if/else</code> se o status do candidato for aprovado, reprovado ou lista de espera. Como default, imprime a mensagem: <em>"não se aplica"</em>.</li>
 </ol>
 
 <h3>Exercícios finais - Requisitos</h3>
 <ol>
-  <li>Desenvolva cinco programas, um para cada operação aritimética básica. Seu programa precisa ter duas constantes <strong>a</strong> e <strong>b</strong>, declaradas no início com os valores que serão operados:
+  <li>Desenvolva cinco programas, um para cada operação aritmética básica. Seu programa precisa ter duas constantes <strong>a</strong> e <strong>b</strong>, declaradas no início com os valores que serão operados:
     <ul>
       <li>Adição (<strong>a</strong> + <strong>b</strong>)</li>
       <li>Subtração (<strong>a</strong> - <strong>b</strong>)</li>
@@ -105,7 +105,7 @@ const patientEmail = 'ana@email.com';</pre>
     </ul>
   </li>
   <li>Escreva um programa que receba o nome de uma peça de xadrez e retorne os movimentos que esta peça consegue fazer. O programa precisa funcionar independentemente de o nome da peça ser em maísculo ou minúsculo, e precisa retornar uma mensagem de erro se não for uma peça válida.</li>
-  <li>Desenvolva um programa que converta uma nota dadaem porcentagem (de 0 a 100) para conceitos de A a F. Considere:
+  <li>Desenvolva um programa que converta uma nota dada em porcentagem (de 0 a 100) para conceitos de A a F. Considere:
     <ul>
       <li>Porcentagem >= 90 -> A</li>
       <li>Porcentagem >= 80 -> B</li>
@@ -123,17 +123,17 @@ const patientEmail = 'ana@email.com';</pre>
     <li>Sobre o custo do produto, incide um imposto de 20%.</li>
     <li>O programa precisa retornar uma mensagem de erro caso alguns dos valores fornecidos seja menor que zero.</li>
     </ul>
-  <li>No Brasil, do salário de uma pessoa que trabalha em regime CLT são descontados impostos INSS e IR. Desenvolva um programa que retorn o salário líquido de um salário bruto fornecido. Primeiro, calcule o salário base (salário bruto - INSS), e então calcule o salário líquido (salário base - IR).
+  <li>No Brasil, do salário de uma pessoa que trabalha em regime CLT são descontados impostos INSS e IR. Desenvolva um programa que retorne o salário líquido de um salário bruto fornecido. Primeiro, calcule o salário base (salário bruto - INSS), e então calcule o salário líquido (salário base - IR).
     <ul>
-      <li>INSS aliquotas:
+      <li>INSS alíquotas:
         <ul>
           <li>Salário bruto até R$ 1.556,94: 8%</li>
           <li>De R$ 1.556,95 a R$ 2.594,92: 9%</li>
           <li>De R$ 2.594,93 a R$ 5.189,82: 11%</li>
-          <li>Acima de R$ 5.189,82: aliquota máxima de R$ 570,88</li>
+          <li>Acima de R$ 5.189,82: alíquota máxima de R$ 570,88</li>
         </ul>
       </li>
-      <li>IR aliquotas:
+      <li>IR alíquotas:
         <ul>
           <li>Salário base até R$ 1.903,98: isento</li>
           <li>De R$ 1.903,99 a R$ 2.826,65: 7,5% e R$ 142,80 a ser deduzido do imposto</li>
@@ -151,7 +151,7 @@ const patientEmail = 'ana@email.com';</pre>
 <h3>Variables</h3>
 <ol>
   <li>Declared a constant named <strong>myName</strong> and attributed my name to it.</li>
-  <li>Declared another constant named <strong>birthCity</strong> and attributed my home town to it.</li>
+  <li>Declared another constant named <strong>birthCity</strong> and attributed my hometown to it.</li>
   <li>Declared a variable named <strong>birthYear</strong> with my birth year.</li>
   <li>Using the command <code>console.log()</code>, I printed on the console all the variables and constants I previously created.</li>
   <li>Changed the value of <strong>birthYear</strong> to 2030 and printed the variable on the console by using <code>console.log(birthYear)</code>.</li>
@@ -241,10 +241,10 @@ const patientEmail = 'ana@email.com';</pre>
   <li>Develop a program that returns the highest of two numbers.</li>
   <li>Develop a program that returns the highest of three numbers.</li>
   <li>Create a program that returns if a giving number is positive, negative or zero.</li>
-  <li>Declare three constants with the value of three angles. Develop a program that returns <em>true</em> if they are angles of a triangle or <em>false</em> if they are not.
+  <li>Declare three constants with the value of three angles. Develop a program that returns <em>true</em> if they are angles of a triangle, or <em>false</em> if they are not.
     <ul>
       <li>Hint: for the angles of a triangle to be valid, the sum of them needs to be 180 degrees</li>
-      <li>Also, a angle needs to be positive to be valid.</li>
+      <li>Also, an angle needs to be positive to be valid.</li>
     </ul>
   </li>
   <li>Write a program that receives a chess piece and returns the movements it is able to do. The program needs to work even if the name of the piece is lower case or upper case, and it needs to return an error message if the given piece is invalid.</li>
@@ -266,23 +266,23 @@ const patientEmail = 'ana@email.com';</pre>
     <li>Note that the cost of the product is subject to a 20% tax.</li>
     <li>Your program needs to return an error message and end if one of the given values is lower than zero.</li>
     </ul>
-  <li>In Brazil, the salary of a person who works with a formal contract is subject to INSS and IR taxes. Develop a program that return the net salary of a given gross salary. First, calculate base salary (gross salary - INSS tax), and then calculate the net salary (base salary - IR tax).
+  <li>In Brazil, the salary of a person who works with a formal contract is subject to INSS and IR taxes. Develop a program that return the net salary of a given gross salary. First, calculate the base salary (gross salary - INSS tax), and then calculate the net salary (base salary - IR tax).
     <ul>
       <li>INSS tax rates:
         <ul>
-          <li>Gross salary lower or equal to R$ 1.556,94: 8% tax</li>
-          <li>From R$ 1.556,95 to R$ 2.594,92: 9% tax</li>
-          <li>From R$ 2.594,93 to R$ 5.189,82: 11% tax</li>
-          <li>Above R$ 5.189,82: maximal tax of R$ 570,88</li>
+          <li>Gross salary lower or equal to R$ 1,556.94: 8% tax</li>
+          <li>From R$ 1,556.95 to R$ 2,594.92: 9% tax</li>
+          <li>From R$ 2,594.93 to R$ 5,189.82: 11% tax</li>
+          <li>Above R$ 5,189.82: maximal tax of R$ 570.88</li>
         </ul>
       </li>
       <li>IR tax rates:
         <ul>
-          <li>Base salary lower or equal to R$ 1.903,98: no tax</li>
-          <li>Base salary from R$ 1.903,99 to R$ 2.826,65: 7,5% tax and R$ 142,80 to be deduced from the tax</li>
-          <li>Base salary from R$ 2.826,66 to R$ 3.751,05: 15% tax and R$ 354,80 to be deduced from the tax</li>
-          <li>Base salary from R$ 3.751,06 to R$ 4.664,68: 22,5% tax and R$ 636,13 to be deduced from the tax</li>
-          <li>Base salary above R$ 4.664,68: 27,5% tax and R$ 869,36 to be deduced from the tax</li>
+          <li>Base salary lower or equal to R$ 1,903.98: no tax</li>
+          <li>Base salary from R$ 1,903.99 to R$ 2,826.65: 7,5% tax and R$ 142.80 to be deduced from the tax</li>
+          <li>Base salary from R$ 2,826.66 to R$ 3,751.05: 15% tax and R$ 354.80 to be deduced from the tax</li>
+          <li>Base salary from R$ 3,751.06 to R$ 4,664.68: 22,5% tax and R$ 636.13 to be deduced from the tax</li>
+          <li>Base salary above R$ 4,664.68: 27,5% tax and R$ 869.36 to be deduced from the tax</li>
         </ul>
     </ul>
   </li>
