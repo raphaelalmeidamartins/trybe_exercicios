@@ -33,7 +33,7 @@
 - [x] 04.02 — _JavaScript - Array e loop For_
 - [x] 04.03 — _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 04.04 — _JavaScript - Objetos e Funções_
-- [x] 04.05 — _[Projeto - Playground Functions]()_
+- [x] 04.05 — _[Projeto - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions)_
 
 #### [Bloco 05: JavaScript - DOM, Eventos e Web Storage](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage)
 - [x] 05.01 — _JavaScript - DOM e seletores_
