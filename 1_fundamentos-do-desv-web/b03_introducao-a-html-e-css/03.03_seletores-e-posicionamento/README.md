@@ -33,7 +33,7 @@
   <li>No 'style.css', adicione a propriedade 'list-style: none' para ambas as listas. 
 </ol>
 <h3>Agrupamento de Seletores e Pseudo-classes Parte II - Requisitos</h3>
-<p>Para o próximo exercício, você não deve atribuir nenhuma classe ou id aos componentes, apenas utilize pseudo-classes. Preencha os requisitos a seguir utilizando os arquivo index.html e style.css fornecidos.</p>
+<p>Para o próximo exercício, você não deve atribuir nenhuma classe ou id aos componentes, apenas utilize pseudo-classes. Preencha os requisitos a seguir utilizando os arquivos index.html e style.css fornecidos.</p>
 <ol>
   <li>Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda. 
   <li>Faça cada div ter uma cor própria. 
@@ -53,7 +53,7 @@
 
 <h2 id="en">:us: English</h2>
 <h3>HTML & CSS - Selectors and positioning</h3>
-<p>In today's class, we learned how to use the box model, positioning od elements, grouping selectors, pseudo-classes, combinations and descendant classes. We also used this knowledge to update <a href="https://raphaelalmeidamartins.github.io/" rel="next">our Web portfolio</a>.</p>
+<p>In today's class, we learned how to use the box model, positioning elements, grouping selectors, pseudo-classes, combinations and descendant classes. We also used this knowledge to update <a href="https://raphaelalmeidamartins.github.io/" rel="next">our Web portfolio</a>.</p>
 <h3>Box model - Requirements</h3>
 <p>Meet the requirements below using the index.html and style.css files provided:</p>
 <ol>
