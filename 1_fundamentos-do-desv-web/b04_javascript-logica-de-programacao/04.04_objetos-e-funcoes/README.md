@@ -48,6 +48,8 @@ let car = {
     </blockquote>
   </li> 
 </ol>
+<h3>Funções - Requisitos</h3>
+<p>Refatore os exercícios finais do dia <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/atualizar-docs/15.12/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/04.01_javascript-primeiros-passos">04.01</a> em forma de funções que recebam parâmetros.</p>
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Objects and functions</h3>
@@ -95,3 +97,5 @@ let car = {
     </blockquote>
   </li> 
 </ol>
+<h3>Functions - Requirements</h3>
+<p>Refactor the exercises of the day <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/atualizar-docs/15.12/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/04.01_javascript-primeiros-passos">04.01</a> in functions that receive parameters.</p>
