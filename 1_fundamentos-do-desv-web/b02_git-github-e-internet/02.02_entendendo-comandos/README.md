@@ -1,7 +1,7 @@
 # Dia 2/Day 2
 <small>(for the English version, <a href="#en">click here</a>)</small>
 <h2>:brazil: Português</h2>
-<h3>Git & Github - Entendendo os comandos</h3>
+<h3>Git & GitHub - Entendendo os comandos</h3>
 Na aula de hoje aprendemos como clonar um repositório e mais comandos para trabalhar com nossos repositórios Git locais e remotos através do terminal.
 <h3>Exercícios</h3>
   <ol>
@@ -18,7 +18,7 @@ CSS</pre>
     <li>Adicionei o arquivo para o stage com <code>git add trybe.skills.txt</code>.
     <li>Commitei com <code>git commit -m "Adicionei duas novas skills"</code> descrevendo a alteração.
     <li>Executei <code>git push -u origin trybe-skills-changes</code> para enviar a nova branch e submeter os commits no repositório remoto.
-    <li>Na página do repositório no Github, criei um Pull Request com uma descrição detalhada.
+    <li>Na página do repositório no GitHub, criei um Pull Request com uma descrição detalhada.
     <li>Retornei par a branch principal com <code>git checkout master</code>.
     <li>Criei uma nova branch a partir da master chamada trybe-skills-updates e alternei para ela com o comando <code>git checkout -b trybe-skills-updates</code>.
     <li>Novamente utilizando o comando <code>cat >> trybe.skills.txt</code> adicionei uma habilidade que aprenderei nos próximos módulos:
@@ -27,7 +27,7 @@ CSS</pre>
         </blockquote>
     <li>Commitei as alterações com <code>git add trybe-skills.txt</code> e <code>git commit -m "Adicionei habilidade que ainda aprenderei"</code>
     <li>E enviei as alterações para o repositório remoto com <code>git push -u origin trybe-skills-updates</code>.
-    <li>Entrei no repositório remoto pelo site do Github e abri uma Pull Request para a branch trybe-skills-updates com uma descrição.
+    <li>Entrei no repositório remoto pelo site do GitHub e abri uma Pull Request para a branch trybe-skills-updates com uma descrição.
     <li>Mesclei a branch trybe-skills-changes com a master através da Pull Request que havia aberto no passo 9.
     <li>Depois tentei mesclar a branch trybe-skills-updates com a master também. Não foi possível fazer a mesclagem automática devido a conflito.
     <li>Cliquei no botão <strong>Resolve conflicts</strong> e resolvi o conflito manualmente.
@@ -35,7 +35,7 @@ CSS</pre>
   </ol>
 
 <h2 id="en">:us: English</h2>
-<h3>Git & Github - Understading the commands</h3>
+<h3>Git & GitHub - Understanding the commands</h3>
 In today's class, we learned how to clone a repository and more commands to work with our local and remote Git repositories through the terminal.
 <h3>Exercises</h3>
   <ol>
@@ -52,16 +52,16 @@ CSS</pre>
     <li>Added the file to the stage by running <code>git add trybe.skills.txt</code>.
     <li>Commited by running <code>git commit -m "Adicionei duas novas skills"</code> descrevendo a alteração.
     <li>Ran <code>git push -u origin trybe-skills-changes</code> to send the new branch and to submit the commits to the remote repository.
-    <li>Entered the repository page on Github, and created a Pull Request with a detailed description.
+    <li>Entered the repository page on GitHub, and created a Pull Request with a detailed description.
     <li>Checkout to the master branch by running <code>git checkout master</code>.
     <li>Created a new branch from the master named trybe-skills-updates and checked out to it by using the command <code>git checkout -b trybe-skills-updates</code>.
-    <li>Running <code>cat >> trybe.skills.txt</code> again, I added a skills that I am skill going to learn:
+    <li>Running <code>cat >> trybe.skills.txt</code> again, I added a skill that I am still going to learn:
       <blockquote>
 <pre>Python</pre>
       </blockquote>
     <li>Commited the changes by running <code>git add trybe-skills.txt</code> and <code>git commit -m "Adicionei habilidade que ainda aprenderei"</code>
     <li>Pushed the commits to the remote repository: <code>git push -u origin trybe-skills-updates</code>.
-    <li>Entered the reposity page on Github again, and created Pull Request for the trybe-skills-updates with a description.
+    <li>Entered the repository page on GitHub again, and created Pull Request for the trybe-skills-updates with a description.
     <li>Merged the trybe-skills-changes branch with the master through the Pull Request that I opened in the step 9.
     <li>Then I tried to merge the trybe-skills-updates branch with the master too. It wasn't possible due to conflits.
     <li>Clicked in <strong>Resolve conflicts</strong> and solved the conflicts manually.
