@@ -31,7 +31,7 @@ let medals = { golden: 2, silver: 3 };</pre>
 <p>In today's class, we learned how to use objects, how to use for/in and how to create and use functions.</p>
 <h3>Objects - Requirements</h3>
 <ol>
-  <li>Create and object <strong>player</strong> containing the variables below:
+  <li>Create an object <strong>player</strong> containing the variables below:
     <blockquote>
       <pre>
 let name = 'Marta';
