@@ -5,7 +5,7 @@
 <p>Por fim, vimos como criar e excluir cookies, e adicionar dados no local storage e no session storage.</p>
 <p>Aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri no decorrer do bloco. Além disso, você também pode conferir os projetos que desenvolvi ao final:</p>
 
-- _[Projeto - Pixels Art]()_
+- _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - _[Projeto - To-do List]()_
 - _[(Bônus) Projeto - Meme Generator]()_
 - _[(Bônus) Projeto - Color Guess]()_
@@ -16,7 +16,7 @@
 <p>Finally, we saw how we can create and delete cookies, and how to store data in the local or session storage.</p>
 <p>Here you will find the exercises I developed to record the knowledge I acquired during the unit. You can also check out the projects I developed in the end:</p>
 
-- _[Project - Pixels Art]()_
+- _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - _[Project - To-do List]()_
 - _[(Bonus) Project - Meme Generator]()_
 - _[(Bonus) Project - Color Guess]()_

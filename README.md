@@ -40,7 +40,7 @@
 - [x] 05.02 — _JavaScript - Trabalhando com elementos_
 - [x] 05.03 — _JavaScript - Eventos_
 - [x] 05.04 — _JavaScript - Web Storage_
-- [x] 05.05 — _[Projeto - Pixels Art]()_
+- [x] 05.05 — _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - [ ] 05.06 — _[Projeto - To-do List]()_
 - [ ] 05.07 — _[(Bônus) Projeto - Meme Generator]()_
 - [ ] 05.07 — _[(Bônus) Projeto - Color Guess]()_
@@ -86,7 +86,7 @@
 - [x] 05.02 — _JavaScript - Working with elements_
 - [x] 05.03 — _JavaScript - Events_
 - [x] 05.04 — _JavaScript - Web Storage_
-- [x] 05.05 — _[Project - Pixels Art]()_
+- [x] 05.05 — _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - [ ] 05.06 — _[Project - To-do List]()_
 - [ ] 05.07 — _[(Bonus) Project - Meme Generator]()_
 - [ ] 05.07 — _[(Bonus) Project - Color Guess]()_
