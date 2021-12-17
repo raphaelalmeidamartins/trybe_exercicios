@@ -134,7 +134,73 @@ let leitor = {
   <li>Crie uma função que receba um array de inteiros e retorne o inteiro que mais se repete.</li>
   <li>Crie uma função que receba um número natural <strong>N</strong> e retorne o somatório de todos os números de 0 até <strong>N</strong>.</li>
   <li>Crie uma função que receba uma string <code>word</code> e outra string <code>ending</code>. Verifique se a string <code>ending</code> é o final da string <code>word</code>. Considere que a string <code>ending</code> sempre será menor que a string <code>word</code>.</li>
-</ol> 
+</ol>
+<h3>Bônus</h3>
+<ol>
+  <li>(Difícil) Faça um programa que receba uma string em algarismos romanos e retorne o número que a string representa.</li>
+  <li>Crie uma função chamada <strong>arrayOfNumbers</strong> que receberá a variável <strong>vector</strong> como parâmetro. Através de um loop <code>for</code>, percorra essa variável, busque os números pares e os adicione a um novo array que deverá ser retornado ao final pela pela função.</li>
+  <li>A partir do array de frutas <strong>basket</strong>, retorne um objeto que contenha o nome da fruta como chave e a quantidade de vezes que ela aparece no array como valor. Por exemplo, o array <code>['Melancia', 'Abacate', 'Melancia', 'Melancia', 'Uva']</code>, deverá retornar <code>{ Melancia: 3, Abacate: 1, Uva: 1 }</code> quando passado como argumento para a função.
+    <blockquote>
+      <pre>
+const basket = [
+  'Melancia', 'Abacate', 'Melancia', 'Melancia', 'Uva', 'Laranja',
+  'Jaca', 'Pera', 'Melancia', 'Uva', 'Laranja', 'Melancia',
+  'Banana', 'Uva', 'Pera', 'Abacate', 'Laranja', 'Abacate',
+  'Banana', 'Melancia', 'Laranja', 'Laranja', 'Jaca', 'Uva',
+  'Banana', 'Uva', 'Laranja', 'Pera', 'Melancia', 'Uva',
+  'Jaca', 'Banana', 'Pera', 'Abacate', 'Melancia', 'Melancia',
+  'Laranja', 'Pera', 'Banana', 'Jaca', 'Laranja', 'Melancia',
+  'Abacate', 'Abacate', 'Pera', 'Melancia', 'Banana', 'Banana',
+  'Abacate', 'Uva', 'Laranja', 'Banana', 'Abacate', 'Uva',
+  'Uva', 'Abacate', 'Abacate', 'Melancia', 'Uva', 'Jaca',
+  'Uva', 'Banana', 'Abacate', 'Banana', 'Uva', 'Banana',
+  'Laranja', 'Laranja', 'Jaca', 'Jaca', 'Abacate', 'Jaca',
+  'Laranja', 'Melancia', 'Pera', 'Jaca', 'Melancia', 'Uva',
+  'Abacate', 'Jaca', 'Jaca', 'Abacate', 'Uva', 'Laranja',
+  'Pera', 'Melancia', 'Jaca', 'Pera', 'Laranja', 'Jaca',
+  'Pera', 'Melancia', 'Jaca', 'Banana', 'Laranja', 'Jaca',
+  'Banana', 'Pera', 'Abacate', 'Uva',
+];</pre>
+    </blockquote>
+  <p>Em seguida, imprima esse resultado na tela com uma mensagem no seguinte formato: <em>"Sua cesta possui: x Melancias, x Abacates..."</em></p>
+  </li>
+  <p>Usando o objeto abaixo, faça os exercícios a seguir:</p>
+  <blockquote>
+    <pre>
+let moradores = {
+blocoUm: [
+  {
+    nome: 'Luiza',
+    sobrenome: 'Guimarães',
+    andar: 10,
+    apartamento: 1005,
+  },
+  {
+    nome: 'William',
+    sobrenome: 'Albuquerque',
+    andar: 5,
+    apartamento: 502,
+  },
+],
+blocoDois: [
+  {
+    nome: 'Murilo',
+    sobrenome: 'Ferraz',
+    andar: 8,
+    apartamento: 804,
+  },
+  {
+    nome: 'Zoey',
+    sobrenome: 'Brooks',
+    andar: 1,
+    apartamento: 101,
+  },
+],
+};</pre>
+  </blockquote>
+  <li>Acesse as chaves <strong>nome</strong>, <strong>sobrenome</strong>, <strong>andar</strong> e <strong>apartamento</strong> do último morador do <strong>blocoDois</strong> e faça um <code>console.log</code> no seguinte formato: <em>"O morador do bloco 2 de nome Zoey Brooks mora no 1° andar, apartamento 101"</em>.</li>
+  <li>Utilize o <code>for</code> para imprimir o nome completo de todos os moradores do bloco 1, acessando suas chaves <strong>nome</strong> e <strong>sobrenome</strong>, depois faça o mesmo para os moradores do bloco 2.</li>
+</ol>
 <br>
 
 <h2 id="en">:us: English</h2>
@@ -269,4 +335,70 @@ let leitor = {
   <li>Create a function that receives an array of integers and returns the number that repeats the most.</li>
   <li>Write a function that receives a natural number <strong>N</strong> and returns the sum of all the numbers from 0 to <strong>N</strong>.</li>
   <li>Create a function that receives two strings: <code>word</code> and <code>ending</code>. It needs to verify if the <code>ending</code> string is the ending of the string <code>word</code>. The string <code>ending</code> is always shorter than <code>word</code>.</li>
+</ol>
+<h3>Bônus</h3>
+<ol>
+  <li>(Hard) Develop a program that receives a string with Roman numerals and return the number the string represents.</li>
+  <li>Develop a function named <strong>arrayOfNumbers</strong> that receives a variable <strong>vector</strong> as parameter. By using a <code>for</code> loop, traverse the variable searching for even numbers, and add them to a new array. The function needs to return this new array.</li>
+  <li>From the array <strong>basket</strong>, return an object that contains the names of the fruits as keys and how many times they repeat in the array as values. For example, if the array is <code>['Melancia', 'Abacate', 'Melancia', 'Melancia', 'Uva']</code>, the function should return <code>{ Melancia: 3, Abacate: 1, Uva: 1 }</code>.
+    <blockquote>
+      <pre>
+const basket = [
+  'Melancia', 'Abacate', 'Melancia', 'Melancia', 'Uva', 'Laranja',
+  'Jaca', 'Pera', 'Melancia', 'Uva', 'Laranja', 'Melancia',
+  'Banana', 'Uva', 'Pera', 'Abacate', 'Laranja', 'Abacate',
+  'Banana', 'Melancia', 'Laranja', 'Laranja', 'Jaca', 'Uva',
+  'Banana', 'Uva', 'Laranja', 'Pera', 'Melancia', 'Uva',
+  'Jaca', 'Banana', 'Pera', 'Abacate', 'Melancia', 'Melancia',
+  'Laranja', 'Pera', 'Banana', 'Jaca', 'Laranja', 'Melancia',
+  'Abacate', 'Abacate', 'Pera', 'Melancia', 'Banana', 'Banana',
+  'Abacate', 'Uva', 'Laranja', 'Banana', 'Abacate', 'Uva',
+  'Uva', 'Abacate', 'Abacate', 'Melancia', 'Uva', 'Jaca',
+  'Uva', 'Banana', 'Abacate', 'Banana', 'Uva', 'Banana',
+  'Laranja', 'Laranja', 'Jaca', 'Jaca', 'Abacate', 'Jaca',
+  'Laranja', 'Melancia', 'Pera', 'Jaca', 'Melancia', 'Uva',
+  'Abacate', 'Jaca', 'Jaca', 'Abacate', 'Uva', 'Laranja',
+  'Pera', 'Melancia', 'Jaca', 'Pera', 'Laranja', 'Jaca',
+  'Pera', 'Melancia', 'Jaca', 'Banana', 'Laranja', 'Jaca',
+  'Banana', 'Pera', 'Abacate', 'Uva',
+];</pre>
+    </blockquote>
+  <p>Then, print the result on the console as a message with the following template: <em>"Sua cesta possui: x Melancias, x Abacates..."</em> (<em>"Fruits in your basket: x Watermelons, x Avocados..."</em>)</p>
+  </li>
+  <p>Use the object below to do the next exercises:</p>
+  <blockquote>
+    <pre>
+let moradores = {
+blocoUm: [
+  {
+    nome: 'Luiza',
+    sobrenome: 'Guimarães',
+    andar: 10,
+    apartamento: 1005,
+  },
+  {
+    nome: 'William',
+    sobrenome: 'Albuquerque',
+    andar: 5,
+    apartamento: 502,
+  },
+],
+blocoDois: [
+  {
+    nome: 'Murilo',
+    sobrenome: 'Ferraz',
+    andar: 8,
+    apartamento: 804,
+  },
+  {
+    nome: 'Zoey',
+    sobrenome: 'Brooks',
+    andar: 1,
+    apartamento: 101,
+  },
+],
+};</pre>
+  </blockquote>
+  <li>Access the keys <strong>nome</strong>, <strong>sobrenome</strong>, <strong>andar</strong> and <strong>apartamento</strong> of the last resident of the <strong>blocoDois</strong> and print on the console a message with the following template: <em>"O morador do bloco 2 de nome Zoey Brooks mora no 1° andar, apartamento 101"</em> (<em>"The resident of the block 2 named Zoey Brooks lives in the 1st floor, apartment number 101"</em>).</li>
+  <li>Use <code>for</code> to print the full name of all residents of the first block, accessing the keys <strong>nome</strong> and <strong>sobrenome</strong>. Then, do the same for the residents of the second block.</li>
 </ol>
