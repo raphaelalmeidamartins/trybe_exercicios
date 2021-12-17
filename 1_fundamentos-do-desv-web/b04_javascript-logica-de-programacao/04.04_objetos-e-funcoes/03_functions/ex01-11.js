@@ -127,13 +127,13 @@ function algumImpar(a, b, c) {
 
 // ex10
 function qualLucro(valorVenda, valorCusto) {
-  let impostoSobreOCusto = 400 * 0.20;
+  let impostoSobreOCusto = valorCusto * 0.20;
   let valorCustoTotal = valorCusto + impostoSobreOCusto;
   let lucro = valorVenda - valorCustoTotal;
   if (valorCusto < 0 || valorCusto < 0 ) {
       return "ERRO: valores inválidos. Os valores de custo e venda precisam ser maiores que 0.";
   }
-  return lucro;
+  return lucro * 1000;
 }
 
 // ex11
