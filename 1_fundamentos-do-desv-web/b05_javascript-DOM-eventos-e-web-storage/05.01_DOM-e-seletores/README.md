@@ -67,7 +67,7 @@
 <h3>Final exercises - Requirements</h3>
 <p>With the provided html file, change the elements of the page by only using the functions <code>document.getElementById()</code>, <code>document.getElementsByClassName()</code> and <code>document.getElementsByTagName()</code>:</p>
 <ol>
-  <li>Create a function that changes the inner text of the tag &lt;p&gt; to how you see yourself 2 years in the future. (Do not spend too much time thinkg about the text, focus on the exercise)</li>
+  <li>Create a function that changes the inner text of the tag &lt;p&gt; to how you see yourself 2 years in the future. (Do not spend too much time thinking about the text, focus on the exercise)</li>
   <li>Create a function that changes the color of the yellow square to Trybe green (rgb(76,164,109)).</li>
   <li>Write a function that changes the color of the red square to white.</li>
   <li>Write a function that corrects the inner text of the tag &lt;h1&gt;.</li>
