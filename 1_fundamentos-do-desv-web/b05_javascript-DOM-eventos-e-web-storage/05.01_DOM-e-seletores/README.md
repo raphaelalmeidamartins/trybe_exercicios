@@ -24,7 +24,7 @@
       <li>Recupere o subtítulo e altere a cor dele usando a função <code>getElementsByTagName</code>.</li>
     </ol>
   </li>
-  <li>Utilizando os arquivos html e css fornecidos, crie um novo arquivo js e altere as propriedades dos elementos com JavaScript para que o visual final da página fique<a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">assim</a>.
+  <li>Utilizando os arquivos html e css fornecidos, crie um novo arquivo js e altere as propriedades dos elementos com JavaScript para que o visual final da página fique <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">assim</a>.
   </li>
 </ol>
 <br>
@@ -51,6 +51,6 @@
       <li>Get the subtitle and change its color with the function <code>getElementsByTagName</code>.</li>
     </ol>
   </li>
-  <li>Using the provided html and css files, create a new js file and change the properties of the elements by using JavaScript so the page looks like <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">this image</a>.
+  <li>Using the provided html and css files, create a new js file and change the properties of the elements by using JavaScript, so the page looks like <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">this image</a>.
   </li>
 </ol>
