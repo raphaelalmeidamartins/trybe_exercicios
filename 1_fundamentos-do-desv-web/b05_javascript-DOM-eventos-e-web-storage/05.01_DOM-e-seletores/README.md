@@ -5,7 +5,7 @@
 <h2>:brazil: Português</h2>
 <h3>JavaScript - DOM e seletores</h3>
 <p>Na aula de hoje, aprendemos a selecionar e manipular elementos do DOM (Document Object Model) com JavaScript.</p>
-<h3>Selecionando elementos</h3>
+<h3>Selecionando elementos - Requisitos</h3>
 <ol>
   <li>
     <p>Utilizando o arquivo html fornecido:</p>
@@ -27,12 +27,22 @@
   <li>Utilizando os arquivos html e css fornecidos, crie um novo arquivo js e altere as propriedades dos elementos com JavaScript para que o visual final da página fique <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">assim</a>.
   </li>
 </ol>
+<h3>Exercícios finais - Requisitos</h3>
+<p>Com o arquivo html fornecido e modifique os elementos utilizando apenas as funções <code>document.getElementById()</code>, <code>document.getElementsByClassName()</code> e <code>document.getElementsByTagName()</code>:</p>
+<ol>
+  <li>Crie uma função que mude o texto na tag &lt;p&gt; para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício)</li>
+  <li>Crie uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).</li>
+  <li>Crie uma função que mude a cor do quadrado vermelho para branco.</li>
+  <li>Crie uma função que corrija o texto da tag &lt;h1&gt;.</li>
+  <li>Crie uma função que modifique todo o texto da tag &lt;p&gt; para maiúsculo.</li>
+  <li>Crie uma função que exiba o conteúdo de todas as tags &lt;p&gt; no console.</li>
+</ol>
 <br>
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - DOM and selectors</h3>
 <p>In today's class, we learned how to select and manipulate elements of the DOM (Document Object Model) with JavaScript.</p>
-<h3>Selecting elements</h3>
+<h3>Selecting elements - Requirements</h3>
 <ol>
   <li>
     <p>By using the provided html file:</p>
@@ -53,4 +63,14 @@
   </li>
   <li>Using the provided html and css files, create a new js file and change the properties of the elements by using JavaScript, so the page looks like <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">this image</a>.
   </li>
+</ol>
+<h3>Final exercises - Requirements</h3>
+<p>With the provided html file, change the elements of the page by only using the functions <code>document.getElementById()</code>, <code>document.getElementsByClassName()</code> and <code>document.getElementsByTagName()</code>:</p>
+<ol>
+  <li>Create a function that changes the inner text of the tag &lt;p&gt; to how you see yourself 2 years in the future. (Do not spend too much time thinkg about the text, focus on the exercise)</li>
+  <li>Create a function that changes the color of the yellow square to Trybe green (rgb(76,164,109)).</li>
+  <li>Write a function that changes the color of the red square to white.</li>
+  <li>Write a function that corrects the inner text of the tag &lt;h1&gt;.</li>
+  <li>Create a function that changes all the inner text of the tag &lt;p&gt; to upper case.</li>
+  <li>Create a function that print the inner content of all &lt;p&gt; tags on the console.</li>
 </ol>
