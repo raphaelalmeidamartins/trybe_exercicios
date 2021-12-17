@@ -18,7 +18,7 @@
   <li>Agora acesse o <code>terceiroFilho</code> a partir de <code>pai</code>.</li>
 </ol>
 <h3>Criando elementos - Requisitos</h3>
-<p>Utilize o mesmo arquivo fonecido para o exercício anterior.</p>
+<p>Utilize o mesmo arquivo fornecido para o exercício anterior.</p>
 <ol>
   <li>Crie um irmão para <code>elementoOndeVoceEsta</code>.</li>
   <li>Crie um filho para <code>elementoOndeVoceEsta</code>.</li>
@@ -26,7 +26,7 @@
   <li>A partir desse filho criado, acesse <code>terceiroFilho</code>.</li>
 </ol>
 <h3>Removendo elementos - Requisitos</h3>
-<p>Utilize o mesmo arquivo fonecido para os exercícios anteriores.</p>
+<p>Utilize o mesmo arquivo fornecido para os exercícios anteriores.</p>
 <ol>
   <li>Remova todos os elementos filhos de <code>paiDoPai</code> exceto <code>pai</code>, <code>elementoOndeVoceEsta</code> e <code>primeiroFilhoDoFilho</code>.</li>
 </ol>
@@ -41,7 +41,7 @@
   <li>Adicione a tag <code>section</code> com a classe <code>right-content</code> como filho da tag <code>main</code> criada no passo 2;</li>
   <li>Adicione uma imagem com <code>src</code> configurado para o valor <code>https://picsum.photos/200</code> e classe <code>small-image</code> . Esse elemento deve ser filho do <code>section</code> criado no passo 5;</li>
   <li>Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um , dois , três , ... como valores da lista. Essa lista deve ser filha do <code>section</code> criado no passo 6;</li>
-  <li>Adicione 3 tags <code>h3</code> , todas sendo filhas do <code>main</code> criado no passo 2.</li>
+  <li>Adicione 3 tags <code>h3</code>, todas sendo filhas do <code>main</code> criado no passo 2.</li>
 </ol>
 <p>Agora que você criou muita coisa, vamos fazer algumas alterações e remoções:</p>
 <ol>
