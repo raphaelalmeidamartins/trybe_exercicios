@@ -265,7 +265,7 @@ let leitor = {
   <li>Create a function that receives a string and returns <code>true</code> if it is a <strong>palindrome</strong>, or <code>false</code>, if it's not.</li>
   <li>Write a function that receives an array of integers and returns the index of the highest number.</li> 
   <li>Write a function that receives an array of integers and returns the index of the lowest number.</li>
-  <li>Create a function that receives an array of names an returns the name with more characters.</li>
+  <li>Create a function that receives an array of names and returns the name with more characters.</li>
   <li>Create a function that receives an array of integers and returns the number that repeats the most.</li>
   <li>Write a function that receives a natural number <strong>N</strong> and returns the sum of all the numbers from 0 to <strong>N</strong>.</li>
   <li>Create a function that receives two strings: <code>word</code> and <code>ending</code>. It needs to verify if the <code>ending</code> string is the ending of the string <code>word</code>. The string <code>ending</code> is always shorter than <code>word</code>.</li>
