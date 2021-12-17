@@ -125,6 +125,16 @@ let leitor = {
   </li>
   <li>Acesse as chaves <strong>nome</strong> e <strong>livrosFavoritos</strong> e faça um <code>console.log</code> no seguinte formato: <em>"Julia tem 2 livros favoritos".</em></li>  
 </ol>
+<h3>Exercícios finais Parte II - Requisitos</h3>
+<ol>
+  <li>Crie uma função que receba uma string e retorne <code>true</code> se for um <strong>palíndromo</strong>, ou <code>false</code>, se não for.</li>
+  <li>Crie uma função que receba um array de inteiros e retorne o índice do maior valor.</li> 
+  <li>Crie uma função que receba um array de inteiros e retorne o índice do menor valor.</li>
+  <li>Crie uma função que receba um array de nomes e retorne o nome com a maior quantidade de caracteres.</li>
+  <li>Crie uma função que receba um array de inteiros e retorne o inteiro que mais se repete.</li>
+  <li>Crie uma função que receba um número natural <strong>N</strong> e retorne o somatório de todos os números de 0 até <strong>N</strong>.</li>
+  <li>Crie uma função que receba uma string <code>word</code> e outra string <code>ending</code>. Verifique se a string <code>ending</code> é o final da string <code>word</code>. Considere que a string <code>ending</code> sempre será menor que a string <code>word</code>.</li>
+</ol> 
 <br>
 
 <h2 id="en">:us: English</h2>
@@ -250,4 +260,13 @@ let leitor = {
   </li>
   <li>Access the keys <strong>nome</strong> and <strong>livrosFavoritos</strong> print a message on the console with the following template: <em>"Julia tem 2 livros favoritos"</em>(<em>"Julia has 2 favorite books"</em>).</li>  
 </ol>
-<br>
+<h3>Final exercises Part II - Requirements</h3>
+<ol>
+  <li>Create a function that receives a string and returns <code>true</code> if it is a <strong>palindrome</strong>, or <code>false</code>, if it's not.</li>
+  <li>Write a function that receives an array of integers and returns the index of the highest number.</li> 
+  <li>Write a function that receives an array of integers and returns the index of the lowest number.</li>
+  <li>Create a function that receives an array of names an returns the name with more characters.</li>
+  <li>Create a function that receives an array of integers and returns the number that repeats the most.</li>
+  <li>Write a function that receives a natural number <strong>N</strong> and returns the sum of all the numbers from 0 to <strong>N</strong>.</li>
+  <li>Create a function that receives two strings: <code>word</code> and <code>ending</code>. It needs to verify if the <code>ending</code> string is the ending of the string <code>word</code>. The string <code>ending</code> is always shorter than <code>word</code>.</li>
+</ol>
