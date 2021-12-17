@@ -62,7 +62,7 @@
 <ol>
   <li>Access the element <code>elementoOndeVoceEsta</code>.</li>
   <li>Access <code>pai</code> from <code>elementoOndeVoceEsta</code> and add a color to it.</li>
-  <li>Access <code>primeiroFilhoDoFilho</code> add a text to it. Do you remember the videos of the previous class about that?</li>
+  <li>Access <code>primeiroFilhoDoFilho</code> and add a text to it. Do you remember the videos of the previous class about that?</li>
   <li>Access <code>primeiroFilho</code> from <code>pai</code>.</li>
   <li>Now access <code>primeiroFilho</code> from <code>elementoOndeVoceEsta</code>.</li>
   <li>Now access the text <code>Atenção!</code> from <code>elementoOndeVoceEsta</code>.</li>
@@ -91,8 +91,8 @@
   <li>Add a <code>p</code> tag as the child of the <code>section</code> created on the step 3 and put some text inside it;</li>
   <li>Add a <code>section</code> tag with the class <code>left-content</code> as the child of the <code>main</code> tag created on the step 2;</li>
   <li>Add a <code>section</code> tag with the class <code>right-content</code> as a child of the <code>main</code> created on the step 2;</li>
-  <li>Add a image with the value <code>https://picsum.photos/200</code> as the <code>src</code> and with the class <code>small-image</code>.  This element should be a child of the <code>section</code> created on the step 5;</li>
-  <li>Add a unordered list with the values 1 to 10 in full as the list items values. This list should be a child of the <code>section</code> created on the step 6;</li>
+  <li>Add an image with the value <code>https://picsum.photos/200</code> as the <code>src</code> and with the class <code>small-image</code>.  This element should be a child of the <code>section</code> created on the step 5;</li>
+  <li>Add an unordered list with the values 1 to 10 in full as the list items values. This list should be a child of the <code>section</code> created on the step 6;</li>
   <li>Add 3 <code>h3</code> tag, all of them should be a child of the <code>main</code> created on the step 2.</li>
 </ol>
 <p>Now that you've created a lot of elements, let's make some changes and remove some of them:</p>
