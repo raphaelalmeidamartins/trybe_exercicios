@@ -336,7 +336,7 @@ let leitor = {
   <li>Write a function that receives a natural number <strong>N</strong> and returns the sum of all the numbers from 0 to <strong>N</strong>.</li>
   <li>Create a function that receives two strings: <code>word</code> and <code>ending</code>. It needs to verify if the <code>ending</code> string is the ending of the string <code>word</code>. The string <code>ending</code> is always shorter than <code>word</code>.</li>
 </ol>
-<h3>Bônus</h3>
+<h3>Bonus</h3>
 <ol>
   <li>(Hard) Develop a program that receives a string with Roman numerals and return the number the string represents.</li>
   <li>Develop a function named <strong>arrayOfNumbers</strong> that receives a variable <strong>vector</strong> as parameter. By using a <code>for</code> loop, traverse the variable searching for even numbers, and add them to a new array. The function needs to return this new array.</li>
