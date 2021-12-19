@@ -22,7 +22,7 @@
   <li>Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento com a classe 'tech';</li>
   <li>Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy', ele redirecione para alguma página;
     <ol>
-      <li>Que tal redirecionar para seu portifólio?</li>
+      <li>Que tal redirecionar para seu portfólio?</li>
     </ol>
   </li>
   <li>Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere a cor do mesmo;</li>
@@ -35,7 +35,7 @@
 <h3>Knowing the addEventListener method - Requirements</h3>
 <p>To do the next exercises, use the files <strong>index.html</strong>, <strong>style.css</strong> and <strong>main.js</strong> provided.</p>
 <ol>
-  <li>Copy theses files and edit only them;
+  <li>Copy these files and edit only them;
     <ol>
       <li>Before starting the exercises, use the <code>LiveServer</code> extension (on the Visual Studio Code) to see on the browser how the page currently is.</li>
       <li>Can you notice that one of the boxes is a little higher than the other ones? Why does this happen?</li>
@@ -49,7 +49,7 @@
   <li>Develop a function that, when the user is typing on the input text box, it changes the inner text of the element with the class 'tech';</li>
   <li>Write a function that, when the user clicks in <em>'Meu top 3 do Spotrybefy'</em> twice, it redirects them to another page;
     <ol>
-      <li>What about redirectin the user to your portifolio?</li>
+      <li>What about redirecting the user to your portfolio?</li>
     </ol>
   </li>
   <li>Create a function that, when the user is hovering the mouse over 'Meu top 3 do Spotrybefy', it changes its color;</li>
