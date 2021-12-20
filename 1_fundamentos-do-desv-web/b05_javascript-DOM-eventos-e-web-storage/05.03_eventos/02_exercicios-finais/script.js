@@ -39,8 +39,9 @@ function addTaskOnTheList(string) {
   addLegend(color);
 }
 
+const inputAppointments = document.getElementById('task-input');
+
 function addAppointmentOnTheList() {
-  const inputAppointments = document.getElementById('task-input');
   if (!inputAppointments.value) {
     alert('Texto inválido');
   } else {
@@ -53,6 +54,11 @@ function addAppointmentOnTheList() {
 
 const buttonAddAppointment = document.getElementById('btn-add');
 buttonAddAppointment.addEventListener('click', addAppointmentOnTheList);
+inputAppointments.addEventListener('keypress', function(event) {
+  if (event.key === 'Enter') {
+    addAppointmentOnTheList();
+  }
+});
 
 function selectTask(event) {
   const previousSeleted = document.querySelector('.selected');
