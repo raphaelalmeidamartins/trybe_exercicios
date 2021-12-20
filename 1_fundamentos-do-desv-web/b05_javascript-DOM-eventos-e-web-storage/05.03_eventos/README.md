@@ -30,10 +30,10 @@
 <h3>Exercícios finais - Calendário Trybe - Requisitos</h3>
 <p>Utilize os arquivos .html, .css e .js fornecidos para realizar os exercícios a seguir:</p>
 <ol>
-  <li>O array <code>dezDaysList</code> contém os dois últimos dias de novembro e os dias do mês de dezembro. Desenvolva uma função que crie dinamicamente cada dia do calendário e os adicione como filhos/filhas da tag <code>&lt;ul&gt;</code> com ID <code>"days"</code> . Note que os dias 29 e 30 de novembro estão no array pois representam respectivamente Domingo e Segunda-feira.
-  Os dias devem estar contidos em uma tag <code>&lt;li&gt;</code>, e todos devem ter a classe <code>day</code>. Ex: <code>&lt;li class="day"&gt;3&lt;//li&gt;</code>
-  Os dias 24, 25 e 31 são feriados e, além da classe <code>day</code>, devem conter também a classe <code>holiday</code>. Ex: <code>&lt;li class="day holiday">24&lt;//li&gt;</code>
-  Os dias 4, 11, 18 e 25 são Sexta-feira. Eles devem conter a classe <code>day</code> e a classe <code>friday</code>. Ex: <code>&lt;li class="day friday">4&gt;//li&lt;</code>
+  <li>O array <code>dezDaysList</code> contém os dois últimos dias de novembro e os dias do mês de dezembro. Desenvolva uma função que crie dinamicamente cada dia do calendário e os adicione como filhos/filhas da tag <code>&lt;ul&gt;</code> com ID <code>"days"</code> . Note que os dias 29 e 30 de novembro estão no array pois representam respectivamente domingo e segunda-feira.
+  Os dias devem estar contidos em uma tag <code>&lt;li&gt;</code>, e todos devem ter a classe <code>day</code>. Ex: <code>&lt;li class="day"&gt;3&lt;/li&gt;</code>
+  Os dias 24, 25 e 31 são feriados e, além da classe <code>day</code>, devem conter também a classe <code>holiday</code>. Ex: <code>&lt;li class="day holiday">24&lt;/li&gt;</code>
+  Os dias 4, 11, 18 e 25 são sextas-feiras. Eles devem conter a classe <code>day</code> e a classe <code>friday</code>. Ex: <code>&lt;li class="day friday">4&gt;/li&lt;</code>
     <blockquote>
   <pre>
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];</pre>
@@ -53,7 +53,7 @@ const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
     </ul>
   </li>
   <li>
-    Implemente uma função que adicione ao botão <em>"Sexta-feira"</em> um evento de <code>"click"</code> que modifica o texto exibido nos dias que são Sexta-feira.
+    Implemente uma função que adicione ao botão <em>"Sexta-feira"</em> um evento de <code>"click"</code> que modifica o texto exibido nos dias que são sexta-feira.
     <ul>
       <li>É interessante que este botão possua também a lógica inversa. Ao ser clicado novamente ele retorna à configuração inicial exibindo os dias.</li>
     </ul>
@@ -117,10 +117,10 @@ const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
 <h3>Final exercises - Trybe Calendar - Requirements</h3>
 <p>Use the files .html, .css e .js provided to do the following exercises:</p>
 <ol>
-  <li>The array <code>dezDaysList</code> contains the last two days of November and all of the December days. Develop a function that created the calendar dynamically adding each day as child elements of the tag <code>&lt;ul&gt;</code> with <code>"days"</code> as the ID. November 29th and 30th are in the array because they are Sunday and Monday, respectively.
-  The days should be inside a <code>&lt;li&gt;</code> tag, and all of them should have the class <code>day</code>. Ex: <code>&lt;li class="day"&gt;3&lt;//li&gt;</code>
-  December 24th, 25th and 31st are holidays, so they also need to have the class <code>holiday</code> alongside <code>day</code>. Ex: <code>&lt;li class="day holiday">24&lt;//li&gt;</code>
-  December 4th, 11th, 18th e 25th are Fridays. So, they should have the class <code>day</code> and also the class <code>friday</code>. Ex: <code>&lt;li class="day friday">4&gt;//li&lt;</code>
+  <li>The array <code>dezDaysList</code> contains the last two days of November and all the December days. Develop a function that created the calendar dynamically, adding each day as child elements of the tag <code>&lt;ul&gt;</code> with <code>"days"</code> as the ID. November 29th and 30th are in the array because they are Sunday and Monday, respectively.
+  The days should be inside a <code>&lt;li&gt;</code> tag, and all of them should have the class <code>day</code>. Ex: <code>&lt;li class="day"&gt;3&lt;/li&gt;</code>
+  December 24th, 25th and 31st are holidays, so they also need to have the class <code>holiday</code> alongside <code>day</code>. Ex: <code>&lt;li class="day holiday">24&lt;/li&gt;</code>
+  December 4th, 11th, 18th e 25th are Fridays. So, they should have the class <code>day</code> and also the class <code>friday</code>. Ex: <code>&lt;li class="day friday">4&gt;/li&lt;</code>
     <blockquote>
   <pre>
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];</pre>
@@ -140,10 +140,10 @@ const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
   </li>
   <li>Develop a function that adds to the <em>"Sexta-feira"</em> button an event <code>"click"</code> that changes the displayed text on the days that are fridays.
     <ul>
-      <li>The button should also do the opposite. When it's clicked again, it should revert back to display the numbers.</li>
+      <li>The button should also do the opposite. When it's clicked again, it should revert to display the numbers.</li>
     </ul>
   </li>
-  <li>Write two functions that adds a "zoom" effect when the user is hovering over a day on the calendar. The font-size of the day should incread when the mouse is hovering over the element and should revert back to the previous size when the mouse leaves.</li>
+  <li>Write two functions that adds a "zoom" effect when the user is hovering over a day on the calendar. The font-size of the day should increase when the mouse is hovering over the element and should revert to the previous size when the mouse leaves.</li>
   <li>Write a function that adds a personalized task to the calendar. The function should receive a string of the name of the task as parameter (ex: <em>"cooking"</em>) and create dynamically a new &lt;span&gt; element containing the task.
     <ul>
       <li>This new element should be added as a child of the &lt;div&gt; that has the class <code>"my-tasks"</code>.</li>
@@ -151,23 +151,23 @@ const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
   </li>
   <li>Create a function that add a legend with some color to the task created on the previous exercise. This function should receive a string (<em>"color"</em>) as parameter and create dynamically a &lt;div&gt; element with the class <code>task</code>.
     <ul>
-      <li>The paremeter should be used as background color of the created &lt;div&gt;.</li>
+      <li>The parameter should be used as background color of the created &lt;div&gt;.</li>
       <li>This new element should be added as a child of the &lt;div&gt; that has the class <code>"my-tasks"</code>.</li>
     </ul>
   </li>
-  <li>Create a function that adds an event that when the user clicks in the &lt;div&gt; element corresponding to the color of the task, add to this element the class <code>task selected</code>. That means, when the task has the class <code>task selected</code> it's been selected.
+  <li>Create a function that adds an event, that when the user clicks in the &lt;div&gt; element corresponding to the color of the task, add to this element the class <code>task selected</code>. That means, when the task has the class <code>task selected</code> it's been selected.
     <ul>
-      <li>When the user clicks in the element again, its class should revert back to only being <code>task</code>. That means the tak isn't selected anymore</li>
+      <li>When the user clicks in the element again, its class should revert to only being <code>task</code>. That means the task isn't selected anymore</li>
     </ul>
   </li>
-  <li>Write a funcion that add an event that when the user clicks in a day on the calendar, its color it's changed to same one of the selected task.
+  <li>Write a function that add an event, that when the user clicks in a day on the calendar, its color it's changed to same color of the selected task.
   <ul>
     <li>When the user clicks again on the day with the colors of the legend, revert its colors back to <code>rgb(119,119,119)</code>.</li>
   </ul>
   </li>
 </ol>
 <h3>Bonus - Requirements</h3>
-<p>Let's add some appointments to your calendar? Develop a function that when the user types an appointement in the input text box <em>"COMPROMISSOS"</em>, add a list item to <em>"MEUS COMPROMISSOS"</em> when the user clicks in <em>"ADICIONAR"</em>.</p>  
+<p>Let's add some appointments to your calendar? Develop a function that when the user types an appointment in the input text box <em>"COMPROMISSOS"</em>, add a list item to <em>"MEUS COMPROMISSOS"</em> when the user clicks in <em>"ADICIONAR"</em>.</p>  
 <ul>
   <li>If no character is inserted in the <code>input</code> element, the function should return an <code>alert</code> with an error message when the user clicks in <em>"ADICIONAR"</em>.</li>
   <li>The event should also be triggered when the user types <em>"enter"</em>.</li>
