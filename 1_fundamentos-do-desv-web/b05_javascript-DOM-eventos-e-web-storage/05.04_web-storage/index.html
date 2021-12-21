@@ -9,10 +9,18 @@
 </head>
 <body>
   <label for="darkmode">Dark mode: <button id="darkmode">Off</button></label>
-  <label for="font-size">Tamanho da fonte: <input id="font-size" type="number" min="8" max="25" value="12"></label>
-  <label for="font-color">Cor: <input type="color" id="font-color"></label>
-  <label for="font-family">Fonte: <input id="font-family" type="text"></label>
 
+  <label for="font-family">Fonte: <input id="font-family" value="serif" list="fontes" type="text"></label>
+  <datalist id="fontes">
+    <option value="serif"></option>
+    <option value="sans-serif"></option>
+    <option value="monospace"></option>
+    <option value="cursive"></option>   
+  </datalist>
+
+  <label for="font-size">Tamanho: <input id="font-size" type="number" min="8" max="25" value="12"></label>
+  <label for="font-color">Cor: <input type="color" id="font-color"></label>
+  <button id="apply">Aplicar</button>
   <section>
     <h1>Artigo</h1>
     <p>
