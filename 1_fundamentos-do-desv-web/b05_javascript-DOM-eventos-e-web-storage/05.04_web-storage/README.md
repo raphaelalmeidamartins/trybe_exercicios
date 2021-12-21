@@ -21,8 +21,6 @@
 <h3>JavaScript - Web Storage</h3>
 <p>In today's class, we learned how to create cookies and how to store data on the local or session store of the user's web browser.</p>
 <h3>Exercises - Requirements</h3>
-<p>To do the next exercises, use the files <strong>index.html</strong>, <strong>style.css</strong> and <strong>main.js</strong> provided.</p>
-<h3>Exercícios - Requisitos</h3>
 <p>Develop a web page containing a text, and that the user is able to change its:</p>
 <ul>
   <li>Background color;</li>
@@ -31,4 +29,4 @@
   <li>Line height;</li>
   <li>Font family.</li>
 </ul>
-<p>The preferences should be saved, and when the user access the page again, it should be exactly the way it was previously setted.</p>
+<p>The preferences should be saved, and when the user accesses the page again, it should be exactly the way it was previously set.</p>
