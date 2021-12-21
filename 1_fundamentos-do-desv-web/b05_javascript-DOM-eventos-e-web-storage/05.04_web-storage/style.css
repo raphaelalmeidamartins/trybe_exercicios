@@ -5,6 +5,7 @@ body {
 
 p {
   font-size: 12px;
+  line-height: 25px;
 }
 
 h1 {
@@ -13,5 +14,9 @@ h1 {
 }
 
 #font-size {
+  width: 50px;
+}
+
+#line-height {
   width: 50px;
 }
