@@ -1,0 +1,17 @@
+body {
+  font-family: serif;
+  font-size: 15px;
+}
+
+p {
+  font-size: 12px;
+}
+
+h1 {
+  font-family: serif;
+  font-size: 18px;
+}
+
+#font-size {
+  width: 50px;
+}
