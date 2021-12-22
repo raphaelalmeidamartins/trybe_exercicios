@@ -6,7 +6,7 @@
 <p>Aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri no decorrer do bloco. Além disso, você também pode conferir os projetos que desenvolvi ao final:</p>
 
 - _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
-- _[Projeto - To-do List]()_
+- _[Projeto - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - _[(Bônus) Projeto - Meme Generator]()_
 - _[(Bônus) Projeto - Color Guess]()_
 - _[(Bônus) Projeto - Mistery Letter]()_
@@ -17,7 +17,7 @@
 <p>Here you will find the exercises I developed to record the knowledge I acquired during the unit. You can also check out the projects I developed in the end:</p>
 
 - _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
-- _[Project - To-do List]()_
+- _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - _[(Bonus) Project - Meme Generator]()_
 - _[(Bonus) Project - Color Guess]()_
 - _[(Bonus) Project - Mistery Letter]()_
