@@ -43,7 +43,7 @@
 - [x] 05.05 — _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - [x] 05.06 — _[Projeto - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - [x] 05.07 — _[(Bônus) Projeto - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
-- [ ] 05.07 — _[(Bônus) Projeto - Color Guess]()_
+- [x] 05.07 — _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - [ ] 05.07 — _[(Bônus) Projeto - Mistery Letter]()_
 
 # [...]
@@ -89,7 +89,7 @@
 - [x] 05.05 — _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - [x] 05.06 — _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - [x] 05.07 — _[(Bonus) Project - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
-- [ ] 05.07 — _[(Bonus) Project - Color Guess]()_
+- [x] 05.07 — _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - [ ] 05.07 — _[(Bonus) Project - Mistery Letter]()_
 
 # [...]

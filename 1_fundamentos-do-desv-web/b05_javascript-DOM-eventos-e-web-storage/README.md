@@ -8,7 +8,7 @@
 - _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - _[Projeto - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - _[(Bônus) Projeto - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
-- _[(Bônus) Projeto - Color Guess]()_
+- _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - _[(Bônus) Projeto - Mistery Letter]()_
 
 <h2 id="en">:us: English</h2>
@@ -19,5 +19,5 @@
 - _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - _[(Bonus) Project - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
-- _[(Bonus) Project - Color Guess]()_
+- _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - _[(Bonus) Project - Mistery Letter]()_
