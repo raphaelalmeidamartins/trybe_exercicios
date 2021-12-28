@@ -9,7 +9,7 @@
 - _[Projeto - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - _[(Bônus) Projeto - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
 - _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
-- _[(Bônus) Projeto - Mistery Letter](https://github.com/raphaelalmeidamartins/project-mistery-letter)_
+- _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
 <h2 id="en">:us: English</h2>
 <p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of the <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned how to use JavaScript to access and manipulate elements of the DOM (Document Object Model) to create dynamic web pages. We also learned how to add event listeners to make the page react to the users' interactions.</p>
@@ -20,4 +20,4 @@
 - _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
 - _[(Bonus) Project - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
 - _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
-- _[(Bonus) Project - Mistery Letter](https://github.com/raphaelalmeidamartins/project-mistery-letter)_
+- _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
