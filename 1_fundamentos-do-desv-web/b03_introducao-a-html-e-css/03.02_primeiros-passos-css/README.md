@@ -21,9 +21,9 @@
 <ol>
   <li>Create an index.html file.
   <li>Change h1 font family to sans-serif.
-  <li>The paragraphs need to have font-weight 600.
+  <li>The paragraphs need to have a font-weight 600.
   <li>They also need to have 3 times the body default font size.
-  <li>Explore the proprieties font-style, line-height, text-align and text-decoration.
+  <li>Explore the proprieties <code>font-style</code>, <code>line-height</code>, <code>text-align</code>, and <code>text-decoration</code>.
   <li>Change the background color of every list item to match the corresponding text.
   <li>Put all the CSS content to an external. 
 </ol>
