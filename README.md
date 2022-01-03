@@ -156,10 +156,15 @@
 - [ ] 22.05 — _Express - Middlewares_
 - [ ] 22.06 — _[Projeto - Talker Manager]()_
 
-<!-- #### [Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
-- [ ] 10.01 — _Introdução - Front-end_
+#### [Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
+- [ ] 23.01 — _Introdução - Arquitetura de Software_
+- [ ] 23.01 — _Arquitetura de Software - Camada de Model_
+- [ ] 23.02 — _Arquitetura de Software - Camada de Controller e Service_
+- [ ] 23.03 — _Arquitetura Web - Rest e Restful_
+- [ ] 23.04 — _Arquitetura de Software - Testando as Camadas_
+- [ ] 23.05 — _[Projeto - Store Manager]()_
 
-#### [Bloco 24: Node.js: ORM e Autenticação]()
+<!-- #### [Bloco 24: Node.js: ORM e Autenticação]()
 - [ ] 10.01 — _Introdução - Front-end_
 
 #### [Bloco 25: Deployment]()
