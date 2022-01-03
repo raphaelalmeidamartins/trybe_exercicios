@@ -46,6 +46,35 @@
 - [x] 05.07 — _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - [x] 05.07 — _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
+#### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo]()
+- [ ] 06.01 — _HTML & CSS - Forms_
+- [ ] 06.02 — _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] 06.03 — _Introdução - CSS Flexbox_
+- [ ] 06.03 — _CSS Flexbox - Parte 1_
+- [ ] 06.04 — _CSS Flexbox - Parte 2_
+- [ ] 06.05 — _CSS Responsivo - Mobile First_
+- [ ] 06.06 — _[Projeto - Trybewarts]()_
+
+#### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários]()
+- [ ] 07.01 — _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ ] 07.02 — _JavaScript ES6 - Fluxo de exceção e Objetos_
+- [ ] 07.03 — _Primeiros passos em Jest_
+- [ ] 07.04 — _[Projeto - JavaScript Testes Unitários]()_
+
+#### [Bloco 08: Higher Order Functions do JavaScript ES6]()
+- [ ] 08.01 — _JavaScript ES6 - Introdução a Higher Order Functions_
+- [ ] 08.02 — _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] 08.03 — _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 08.04 — _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 08.05 — _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [ ] 08.06 — _[Projeto - Zoo functions]()_
+
+#### [Bloco 09: JavaScript e Testes Assíncronos]()
+- [ ] 09.01 — _JavaScript Assíncrono e Callbacks_
+- [ ] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
+- [ ] 09.03 — _Jest - Testes Assíncronos_
+- [ ] 09.04 — _[Projeto - Carrinho de Compras]()_
+
 # [...]
 
 <h2 id="en">:us: English</h2>
