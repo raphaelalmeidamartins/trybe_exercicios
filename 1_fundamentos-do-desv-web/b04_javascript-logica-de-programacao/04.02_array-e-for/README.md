@@ -42,7 +42,7 @@ console.log(menuServices);
 <pre>let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];</pre>
 </blockquote>
 <ol>
-  <li>Percorra o array imprimindo todos os valores nele contidos com a função <code>console.log()</code></li>
+  <li>Percorra o array imprimindo todos os valores nele contidos com o método <code>console.log()</code></li>
   <li>Some todos os valores contidos no array e imprima o resultado.</li>
   <li>Calcule e imprima a média aritmética dos valores contidos no array.</li>
   <li>Com o mesmo código do exercício anterior, caso o valor final seja maior que 20, imprima a mensagem: <em>"valor maior que 20"</em>. Caso não seja, imprima a mensagem: <em>"valor menor ou igual a 20"</em>.</li>
@@ -103,7 +103,7 @@ console.log(menuServices);
 <pre>let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];</pre>
 </blockquote>
 <ol>
-  <li>Traverse the array printing all its values one by one with the<code>console.log()</code> function.</li>
+  <li>Traverse the array printing all its values one by one with the <code>console.log()</code> method.</li>
   <li>Sum all the values in the array and print the result.</li>
   <li>Calculate and print the arithmetic average of all values in the array and print the result.</li>
   <li>Using the same code of the previous exercise, if the final value is higher than 20, print the message: <em>"valor maior que 20"</em> (<em>"Value is higher than 20"</em>). If it's not, print: <em>"valor menor ou igual a 20"</em> (<em>"Value is lower or equal to 20"</em>)</li>
