@@ -75,6 +75,55 @@
 - [ ] 09.03 — _Jest - Testes Assíncronos_
 - [ ] 09.04 — _[Projeto - Carrinho de Compras]()_
 
+## Desenvolvimento Front-end :hourglass_flowing_sand:
+
+#### [Bloco 10: Introdução à React]()
+- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 10.01 — _Introdução - React_
+- [ ] 10.01 — _'Hello, world!' no React!_
+- [ ] 10.02 — _Componentes React_
+- [ ] 10.03 — _[Projeto - Sistema Solar]()_
+
+#### [Bloco 11: Componentes com Estado, Eventos e Formulários com React]()
+- [ ] 11.01 — _Componentes com estado e eventos_
+- [ ] 11.02 — _Formulários no React_
+- [ ] 11.03 — _[Projeto - Tryunfo]()_
+
+#### [Bloco 12: Ciclo de Vida de Componentes e React Router]()
+- [ ] 12.01 — _Ciclo de vida de componentes_
+- [ ] 12.02 — _React Router_
+- [ ] 12.03 — _[Projeto - TrybeTunes]()_
+
+#### [Bloco 13: Metodologias Ágeis]()
+- [ ] 13.01 — _Metodologias Ágeis_
+- [ ] 13.02 — _[Projeto - Front-end Online Store]()_
+
+#### [Bloco 14: Testes automatizados com React Testing Library]()
+- [ ] 14.01 — _RTL - Primeiros passos_
+- [ ] 14.02 — _RTL - Mocks e Inputs_
+- [ ] 14.03 — _RTL - Testando React Router_
+- [ ] 14.04 — _[Projeto - Testes em React]()_
+
+#### [Bloco 15: Gerenciamento de estado com Redux]()
+- [ ] 15.01 — _Introdução ao Redux - O estado global da aplicação_
+- [ ] 15.02 — _Usando o Redux no React_
+- [ ] 15.03 — _Usando o Redux no React - Prática_
+- [ ] 15.04 — _Usando o Redux no React - Actions Assíncronas_
+- [ ] 15.05 — _Testes em React-Redux_
+- [ ] 15.06 — _[Projeto - Trybe Wallet]()_
+
+#### [Bloco 16: Projeto Jogo de Trivia]()
+- [ ] 16.01 — _[Projeto - Jogo de Trivia]()_
+
+#### [Bloco 17: Context API e React Hooks]()
+- [ ] 17.01 — _Context API do React_
+- [ ] 17.02 — _React Hooks - useState e useContext_
+- [ ] 17.03 — _React Hooks - useEffect e Hooks customizados_
+- [ ] 17.04 — _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+#### [Bloco 18: Projeto App de Receitas]()
+- [ ] 18.01 — _[Projeto - App de Receitas]()_
+
 # [...]
 
 <h2 id="en">:us: English</h2>
