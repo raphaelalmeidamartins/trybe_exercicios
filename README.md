@@ -112,7 +112,7 @@
 - [ ] 15.05 — _Testes em React-Redux_
 - [ ] 15.06 — _[Projeto - Trybe Wallet]()_
 
-#### [Bloco 16: Projeto Jogo de Trivia]()
+#### [Bloco 16: Projeto - Jogo de Trivia]()
 - [ ] 16.01 — _[Projeto - Jogo de Trivia]()_
 
 #### [Bloco 17: Context API e React Hooks]()
@@ -121,7 +121,7 @@
 - [ ] 17.03 — _React Hooks - useEffect e Hooks customizados_
 - [ ] 17.04 — _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-#### [Bloco 18: Projeto App de Receitas]()
+#### [Bloco 18: Projeto - App de Receitas]()
 - [ ] 18.01 — _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
@@ -164,32 +164,56 @@
 - [ ] 23.04 — _Arquitetura de Software - Testando as Camadas_
 - [ ] 23.05 — _[Projeto - Store Manager]()_
 
-<!-- #### [Bloco 24: Node.js: ORM e Autenticação]()
-- [ ] 10.01 — _Introdução - Front-end_
+#### [Bloco 24: Node.js: ORM e Autenticação]()
+- [ ] 24.01 — _Introdução - Node.js: ORM e Autenticação_
+- [ ] 24.01 — _ORM - Interface da aplicação com o banco de dados_
+- [ ] 24.02 — _ORM - Associations_
+- [ ] 24.03 — _JWT - (JSON Web Token)_
+- [ ] 24.04 — _Testando APIs com Testes de Integração_
+- [ ] 24.05 — _[Projeto - API de Blogs]()_
 
 #### [Bloco 25: Deployment]()
-- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 25.01 — _Introdução - Deploy_
+- [ ] 25.01 — _Infraestrutura - Deploy com Heroku_
+- [ ] 25.02 — _Deploy Docker & Heroku_
+- [ ] 25.03 — _[Projeto - Stranger Things]()_
 
 #### [Bloco 26: TypeScript]()
-- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 26.01 — _Introdução - TypeScript_
+- [ ] 26.01 — _Introdução ao TypeScript_
+- [ ] 26.02 — _Tipagem Estática e Generics_
+- [ ] 26.03 — _Express com TypeScript_
+- [ ] 26.04 — _[Projeto - Trybe Smith]()_
 
 #### [Bloco 27: Programação Orientada a Objetos (POO) e SOLID]()
-- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 27.01 — _Introdução à Orientação a Objetos_
+- [ ] 27.02 — _Herança e Interfaces_
+- [ ] 27.03 — _Polimorfismo_
+- [ ] 27.04 — _SOLID - Introdução_
+- [ ] 27.05 — _SOLID - Continuação_
+- [ ] 27.06 — _[Projeto - Trybers and Dragons]()_
 
 #### [Bloco 28: Projeto - TFC - Trybe Futebol Clube]()
-- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 28.01 — _[Projeto - TFC - Trybe Futebol Clube]()_
 
 #### [Bloco 29: Introdução ao MongoDB]()
-- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 29.01 — _Introdução - NoSQL_
+- [ ] 29.01 — _MongoDB - Introdução_
+- [ ] 29.02 — _Filter Operators_
+- [ ] 29.03 — _[Projeto - Data Flights]()_
 
 #### [Bloco 30: MongoDB: Updates Simples e Complexos]()
-- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 30.01 — _Updates Simples_
+- [ ] 30.02 — _Updates Complexos - Arrays - Parte 1_
+- [ ] 30.03 — _Updates Complexos - Arrays - Parte 2_
+- [ ] 30.04 — _[Projeto - Commerce]()_
 
 #### [Bloco 31: MasterClass - VPS, CI/CD]()
-- [ ] 10.01 — _Introdução - Front-end_
+- [ ] 31.01 — _Dia 1_
+- [ ] 31.02 — _Dia 2_
 
 #### [Bloco 32: Projeto - App de Delivery]()
-- [ ] 10.01 — _Introdução - Front-end_ -->
+- [ ] 32.01 — _[Projeto - App de Delivery]()_
 
 # [...]
 
