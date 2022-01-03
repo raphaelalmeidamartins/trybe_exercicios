@@ -134,12 +134,12 @@
 - [ ] 19.04 — _[Projeto - Docker To-do List]()_
 
 #### [Bloco 20: Introdução à SQL]()
-- [ ] 20.01 — _Introdução - Back-end_
-- [ ] 20.01 — _Utilizando Containers - Docker_
-- [ ] 20.02 — _Manipulação e Criação de Imagens no Docker_
-- [ ] 20.03 — _Orquestrando Containers com Docker Compose_
-- [ ] 20.04 — _Orquestrando Containers com Docker Compose_
-- [ ] 20.05 — _[Projeto - Docker To-do List]()_
+- [ ] 20.01 — _Introdução - Bancos de dados relacionais_
+- [ ] 20.01 — _Banco de dados SQL_
+- [ ] 20.02 — _Encontrando dados em um banco de dados_
+- [ ] 20.03 — _Filtrando dados de forma específica_
+- [ ] 20.04 — _Manipulando tabelas_
+- [ ] 20.05 — _[Projeto - All For One]()_
 
 #### [Bloco 21: Funções SQL, JOINs e Normalização]()
 - [ ] 21.01 — _Funções mais usadas no SQL_
@@ -254,6 +254,7 @@
 - [ ] 38.02 — _Pilhas e Filas_
 - [ ] 38.03 — _[Projeto - TING - Trybe Is Not Google]()_
 
+<br>
 <h2 id="en">:us: English</h2>
 <p>Portfolio of exercises and activities performed by <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> during the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 <p>19th Class | November 2021.</b>
@@ -321,10 +322,187 @@
 - [ ] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 - [ ] 08.06 — _[Projeto - Zoo functions]()_
 
-#### [Unit 09: JavaScript e Testes Assíncronos]()
+#### [Unit 09: JavaScript and Asynchronous Tests]()
 - [ ] 09.01 — _Asynchronous JavaScript and Callbacks_
 - [ ] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
 - [ ] 09.03 — _Jest - Asynchronous Tests_
 - [ ] 09.04 — _[Project - Shopping Cart]()_
 
-# [...]
+## Front-end Development :hourglass_flowing_sand:
+
+#### [Unit 10: Introduction to React]()
+- [ ] 10.01 — _Introduction - Front-end_
+- [ ] 10.01 — _Introduction - React_
+- [ ] 10.01 — _'Hello, world!' using React!_
+- [ ] 10.02 — _React Components_
+- [ ] 10.03 — _[Project - Solar System]()_
+
+#### [Unit 11: Components with State, Events and Forms with React]()
+- [ ] 11.01 — _Components with state and events_
+- [ ] 11.02 — _Forms with React_
+- [ ] 11.03 — _[Project - Tryunfo]()_
+
+#### [Unit 12: Components and React Router Lifecycle]()
+- [ ] 12.01 — _Components Lifecycle_
+- [ ] 12.02 — _React Router_
+- [ ] 12.03 — _[Project - TrybeTunes]()_
+
+#### [Unit 13: Agile Methodologies]()
+- [ ] 13.01 — _Agile Methodologies_
+- [ ] 13.02 — _[Project - Front-end Online Store]()_
+
+#### [Unit 14: Automated testing with React Testing Library]()
+- [ ] 14.01 — _RTL - First Steps_
+- [ ] 14.02 — _RTL - Mocks and Inputs_
+- [ ] 14.03 — _RTL - Testing React Router_
+- [ ] 14.04 — _[Project - Tests with React]()_
+
+#### [Unit 15: State management with Redux]()
+- [ ] 15.01 — _Introduction to Redux - the global application state_
+- [ ] 15.02 — _Using Redux with React_
+- [ ] 15.03 — _Using Redux with React - Practice_
+- [ ] 15.04 — _Using Redux with React - Asynchronous Actions_
+- [ ] 15.05 — _Tests with React-Redux_
+- [ ] 15.06 — _[Project - Trybe Wallet]()_
+
+#### [Unit 16: Project - Trivia Game]()
+- [ ] 16.01 — _[Project - Trivia Game]()_
+
+#### [Unit 17: Context API and React Hooks]()
+- [ ] 17.01 — _React Context API_
+- [ ] 17.02 — _React Hooks - useState and useContext_
+- [ ] 17.03 — _React Hooks - useEffect and custom Hooks_
+- [ ] 17.04 — _[Project - StarWars Datatable with Context API and Hooks]()_
+
+#### [Unit 18: Project - Recipes App]()
+- [ ] 18.01 — _[Project - Recipes App]()_
+
+## Back-end Development :hourglass_flowing_sand:
+
+#### [Unit 19: Docker: Using Containers]()
+- [ ] 19.01 — _Introduction - Back-end_
+- [ ] 19.01 — _Using Containers - Docker_
+- [ ] 19.02 — _Manipulation and Criation of Images with Docker_
+- [ ] 19.03 — _Orchestrating Containers with Docker Compose_
+- [ ] 19.04 — _[Project - Docker To-do List]()_
+
+#### [Unit 20: Introduction to SQL]()
+- [ ] 20.01 — _Introduction - Relational Databases_
+- [ ] 20.01 — _SQL Databases_
+- [ ] 20.02 — _Finding data in a database_
+- [ ] 20.03 — _Filtering data in specifc ways_
+- [ ] 20.04 — _Manipulating tables_
+- [ ] 20.05 — _[Project - All For One]()_
+
+#### [Unit 21: SQL Functions, JOINs e Normalization]()
+- [ ] 21.01 — _Most used SQL functions_
+- [ ] 21.02 — _Simplifying JOINs_
+- [ ] 21.03 — _Turning ideas into a database model_
+- [ ] 21.04 — _Live lecture + [Project - One For All]()_
+
+#### [Unit 22: Introduction to Web development with Node.js]()
+- [ ] 22.01 — _Intro - Node.js_
+- [ ] 22.01 — _Node.js - An JavaScript engine_
+- [ ] 22.02 — _Node.js - Asynchronous Flow_
+- [ ] 22.03 — _Mocha, Chai and Sinon - Back-end Tests with Node.js_
+- [ ] 22.04 — _Express - HTTP with Node.js_
+- [ ] 22.05 — _Express - Middlewares_
+- [ ] 22.06 — _[Project - Talker Manager]()_
+
+#### [Unit 23: Node.js: Service Layer, Rest Architecture, and Restful]()
+- [ ] 23.01 — _Introduction to - Software Architecture_
+- [ ] 23.01 — _Software Architecture - Model Layer_
+- [ ] 23.02 — _Software Architecture - Controller and Service Layers_
+- [ ] 23.03 — _Web Architecture - Rest and Restful_
+- [ ] 23.04 — _Software Architecture - Testing the Layers_
+- [ ] 23.05 — _[Project - Store Manager]()_
+
+#### [Unit 24: Node.js: ORM and Autentication]()
+- [ ] 24.01 — _Introduction - Node.js: ORM and Autentication_
+- [ ] 24.01 — _ORM - Application interface with the database_
+- [ ] 24.02 — _ORM - Associations_
+- [ ] 24.03 — _JWT - (JSON Web Token)_
+- [ ] 24.04 — _Testing APIs with Integration Tests_
+- [ ] 24.05 — _[Project - Blogs API]()_
+
+#### [Unit 25: Deployment]()
+- [ ] 25.01 — _Introduction - Deploy_
+- [ ] 25.01 — _Infrastructure - Deploy with Heroku_
+- [ ] 25.02 — _Deploy Docker & Heroku_
+- [ ] 25.03 — _[Project - Stranger Things]()_
+
+#### [Unit 26: TypeScript]()
+- [ ] 26.01 — _Introduction - TypeScript_
+- [ ] 26.01 — _Introduction to TypeScript_
+- [ ] 26.02 — _Static typing and Generics_
+- [ ] 26.03 — _Express with TypeScript_
+- [ ] 26.04 — _[Project - Trybe Smith]()_
+
+#### [Unit 27: Object Oriented Programming (OOP) and SOLID]()
+- [ ] 27.01 — _Introduction to Object Oriented Programming_
+- [ ] 27.02 — _Inheritance and Interfaces_
+- [ ] 27.03 — _Polymorfism_
+- [ ] 27.04 — _SOLID - Introduction_
+- [ ] 27.05 — _SOLID - Continuation_
+- [ ] 27.06 — _[Project - Trybers and Dragons]()_
+
+#### [Unit 28: Project - TFC - Trybe Soccer Team]()
+- [ ] 28.01 — _[Project - TFC - Trybe Soccer Team]()_
+
+#### [Unit 29: Introduction to MongoDB]()
+- [ ] 29.01 — _Introduction - NoSQL_
+- [ ] 29.01 — _MongoDB - Introduction_
+- [ ] 29.02 — _Filter Operators_
+- [ ] 29.03 — _[Project - Data Flights]()_
+
+#### [Unit 30: MongoDB: Simple and Complex Updates]()
+- [ ] 30.01 — _Simple Updates_
+- [ ] 30.02 — _Complex Updates - Arrays - Part 1_
+- [ ] 30.03 — _Complex Updates- Arrays - Part 2_
+- [ ] 30.04 — _[Project - Commerce]()_
+
+#### [Unit 31: MasterClass - VPS, CI/CD]()
+- [ ] 31.01 — _Day 1_
+- [ ] 31.02 — _Day 2_
+
+#### [Unit 32: Project - Delivery App]()
+- [ ] 32.01 — _[Project - Delivery App]()_
+
+## Computer Science :hourglass_flowing_sand:
+
+#### [Unit 33: Introduction to Python]()
+- [ ] 33.01 — _Introduction to - Computer Science_
+- [ ] 33.01 — _Learning Python_
+- [ ] 33.02 — _Data Input and Output_
+- [ ] 33.03 — _Tests_
+- [ ] 33.04 — _[Project - Job Insights]()_
+
+#### [Unit 34: Object Oriented Programming and Design Patterns]()
+- [ ] 34.01 — _Introduction to Object Oriented Programming_
+- [ ] 34.02 — _Inheritance, Composition and Interfaces_
+- [ ] 34.03 — _Design Patterns_
+- [ ] 34.04 — _[Project - Inventory Reports]()_
+
+#### [Unit 35: Networks and Data Scraping]()
+- [ ] 35.01 — _Network architecture_
+- [ ] 35.02 — _Computer networks, tools and security_
+- [ ] 35.03 — _Data Scraping_
+- [ ] 35.04 — _[Project - Tech news]()_
+
+#### [Unit 36: Algorithms]()
+- [ ] 36.01 — _Algorithms complexity_
+- [ ] 36.02 — _Recursiveness and problem solving strategies_
+- [ ] 36.03 — _Sorting and search Algorithms_
+- [ ] 36.04 — _[Project - Algorithms]()_
+
+#### [Unit 37: Data Structure I: Arrays, Hashmaps and Sets]()
+- [ ] 37.01 — _Computer Architecture_
+- [ ] 37.02 — _Arrays_
+- [ ] 37.03 — _Hashmap and Dict_
+- [ ] 37.04 — _Set_
+- [ ] 37.05 — _[Project - Restaurant Orders]()_
+
+#### [Unit 38: Data Structure II: Lists, Queues and Stacks]()
+- [ ] 38.01 — _Node and Linked Lists_
+- [ ] 38.02 — _Stacks and Rows_
+- [ ] 38.03 — _[Project - TING - Trybe Is Not Google]()_
