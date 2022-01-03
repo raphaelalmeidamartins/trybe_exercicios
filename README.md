@@ -53,7 +53,7 @@
 <p>19th Class | November 2021.</b>
 <i>
     <p>"Trybe is a technology school that has a genuine commitment to the professional success of its students. With the Shared Success Model, those who study at Trybe have the option of paying only when they are already working.</b>
-    <p>There are more than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills."</p>
+    <p>There are more than 1500 hours of training that covers the fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies, and soft skills."</p>
 </i>
 
 ## Principles of Web Development :hourglass_flowing_sand:
@@ -62,7 +62,7 @@
 - [x] 01.03 — _Unix & Bash - Part 1_
 - [x] 01.04 — _Unix & Bash - Part 2_
 
-#### [Unit 02: Git, GitHub and Internet](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web/b02_git-github-e-internet)
+#### [Unit 02: Git, GitHub, and Internet](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/master/1_fundamentos-do-desv-web/b02_git-github-e-internet)
 - [x] 02.01 — _Git & GitHub - What they are and what they are used for_
 - [x] 02.02 — _Git & GitHub - Understanding the commands_
 - [x] 02.03 — _Internet - Understanding how it works_
