@@ -61,11 +61,11 @@
 - [ ] 07.03 — _Primeiros passos em Jest_
 - [ ] 07.04 — _[Projeto - JavaScript Testes Unitários]()_
 
-#### [Bloco 08: Higher Order Functions do JavaScript ES6]()
-- [ ] 08.01 — _JavaScript ES6 - Introdução a Higher Order Functions_
-- [ ] 08.02 — _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 08.03 — _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 08.04 — _JavaScript ES6 - Higher Order Functions - reduce_
+#### [Bloco 08: Higher-Order Functions do JavaScript ES6]()
+- [ ] 08.01 — _JavaScript ES6 - Introdução a Higher-Order Functions_
+- [ ] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
+- [ ] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
+- [ ] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
 - [ ] 08.05 — _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [ ] 08.06 — _[Projeto - Zoo functions]()_
 
@@ -136,17 +136,17 @@
 - [ ] 07.03 — _First steps with Jest_
 - [ ] 07.04 — _[Project - JavaScript Unitary Tests]()_
 
-#### [Unit 08: JavaScript ES6 Higher Order Functions]()
-- [ ] 08.01 — _JavaScript ES6 - Introduction to Higher Order Functions_
-- [ ] 08.02 — _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 08.03 — _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 08.04 — _JavaScript ES6 - Higher Order Functions - reduce_
+#### [Unit 08: JavaScript ES6 Higher-Order Functions]()
+- [ ] 08.01 — _JavaScript ES6 - Introduction to Higher-Order Functions_
+- [ ] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
+- [ ] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
+- [ ] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
 - [ ] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 - [ ] 08.06 — _[Projeto - Zoo functions]()_
 
 #### [Unit 09: JavaScript e Testes Assíncronos]()
 - [ ] 09.01 — _Asynchronous JavaScript and Callbacks_
-- [ ] 09.02 — _Asynchronous JavaScript - Fetch API and async/await_
+- [ ] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
 - [ ] 09.03 — _Jest - Asynchronous Tests_
 - [ ] 09.04 — _[Project - Shopping Cart]()_
 
