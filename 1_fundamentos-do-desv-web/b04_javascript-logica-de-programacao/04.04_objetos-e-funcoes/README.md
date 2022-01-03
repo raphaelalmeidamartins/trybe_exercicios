@@ -205,7 +205,7 @@ blocoDois: [
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Objects and functions</h3>
-<p>In today's class, we learned how to use objects, how to use for/in and how to create and use functions.</p>
+<p>In today's class, we learned how to use objects, how to use for/in, and how to create and use functions.</p>
 <h3>Objects - Requirements</h3>
 <ol>
   <li>Create an object <strong>player</strong> containing the variables below:
@@ -217,7 +217,7 @@ let age = 34;
 let medals = { golden: 2, silver: 3 };</pre>
     </blockquote>
   </li>
-  <li>Access the keys <strong>name</strong>, <strong>lastName</strong> and <strong>age</strong>, and concatenate their information to print on the console a message with the following template: <em>"A jogadora Marta Silva tem 34 anos de idade"</em> (<em>"The soccer player Marta Silva is 34 years old"</em>).</li>
+  <li>Access the <strong>name</strong>, <strong>lastName</strong>, and <strong>age</strong> keys, and concatenate their information to print on the console a message with the following template: <em>"A jogadora Marta Silva tem 34 anos de idade"</em> (<em>"The soccer player Marta Silva is 34 years old"</em>).</li>
   <li>Add to the object the key <strong>bestInTheWorld</strong>, and attributed to the key an array of the years the soccer player Marta was considered the best in the World.
     <blockquote>
 <pre>[2006, 2007, 2008, 2009, 2010, 2018]</pre>
@@ -250,7 +250,7 @@ let car = {
   </li> 
 </ol>
 <h3>Functions - Requirements</h3>
-<p>Refactor the final exercises of the day <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/atualizar-docs/15.12/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/04.01_javascript-primeiros-passos">04.01</a> in functions that receive parameters.</p>
+<p>Refactor the final exercises of day <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/atualizar-docs/15.12/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/04.01_javascript-primeiros-passos">04.01</a> in functions that receive parameters.</p>
 <h3>Final exercises Part I - Requirements</h3>
 <p>Use the object below to do the next exercises:</p>
 <blockquote>
@@ -287,7 +287,7 @@ nota
 recorrente</pre>
       </blockquote>
   </li>
-  <li>Now, declare a second object with the same structure of the first one, and with the following values: <em>'Tio Patinhas', 'Christmas on Bear Mountain, Dell's Four Color Comics #178', 'O último MacPatinhas', 'Sim'</em>. Then, print on the console the values of both objects together according to their respective keys. Expected output:  
+  <li>Now, declare a second object with the same structure as the first one, and with the following values: <em>'Tio Patinhas', 'Christmas on Bear Mountain, Dell's Four Color Comics #178', 'O último MacPatinhas', 'Sim'</em>. Then, print on the console the values of both objects together according to their respective keys. Expected output:  
     <blockquote>
       <pre>
 Margarida e Tio Patinhas
@@ -314,7 +314,7 @@ let leitor = {
 };</pre>
     </blockquote>
   <li>Access the keys <strong>nome</strong>, <strong>sobrenome</strong> e <strong>titulo</strong>, that are inside the key <strong>livrosFavoritos</strong>, and print a message on the console with the following template: <em>"O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'"</em> (<em>"Julia Pessoa's favorite book is called 'O Pior Dia de Todos"</em>).</li> 
-  <li>Add a new favorite book on the key <strong>livrosFavoritos</strong>, that is an array. Attribute to this key a new object with the following data:
+  <li>Add a new favorite book on the key <strong>livrosFavoritos</strong>, which is an array. Attribute to this key a new object with the following data:
     <blockquote>
       <pre>
 {
@@ -328,7 +328,7 @@ let leitor = {
 </ol>
 <h3>Final exercises Part II - Requirements</h3>
 <ol>
-  <li>Create a function that receives a string and returns <code>true</code> if it is a <strong>palindrome</strong>, or <code>false</code>, if it's not.</li>
+  <li>Create a function that receives a string and returns <code>true</code> if it is a <strong>palindrome</strong>, or <code>false</code> if it's not.</li>
   <li>Write a function that receives an array of integers and returns the index of the highest number.</li> 
   <li>Write a function that receives an array of integers and returns the index of the lowest number.</li>
   <li>Create a function that receives an array of names and returns the name with more characters.</li>
