@@ -74,13 +74,13 @@ n = 5
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Programming Logic and Algorithms</h3>
-<p>In today's class, we learned more about programming logic and how we can divide bigger problems and smaller ones when we are developing our algorithms.</p>
+<p>In today's class, we learned more about programming logic. We saw how to divide big problems into smaller ones when developing our algorithms.</p>
 <h3>Final exercises - Requirements</h3>
 <ol>
   <li>The factorial is the multiplication of a natural number for its predecessors, except zero. For example:
     <blockquote>
       <pre>
-The factorial is represented by the character !
+The character ! represents the factorial.
 ! = 4 x 3 x 2 x 1 = 24</pre>
     </blockquote>
   <p>Considering these pieces of information, develop a program that returns the factorial of 10.</p></li>
