@@ -12,9 +12,9 @@
 - _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of the <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned how to use JavaScript to access and manipulate elements of the DOM (Document Object Model) to create dynamic web pages. We also learned how to add event listeners to make the page react to the users' interactions.</p>
-<p>Finally, we saw how we can create and delete cookies, and how to store data in the local or session storage.</p>
-<p>Here you will find the exercises I developed to record the knowledge I acquired during the unit. You can also check out the projects I developed in the end:</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned how to use JavaScript to access and manipulate elements of the DOM (Document Object Model) to create dynamic web pages. We also learned how to add event listeners to make the page react to the users' interactions.</p>
+<p>Finally, we saw how to create and delete cookies. And how to store data in the local or session storage.</p>
+<p>Here you can check out the exercises I performed during the unit. You can also check out the projects I developed at the end:</p>
 
 - _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
 - _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
