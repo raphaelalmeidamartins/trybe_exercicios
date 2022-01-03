@@ -8,7 +8,7 @@
 <h3>Selecionando elementos - Requisitos</h3>
 <ol>
   <li>
-    <p>Utilizando o arquivo html fornecido:</p>
+    <p>Utilizando o arquivo .html fornecido:</p>
     <ol>
       <li>Recupere o elemento que contém o título da página e faça algo com ele, como alterá-lo para o nome do seu filme favorito.</li>
       <li>Agora recupere o segundo parágrafo e use sua criatividade para alterá-lo.</li>
@@ -24,11 +24,11 @@
       <li>Recupere o subtítulo e altere a cor dele usando a função <code>getElementsByTagName</code>.</li>
     </ol>
   </li>
-  <li>Utilizando os arquivos html e css fornecidos, crie um novo arquivo js e altere as propriedades dos elementos com JavaScript para que o visual final da página fique <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">assim</a>.
+  <li>Utilizando os arquivos .html e .css fornecidos, crie um novo arquivo js e altere as propriedades dos elementos com JavaScript para que o visual final da página fique <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">assim</a>.
   </li>
 </ol>
 <h3>Exercícios finais - Requisitos</h3>
-<p>Com o arquivo html fornecido e modifique os elementos utilizando apenas as funções <code>document.getElementById()</code>, <code>document.getElementsByClassName()</code> e <code>document.getElementsByTagName()</code>:</p>
+<p>Com o arquivo .html fornecido e modifique os elementos utilizando apenas as funções <code>document.getElementById()</code>, <code>document.getElementsByClassName()</code> e <code>document.getElementsByTagName()</code>:</p>
 <ol>
   <li>Crie uma função que mude o texto na tag &lt;p&gt; para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício)</li>
   <li>Crie uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).</li>
@@ -45,7 +45,7 @@
 <h3>Selecting elements - Requirements</h3>
 <ol>
   <li>
-    <p>By using the provided html file:</p>
+    <p>By using the provided .html file:</p>
     <ol>
       <li>Get the element that contains the title of the page and change it to the name of your favorite movie.</li>
       <li>Now, get the second paragraph and use your creativity to change it.</li>
@@ -61,16 +61,16 @@
       <li>Get the subtitle and change its color with the function <code>getElementsByTagName</code>.</li>
     </ol>
   </li>
-  <li>Using the provided html and css files, create a new js file and change the properties of the elements by using JavaScript, so the page looks like <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">this image</a>.
+  <li>Using the provided .html and .css files, create a new js file and change the properties of the elements by using JavaScript, so the page looks like <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage/05.01_DOM-e-seletores/01_seletores-de-elementos/preview.png">this image</a>.
   </li>
 </ol>
 <h3>Final exercises - Requirements</h3>
-<p>With the provided html file, change the elements of the page by only using the functions <code>document.getElementById()</code>, <code>document.getElementsByClassName()</code> and <code>document.getElementsByTagName()</code>:</p>
+<p>With the provided .html file, change the elements of the page by only using the functions <code>document.getElementById()</code>, <code>document.getElementsByClassName()</code> and <code>document.getElementsByTagName()</code>:</p>
 <ol>
   <li>Create a function that changes the inner text of the tag &lt;p&gt; to how you see yourself 2 years in the future. (Do not spend too much time thinking about the text, focus on the exercise)</li>
   <li>Create a function that changes the color of the yellow square to Trybe green (rgb(76,164,109)).</li>
   <li>Write a function that changes the color of the red square to white.</li>
   <li>Write a function that corrects the inner text of the tag &lt;h1&gt;.</li>
   <li>Create a function that changes all the inner text of the tag &lt;p&gt; to upper case.</li>
-  <li>Create a function that print the inner content of all &lt;p&gt; tags on the console.</li>
+  <li>Create a function that prints the inner content of all &lt;p&gt; tags on the console.</li>
 </ol>
