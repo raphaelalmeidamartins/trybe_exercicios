@@ -147,7 +147,7 @@ const patientEmail = 'ana@email.com';</pre>
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - First steps</h3>
-<p>In today's class, we learned about variables, primitive types, dynamic typing, arithmetic operations, <code>if/else</code>, logic operators and <code>switch/case</code>.</p>
+<p>In today's class, we learned about variables, primitive types, dynamic typing, arithmetic operations, <code>if/else</code>, logic operators, and <code>switch/case</code>.</p>
 <h3>Variables</h3>
 <ol>
   <li>Declared a constant named <strong>myName</strong> and attributed my name to it.</li>
@@ -157,7 +157,7 @@ const patientEmail = 'ana@email.com';</pre>
   <li>Changed the value of <strong>birthYear</strong> to 2030 and printed the variable on the console by using <code>console.log(birthYear)</code>.</li>
   <li>Finally, I tried to change the value of the constant <strong>birthCity</strong>, but I got an error message saying that's not possible to change the value of a constant.</li>
 </ol>
-<h3>Primitive types, dynamic typing and arithmetic operations</h3>
+<h3>Primitive types, dynamic typing, and arithmetic operations</h3>
 <ol>
   <li>Used the <code>typeof</code> operator to print on the console the type of the variables below:
     <blockquote>
@@ -171,8 +171,8 @@ const patientInfo = {
 const patientEmail = 'ana@email.com';</pre>
     </blockquote>
   <li>Created a constant named <strong>base</strong> and other constant named <code>height</code>, with the values ​​5 and 8, respectively.</li>
-  <li>Declared another constant named <code>area</code> and attributed it the result of the multiplication <strong>base</strong> times <code>height</code>.</li>
-  <li>Finally, I created a constant named <strong>perimeter</strong> and attributed it the result of the sum of all the sides of the rectangle.</li>
+  <li>Declared another constant named <code>area</code> and attributed to it the result of the multiplication <strong>base</strong> times <code>height</code>.</li>
+  <li>Finally, I created a constant named <strong>perimeter</strong> and attributed to it the result of the sum of all the sides of the rectangle.</li>
 </ol>
 <h3>if/else</h3>
 <ol>
@@ -180,7 +180,7 @@ const patientEmail = 'ana@email.com';</pre>
   <li>Created a program using <code>if/else</code> to verify if the candidate was approved, reproved or if the person is on the waiting list, considering the following pieces of information:
     <ul>
       <li>If the grade is higher or equal to 80, print: <em>"Parabéns, você foi aprovada(o)!"</em> (<em>"Congratulations, you've been approved!"</em>).</li>
-      <li>If the grade is lower than 80 and higher or equal to 60, print: <em>"Você está na nossa lista de espera"</em> (<em>"You are in the waiting list"</em>).</li>
+      <li>If the grade is lower than 80 and higher or equal to 60, print: <em>"Você está na nossa lista de espera"</em> (<em>"You are on the waiting list"</em>).</li>
       <li>If the grade is lower than 60, print: <em>"Você foi reprovada(o)"</em> (<em>"You've been reproved!"</em>).</li>
     </ul>
   </li>
@@ -200,7 +200,7 @@ const patientEmail = 'ana@email.com';</pre>
           <li>If <strong>currentHour</strong> is between 4 and 11, change the <strong>message</strong> value to <em>"Hmmm, cheiro de café recém passado"</em> (<em>"Mmmm, I smell fresh coffee"</em>).</li>
         </ul>
       </li>
-      <li>Then I printed the variable <strong>message</strong> with the update value on the console.</li>
+      <li>Then I printed the variable <strong>message</strong> with the updated value on the console.</li>
     </ol>
   <br>
   <li>The OR operator:
@@ -223,13 +223,13 @@ const patientEmail = 'ana@email.com';</pre>
 </ol>
 <h3>Switch/case</h3>
 <ol>
-  <li>Declared a variable with the status of a candidate in a selection process that has one of the following values: <em>"aprovado(a)"</em>(aproved), <em>"reprovado(a)"</em>(reproved) or <em>"lista"</em>(waiting list).</li>
-  <li>Used a <code>switch/case</code> structure to print the same messages of the previous exercise about <code>if/else</code> if the status of the candidate is aproved, reproved or waiting list. As default, it prints the message: <em>"não se aplica"</em> (<em>"not applicable"</em>).</li>
+  <li>Declared a variable with the status of a candidate in a selection process that has one of the following values: <em>"aprovado(a)"</em>(aproved), <em>"reprovado(a)"</em>(reproved), or <em>"lista"</em>(waiting list).</li>
+  <li>Used a <code>switch/case</code> structure to print the same messages of the previous exercise about <code>if/else</code> if the status of the candidate is aproved, reproved, or waiting list. As default, it prints the message: <em>"não se aplica"</em> (<em>"not applicable"</em>).</li>
 </ol>
 
 <h3>Final exercises - Requirements</h3>
 <ol>
-  <li>Develop five programs, one for each basic arithmetic operation. Your program needs to have two constants <strong>a</strong> and <strong>b</strong>, both declared in the begining with the values that are going to be operated. Develop programs for:
+  <li>Develop five programs, one for each basic arithmetic operation. Your program needs to have two constants <strong>a</strong> and <strong>b</strong>, both declared in the beginning with the values that are going to be operated. Develop programs for:
     <ul>
       <li>Addition (<strong>a</strong> + <strong>b</strong>)</li>
       <li>Subtraction (<strong>a</strong> - <strong>b</strong>)</li>
@@ -240,7 +240,7 @@ const patientEmail = 'ana@email.com';</pre>
   </li>
   <li>Develop a program that returns the highest of two numbers.</li>
   <li>Develop a program that returns the highest of three numbers.</li>
-  <li>Create a program that returns if a giving number is positive, negative or zero.</li>
+  <li>Create a program that returns if a given number is positive, negative, or zero.</li>
   <li>Declare three constants with the value of three angles. Develop a program that returns <em>true</em> if they are angles of a triangle, or <em>false</em> if they are not.
     <ul>
       <li>Hint: for the angles of a triangle to be valid, the sum of them needs to be 180 degrees</li>
@@ -259,14 +259,14 @@ const patientEmail = 'ana@email.com';</pre>
       <li>The program needs to return an error message if the given grade is lower than 0 or higher than 100.</li>
     </ul>
   </li>
-  <li>Write a program that define three numbers in constants and returns <em>true</em> if at least one of them is even. If none of them are, it needs to return <em>false</em>. <em><strong>Bonus:</strong> try to use only one if statement</em>.</li>
-  <li>Write a program that define three numbers in constants and returns <em>true</em> if at least one of them is odd. If none of them are, it needs to return <em>false</em>. <em><strong>Bonus:</strong> try to use only one if statement</em>.</li>
+  <li>Write a program that defines three numbers in constants and returns <em>true</em> if at least one of them is even. If none of them are, it needs to return <em>false</em>. <em><strong>Bonus:</strong> try to use only one if statement</em>.</li>
+  <li>Write a program that defines three numbers in constants and returns <em>true</em> if at least one of them is odd. If none of them are, it needs to return <em>false</em>. <em><strong>Bonus:</strong> try to use only one if statement</em>.</li>
   <li>Write a program with two values declared as constants: one for sale price and the other one for the cost of the product. The program needs to return how much profit the company would get if they sell a thousand of this product. Please consider the following pieces of information:</li>
     <ul>
     <li>Note that the cost of the product is subject to a 20% tax.</li>
     <li>Your program needs to return an error message and end if one of the given values is lower than zero.</li>
     </ul>
-  <li>In Brazil, the salary of a person who works with a formal contract is subject to INSS and IR taxes. Develop a program that return the net salary of a given gross salary. First, calculate the base salary (gross salary - INSS tax), and then calculate the net salary (base salary - IR tax).
+  <li>In Brazil, the salary of a person who works with a formal contract is subject to INSS and IR taxes. Develop a program that returns the net salary of a given gross salary. First, calculate the base salary (gross salary - INSS tax), and then calculate the net salary (base salary - IR tax).
     <ul>
       <li>INSS tax rates:
         <ul>
