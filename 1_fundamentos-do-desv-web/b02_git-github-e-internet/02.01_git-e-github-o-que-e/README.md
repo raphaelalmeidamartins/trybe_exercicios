@@ -70,24 +70,24 @@ git config --global user.email seuemail@exemplo.br</pre>
       <blockquote>
 <pre>git version 2.32.0</pre>
       </blockquote>
-    <li>To verify if I set my identity correctly,  I ran <code>git config --lis</code>. The terminal returned the username and e-mail I set on the step 2.
+    <li>To verify if I set my identity correctly,  I ran <code>git config --lis</code>. The terminal returned the username and e-mail I set on step 2.
   </ol>
 <h3>Part II — Create a GitHub account</h3>
   <p>Created my GitHub account using my personal e-mail.</p>
-<h3>Part III — Adding a SSH key to my GitHub account</h3>
+<h3>Part III — Adding an SSH key to my GitHub account</h3>
   <ol>
-    <li>Generated a new SSH key by running the command: <code>ssh-keygen -t rsa -b 4096 -C "myemail@gmail.com"</code>. Pressed enter to accept the default location to the key and right after that I set my passphrase.
+    <li>Generated a new SSH key by running the command: <code>ssh-keygen -t rsa -b 4096 -C "myemail@gmail.com"</code>. Pressed enter to accept the default location to the key and right after that, I set my passphrase.
     <li>Added the SSH key to the ssh-agent by running the commands: <code>eval "$(ssh-agent -s)"</code> and <code>ssh-add ~/.ssh/id_rsa</code>.
     <li>Ran <code>sudo apt-get install xclip</code> to install the <code>xclip</code> command in my terminal.
     <li>Then I ran: <code>xclip -sel clip < ~/.ssh/id_rsa.pub</code> to copy the SSH key to my Clipboard.
-    <li>Went to Github website, went to <strong>Settings</strong>, <strong>SSH and GPD keys</strong>.
-    <li>Clicked in <strong>New SSH key</strong>, added a description to my key, then I clicked in <strong>Add SSH key</strong>.
+    <li>Went to the GitHub website, went to <strong>Settings</strong>, <strong>SSH, and GPD keys</strong>.
+    <li>Clicked on <strong>New SSH key</strong>, added a description to my key, then clicked on <strong>Add SSH key</strong>.
     <li>Finally, I entered my Github password to confirm.
   </ol>
 <h3>Part IV — My GitHub repository</h3>
   <ol>
     <li>Created a directory called trybe-exercicios to be my exercises portfolio.
-    <li>Organized the folders with the modules, units and days.
+    <li>Organized the folders with the modules, units, and days.
     <li>Navigated to today's folder through the terminal by using the command <code>cd</code>.
     <li>Created a file named trybe-skills.txt by using the command <code>cat > trybe.skills.txt</code> and I entered the following content in it:
       <blockquote>
@@ -100,8 +100,8 @@ O que eu vou aprender na Trybe:
     <li>Navigated back to the trybe-exercicios directory, and I ran <code>git init</code> to make the folder a Git repository.
     <li>Ran <code>git add .</code> and <code>git commit -m "Initial commit"</code> to commit for the very first time.
     <li>Entered the GitHub website and created a public repository named trybe-exercicios, and I copied its SSH URL.
-    <li>Ran <code>git remote add origin git@github.com:raphaelalmeidamartins/trybe_exercicios.git</code> to sincronize my local and remote repositories.
+    <li>Ran <code>git remote add origin git@github.com:raphaelalmeidamartins/trybe_exercicios.git</code> to synchronize my local and remote repositories.
     <li>Ran <code>git push origin master</code> to submit my first commit to the remote repository.
-    <li>Created a README.md file describing the reposity.
-    <li>Finally, commited the new file and pushed.
+    <li>Created a README.md file describing the repository.
+    <li>Finally, committed the new file and pushed it.
   </ol>
