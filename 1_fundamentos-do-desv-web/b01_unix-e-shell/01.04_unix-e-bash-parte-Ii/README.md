@@ -1,7 +1,7 @@
 # Dia 4/Day 4
 <small>(for the English version, <a href="#en">click here</a>)</small>
 <h2>:brazil: Português</h2>
-<p>Na aula de hoje aprendemos mais comandos unix e também aprendemos sobre permissões de arquivos.</p>
+<p>Na aula de hoje aprendemos mais comandos Unix e também aprendemos sobre permissões de arquivos.</p>
 <h3>Parte I — Comandos de Input e Output</h3>
 <ol>
   <li>Naveguei até a pasta do módulo 1 e do bloco 01 com <code>cd 1_fundamentos-do-desv-web/b01_unix-e-shell</code> e criei um diretório para hoje com <code>mkdir 01.04</code>.
@@ -96,10 +96,10 @@ total 24
 </ol>
 
 <h2 id="en">:us: English</h2>
-<p>In today's class we learned more unix commands, and we also learned about file permissions.</p>
+<p>In today's class, we learned more Unix commands, and we also learned about file permissions.</p>
 <h3>Part I — Input and Output commands</h3>
 <ol>
-  <li>Navigated to the folder of the module 1 book 1 by running <code>cd 1_fundamentos-do-desv-web/b01_unix-e-shell</code> and I created a directory for today with <code>mkdir 01.04</code>.
+  <li>Navigated to the folder of the module 1 unit 1 by running <code>cd 1_fundamentos-do-desv-web/b01_unix-e-shell</code> and I created a directory for today with <code>mkdir 01.04</code>.
   <li>Copied the unix_tests directory from the 01.03 folder to the 01.04 folder using the command <code>cd 01.03/unix_tests 01.04/</code>.
   <li>Running <code>cat > skills2.txt</code>, I created a new file named skills2.txt , and I added the following content:
     <blockquote>
@@ -174,8 +174,8 @@ total 24
         18505 pts/0    00:00:00 sleep
         18531 pts/0    00:00:00 ps</pre>
       </blockquote>
-  <li>Used the command <code>sleep 30 &</code> to run a process in background.
-  <li>Ran <code>ps</code> again to see the PID of the <code>sleep 30</code> process, and I killed by using the command <code>kill 18505</code>.
+  <li>Used the command <code>sleep 30 &</code> to run a process in the background.
+  <li>Ran <code>ps</code> again to see the PID of the <code>sleep 30</code> process, and I killed it by using the command <code>kill 18505</code>.
   <li>Ran <code>sleep 30</code> again, but without the <code>&</code>. I pressed <em>ctrl+z</em> to suspend the process, and ran the command <code>bg</code> for the process to continue in the background.
   <li>By using the command <code>jobs</code>, I listed the running processes:
     <blockquote>
