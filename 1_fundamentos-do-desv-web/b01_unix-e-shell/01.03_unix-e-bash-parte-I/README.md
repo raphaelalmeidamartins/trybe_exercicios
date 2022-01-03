@@ -1,7 +1,7 @@
 # Dia 3/Day 3
 <small>(for the English version, <a href="#en">click here</a>)</small>
 <h2>:brazil: Português</h2>
-<p>Hoje aprendemos sobre o sistema Unix, a sua história, como ele influenciou os sistemas operacionais modernos (Linux e macOS), sua estrutura interna e seu sistema de arquivos. Também conhecemos o bash, que é uma interface (ou shell) de linhas de comando extremamente útil no processo de desenvolvimento de software. Depois, exercitamos os comandos unix no bash para criar, manipular e pesquisar aquivos e diretórios.</p>
+<p>Hoje aprendemos sobre o sistema Unix, a sua história, como ele influenciou os sistemas operacionais modernos (Linux e macOS), sua estrutura interna e seu sistema de arquivos. Também conhecemos o bash, que é uma interface (ou shell) de linhas de comando extremamente útil no processo de desenvolvimento de software. Depois, exercitamos os comandos Unix no bash para criar, manipular e pesquisar aquivos e diretórios.</p>
 <h3>Parte I — Criação de arquivos e diretórios</h3>
 <ol>
   <li>Utilizei o comando <code>mkdir</code> para criar o diretório unix_tests e o comando <code>cd unix_tests/</code> para navegar até ele.
@@ -52,13 +52,13 @@ SQL</pre>
   <li>Por último, acessei o manual do comando ls: <code>man ls</code>.
 </ol>
 <h2 id="en">:us: English</h2>
-<p>Today we learned about the Unix system, its history, how it influenced modern Operating Systems (such as Linux and macOS), its internal structure and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we practiced some unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
+<p>Today we learned about the Unix system, its history, how it influenced modern Operating Systems (such as Linux and macOS), its internal structure, and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we practiced some Unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
 <h3>Part I — Creating files and directories</h3>
 <ol>
   <li>I ran <code>mkdir</code> to create the unix_tests directory and <code>cd unix_tests/</code> to navigate to it.
   <li>Created a new text file named trybe.txt by running the command <code>touch trybe.txt</code>.
   <li>Then, I created a copy of the file trybe.txt named trybe_backup.txt by using <code>cp trybe.txt trybe_backup.txt</code>.
-  <li>Renamed the file trybe.txt to trybe_original.txt by using the command line <code>mv trybe.txt trybe_original</code>.
+  <li>Renamed the file trybe.txt to trybe_original.txt by using the command-line <code>mv trybe.txt trybe_original</code>.
   <li>While inside the unix_tests directory, I created a new folder called backup with <code>mkdir backup/</code>.
   <li>Then I moved the file trybe_backup.txt to the backup folder by using <code>mv trybe_backup.txt backup/</code>.
   <li>After that, I created another directory inside unix_tests called backup2 by running the line <code>mkdir backup2</code>.
@@ -88,7 +88,7 @@ SQL</pre>
 <ol>
   <li>Inside the unix_tests directory again, I downloaded a text file that contains a list of every single country of the world by running the command line <code>curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"</code>
   <li>Ran <code>cat countries.txt</code> to show the whole content of the file on the terminal itself.
-  <li>Ran the command <code>less countries.txt</code> to show the content of the file divided in pages, and I moved from page to page by using the space key until I found the country Zambia.
+  <li>Ran the command <code>less countries.txt</code> to show the content of the file divided into pages, and I moved from page to page by using the space key until I found the country Zambia.
   <li>Ran <code>less countries.txt</code> again, but this time I typed <code>/Zambia</code> and pressed enter to search for the name of the country.
   <li>Looked for Brazil by using the command <code>grep Brazil countries.txt</code>.
   <li>Performed the same search again, but by using the command <code>grep -i brazil countries.txt</code> to ignore case.
