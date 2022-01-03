@@ -124,6 +124,68 @@
 #### [Bloco 18: Projeto App de Receitas]()
 - [ ] 18.01 — _[Projeto - App de Receitas]()_
 
+## Desenvolvimento Back-end :hourglass_flowing_sand:
+
+#### [Bloco 19: Docker: Utilizando Containers]()
+- [ ] 19.01 — _Introdução - Back-end_
+- [ ] 19.01 — _Utilizando Containers - Docker_
+- [ ] 19.02 — _Manipulação e Criação de Imagens no Docker_
+- [ ] 19.03 — _Orquestrando Containers com Docker Compose_
+- [ ] 19.04 — _[Projeto - Docker To-do List]()_
+
+#### [Bloco 20: Introdução à SQL]()
+- [ ] 20.01 — _Introdução - Back-end_
+- [ ] 20.01 — _Utilizando Containers - Docker_
+- [ ] 20.02 — _Manipulação e Criação de Imagens no Docker_
+- [ ] 20.03 — _Orquestrando Containers com Docker Compose_
+- [ ] 20.04 — _Orquestrando Containers com Docker Compose_
+- [ ] 20.05 — _[Projeto - Docker To-do List]()_
+
+#### [Bloco 21: Funções SQL, JOINs e Normalização]()
+- [ ] 21.01 — _Funções mais usadas no SQL_
+- [ ] 21.02 — _Descomplicando JOINs_
+- [ ] 21.03 — _Transformando ideias em um modelo de banco de dados_
+- [ ] 21.04 — _Aula ao vivo + [Projeto - One For All]()_
+
+#### [Bloco 22: Introdução ao desenvolvimento Web com Node.js]()
+- [ ] 22.01 — _Intro - Node.js_
+- [ ] 22.01 — _Node.js - Um motor JavaScript_
+- [ ] 22.02 — _Node.js - Fluxo Assíncrono_
+- [ ] 22.03 — _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+- [ ] 22.04 — _Express - HTTP com Node.js_
+- [ ] 22.05 — _Express - Middlewares_
+- [ ] 22.06 — _[Projeto - Talker Manager]()_
+
+<!-- #### [Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 24: Node.js: ORM e Autenticação]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 25: Deployment]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 26: TypeScript]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 27: Programação Orientada a Objetos (POO) e SOLID]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 28: Projeto - TFC - Trybe Futebol Clube]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 29: Introdução ao MongoDB]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 30: MongoDB: Updates Simples e Complexos]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 31: MasterClass - VPS, CI/CD]()
+- [ ] 10.01 — _Introdução - Front-end_
+
+#### [Bloco 32: Projeto - App de Delivery]()
+- [ ] 10.01 — _Introdução - Front-end_ -->
+
 # [...]
 
 <h2 id="en">:us: English</h2>
