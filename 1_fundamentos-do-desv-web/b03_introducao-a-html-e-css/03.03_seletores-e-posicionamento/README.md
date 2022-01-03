@@ -53,13 +53,13 @@
 
 <h2 id="en">:us: English</h2>
 <h3>HTML & CSS - Selectors and positioning</h3>
-<p>In today's class, we learned how to use the box model, positioning elements, grouping selectors, pseudo-classes, combinations and descendant classes. We also used this knowledge to update <a href="https://raphaelalmeidamartins.github.io/" rel="next">our Web portfolio</a>.</p>
+<p>In today's class, we learned how to use the box model, positioning elements, grouping selectors, pseudo-classes, combinations, and descendant classes. We also used this knowledge to update <a href="https://raphaelalmeidamartins.github.io/" rel="next">our Web portfolio</a>.</p>
 <h3>Box model - Requirements</h3>
 <p>Meet the requirements below using the index.html and style.css files provided:</p>
 <ol>
-  <li>Insert a 20-pixel padding in the class .padding .
+  <li>Insert 20-pixel padding in the class .padding .
   <li>Put a 30-pixel margin in the class .margin .
-  <li>Put a border with the value "5px solid black" in the class .border to apply to the item D.
+  <li>Put a border with the value "5px solid black" in the class .border to apply to item D.
 </ol>
 <h3>Positioning - Requirements</h3>
 <p>Meet the requirements below using the index.html and style.css files provided:</p>
@@ -74,9 +74,9 @@
 <ol>
   <li>Add an ordered list of the 3 best websites you know.
   <li>Create a file in the same directory name 'style.css'.
-  <li>In these .css file, insert the styles so:
+  <li>In this .css file, insert the styles so:
     <ul>
-      <li>The text align of the tags 'h1' e 'p' be centered.
+      <li>The text-align of the tags 'h1' e 'p' be centered.
       <li>The background color of the list changes when the cursor is hovering over the item. 
       <li>The font of the item changes when it's clicked.
     </ul>
@@ -97,8 +97,8 @@
 <p>Meet the requirements below using the index.html file provided. Create a style.css file to add style:</p>
 <ol>
   <li>Make each item of the ordered lists have a yellow background color. If the number of the item is even, turn the background color green, and if the number is odd, use propriety text-transform to make the text upper case. (Tip: combining classes could be a good idea here). 
-  <li>Make all the Header tags (h1, h2...) have the font color red, and if one of them have font-style italic, change the size to 40px and add a 1px black solid border. 
+  <li>Make all the Header tags (h1, h2...) have the font color red, and if one of them has font-style italic, change the size to 40px and add a 1px black solid border. 
   <li>Change the list items to 20px font-size, every text inside a li to italic, and the font-weight to bold. 
-  <li>In the "As maiores linguagens de programação", make the first 3 items of the list to have the color blue, and, if some of them contain "java*" in the text, change the background color to pink. 
+  <li>In the "As maiores linguagens de programação", make the first 3 items of the list have the color blue, and, if some of them contain "java*" in the text, change the background color to pink. 
   <li>(Bonus) to every link in the "Maiores aliados de uma pessoa desenvolvedora", change the font-weight to bold and the font-color to "temática do site".
 </ol>
