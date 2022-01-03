@@ -337,7 +337,7 @@
 - [ ] 10.02 — _React Components_
 - [ ] 10.03 — _[Project - Solar System]()_
 
-#### [Unit 11: Components with State, Events and Forms with React]()
+#### [Unit 11: Components with State, Events, and Forms with React]()
 - [ ] 11.01 — _Components with state and events_
 - [ ] 11.02 — _Forms with React_
 - [ ] 11.03 — _[Project - Tryunfo]()_
@@ -382,7 +382,7 @@
 #### [Unit 19: Docker: Using Containers]()
 - [ ] 19.01 — _Introduction - Back-end_
 - [ ] 19.01 — _Using Containers - Docker_
-- [ ] 19.02 — _Manipulation and Criation of Images with Docker_
+- [ ] 19.02 — _Manipulation and Creation of Images with Docker_
 - [ ] 19.03 — _Orchestrating Containers with Docker Compose_
 - [ ] 19.04 — _[Project - Docker To-do List]()_
 
@@ -390,7 +390,7 @@
 - [ ] 20.01 — _Introduction - Relational Databases_
 - [ ] 20.01 — _SQL Databases_
 - [ ] 20.02 — _Finding data in a database_
-- [ ] 20.03 — _Filtering data in specifc ways_
+- [ ] 20.03 — _Filtering data in specific ways_
 - [ ] 20.04 — _Manipulating tables_
 - [ ] 20.05 — _[Project - All For One]()_
 
@@ -400,7 +400,7 @@
 - [ ] 21.03 — _Turning ideas into a database model_
 - [ ] 21.04 — _Live lecture + [Project - One For All]()_
 
-#### [Unit 22: Introduction to Web development with Node.js]()
+#### [Unit 22: Introduction to Web Development with Node.js]()
 - [ ] 22.01 — _Intro - Node.js_
 - [ ] 22.01 — _Node.js - An JavaScript engine_
 - [ ] 22.02 — _Node.js - Asynchronous Flow_
@@ -438,8 +438,8 @@
 - [ ] 26.03 — _Express with TypeScript_
 - [ ] 26.04 — _[Project - Trybe Smith]()_
 
-#### [Unit 27: Object Oriented Programming (OOP) and SOLID]()
-- [ ] 27.01 — _Introduction to Object Oriented Programming_
+#### [Unit 27: Object-Oriented Programming (OOP) and SOLID]()
+- [ ] 27.01 — _Introduction to Object-Oriented Programming_
 - [ ] 27.02 — _Inheritance and Interfaces_
 - [ ] 27.03 — _Polymorfism_
 - [ ] 27.04 — _SOLID - Introduction_
@@ -477,15 +477,15 @@
 - [ ] 33.03 — _Tests_
 - [ ] 33.04 — _[Project - Job Insights]()_
 
-#### [Unit 34: Object Oriented Programming and Design Patterns]()
-- [ ] 34.01 — _Introduction to Object Oriented Programming_
-- [ ] 34.02 — _Inheritance, Composition and Interfaces_
+#### [Unit 34: Object-Oriented Programming and Design Patterns]()
+- [ ] 34.01 — _Introduction to Object-Oriented Programming_
+- [ ] 34.02 — _Inheritance, Composition, and Interfaces_
 - [ ] 34.03 — _Design Patterns_
 - [ ] 34.04 — _[Project - Inventory Reports]()_
 
 #### [Unit 35: Networks and Data Scraping]()
 - [ ] 35.01 — _Network architecture_
-- [ ] 35.02 — _Computer networks, tools and security_
+- [ ] 35.02 — _Computer networks, tools, and security_
 - [ ] 35.03 — _Data Scraping_
 - [ ] 35.04 — _[Project - Tech news]()_
 
@@ -495,14 +495,14 @@
 - [ ] 36.03 — _Sorting and search Algorithms_
 - [ ] 36.04 — _[Project - Algorithms]()_
 
-#### [Unit 37: Data Structure I: Arrays, Hashmaps and Sets]()
+#### [Unit 37: Data Structure I: Arrays, Hashmaps, and Sets]()
 - [ ] 37.01 — _Computer Architecture_
 - [ ] 37.02 — _Arrays_
 - [ ] 37.03 — _Hashmap and Dict_
 - [ ] 37.04 — _Set_
 - [ ] 37.05 — _[Project - Restaurant Orders]()_
 
-#### [Unit 38: Data Structure II: Lists, Queues and Stacks]()
+#### [Unit 38: Data Structure II: Lists, Queues, and Stacks]()
 - [ ] 38.01 — _Node and Linked Lists_
 - [ ] 38.02 — _Stacks and Rows_
 - [ ] 38.03 — _[Project - TING - Trybe Is Not Google]()_
