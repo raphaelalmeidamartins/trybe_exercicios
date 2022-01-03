@@ -8,8 +8,8 @@
 - _[Projeto - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions)_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of the <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we had our first contact with JavaScript and programming logic. We learned about declaring variables, primitive types, operators, arrays and for loops.</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we started studying JavaScript and programming logic. We learned about declaring variables, primitive types, operators, arrays, and for loops.</p>
 <p>Then we learned how to use objects, and finally, how to create functions to better organize our code.</p>
-<p>Here you will find the exercises I developed to record the knowledge I acquired during the unit. You can also check out the project I developed in the end:</p>
+<p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 
 - _[Project - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions)_
