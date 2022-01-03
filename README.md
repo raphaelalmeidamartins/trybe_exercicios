@@ -121,4 +121,33 @@
 - [x] 05.07 — _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - [x] 05.07 — _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
+#### [Unit 06: HTML & CSS: Forms, Flexbox, and Responsivity]()
+- [ ] 06.01 — _HTML & CSS - Forms_
+- [ ] 06.02 — _JavaScript Libraries and CSS Frameworks_
+- [ ] 06.03 — _Introduction - Flexbox CSS_
+- [ ] 06.03 — _Flexbox CSS - Part 1_
+- [ ] 06.04 — _Flexbox CSS - Part 2_
+- [ ] 06.05 — _CSS Responsive - Mobile First_
+- [ ] 06.06 — _[Project - Trybewarts]()_
+
+#### [Unit 07: Introduction to JavaScript ES6 and Unitary Tests]()
+- [ ] 07.01 — _JavaScript ES6 - let, const, arrow functions, and template literals_
+- [ ] 07.02 — _JavaScript ES6 - Exception flow and Objetcs_
+- [ ] 07.03 — _First steps with Jest_
+- [ ] 07.04 — _[Project - JavaScript Unitary Tests]()_
+
+#### [Unit 08: JavaScript ES6 Higher Order Functions]()
+- [ ] 08.01 — _JavaScript ES6 - Introduction to Higher Order Functions_
+- [ ] 08.02 — _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] 08.03 — _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 08.04 — _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
+- [ ] 08.06 — _[Projeto - Zoo functions]()_
+
+#### [Unit 09: JavaScript e Testes Assíncronos]()
+- [ ] 09.01 — _Asynchronous JavaScript and Callbacks_
+- [ ] 09.02 — _Asynchronous JavaScript - Fetch API and async/await_
+- [ ] 09.03 — _Jest - Asynchronous Tests_
+- [ ] 09.04 — _[Project - Shopping Cart]()_
+
 # [...]
