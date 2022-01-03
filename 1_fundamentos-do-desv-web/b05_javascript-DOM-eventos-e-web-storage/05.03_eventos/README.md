@@ -101,13 +101,13 @@ const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
       <li>Can you notice that one of the boxes is a little higher than the other ones? Why does this happen?</li>
     </ol>
   </li>
-  <li>Create a function that add the class <code>'tech'</code> to the <code>li</code> element when it's clicked.
+  <li>Create a function that adds the class <code>'tech'</code> to the <code>li</code> element when it's clicked.
     <ol>
       <li>There must be only one element with the class <code>'tech'</code>. How can you do that?</li>
     </ol>
   </li>
   <li>Develop a function that, when the user is typing on the input text box, it changes the inner text of the element with the class 'tech';</li>
-  <li>Write a function that, when the user clicks in <em>'Meu top 3 do Spotrybefy'</em> twice, it redirects them to another page;
+  <li>Write a function that, when the user clicks on <em>'Meu top 3 do Spotrybefy'</em> twice, it redirects them to another page;
     <ol>
       <li>What about redirecting the user to your portfolio?</li>
     </ol>
@@ -126,13 +126,13 @@ const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];</pre>
     </blockquote>
   </li>
-  <li>Write a function that receives the string <em>"Feriados"</em> as parameter and add dynamically a button named <em>"Feriados"</em>.
+  <li>Write a function that receives the string <em>"Feriados"</em> as a parameter and add dynamically a button named <em>"Feriados"</em>.
     <ul>
       <li>Add to the button the ID <code>"btn-holiday"</code>.</li>
       <li>Add this button as a child of the tag &lt;div&gt; that has class <code>"buttons-container"</code>.</li>
     </ul>
   </li>
-  <li>Write a function that receives the string <em>"Sexta-feira"</em> as parameter and add dynamically a button named <em>"Sexta-feira"</em>.
+  <li>Write a function that receives the string <em>"Sexta-feira"</em> as a parameter and add dynamically a button named <em>"Sexta-feira"</em>.
     <ul>
       <li>Add to the button the ID <code>"btn-friday"</code>.</li>
       <li>Add this button as a child of the tag &lt;div&gt; that has class <code>"buttons-container"</code>.</li>
@@ -143,32 +143,32 @@ const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
       <li>The button should also do the opposite. When it's clicked again, it should revert to display the numbers.</li>
     </ul>
   </li>
-  <li>Write two functions that adds a "zoom" effect when the user is hovering over a day on the calendar. The font-size of the day should increase when the mouse is hovering over the element and should revert to the previous size when the mouse leaves.</li>
-  <li>Write a function that adds a personalized task to the calendar. The function should receive a string of the name of the task as parameter (ex: <em>"cooking"</em>) and create dynamically a new &lt;span&gt; element containing the task.
+  <li>Write two functions that add a "zoom" effect when the user is hovering over a day on the calendar. The font-size of the day should increase when the mouse is hovering over the element and should revert to the previous size when the mouse leaves.</li>
+  <li>Write a function that adds a personalized task to the calendar. The function should receive a string of the name of the task as a parameter (ex: <em>"cooking"</em>) and create dynamically a new &lt;span&gt; element containing the task.
     <ul>
       <li>This new element should be added as a child of the &lt;div&gt; that has the class <code>"my-tasks"</code>.</li>
     </ul>
   </li>
-  <li>Create a function that add a legend with some color to the task created on the previous exercise. This function should receive a string (<em>"color"</em>) as parameter and create dynamically a &lt;div&gt; element with the class <code>task</code>.
+  <li>Create a function that adds a legend with some color to the task created on the previous exercise. This function should receive a string (<em>"color"</em>) as a parameter and create dynamically a &lt;div&gt; element with the class <code>task</code>.
     <ul>
-      <li>The parameter should be used as background color of the created &lt;div&gt;.</li>
+      <li>The parameter should be used as the background color of the created &lt;div&gt;.</li>
       <li>This new element should be added as a child of the &lt;div&gt; that has the class <code>"my-tasks"</code>.</li>
     </ul>
   </li>
-  <li>Create a function that adds an event, that when the user clicks in the &lt;div&gt; element corresponding to the color of the task, add to this element the class <code>task selected</code>. That means, when the task has the class <code>task selected</code> it's been selected.
+  <li>Create a function that adds an event, that when the user clicks on the &lt;div&gt; element corresponding to the color of the task, adds to this element the class <code>task selected</code>. That means when the task has the class <code>task selected</code> it's been selected.
     <ul>
-      <li>When the user clicks in the element again, its class should revert to only being <code>task</code>. That means the task isn't selected anymore</li>
+      <li>When the user clicks on the element again, its class should revert to only being <code>task</code>. That means the task isn't selected anymore</li>
     </ul>
   </li>
-  <li>Write a function that add an event, that when the user clicks in a day on the calendar, its color it's changed to same color of the selected task.
+  <li>Write a function that adds an event, that when the user clicks on a day on the calendar, their color it's changed to the same one of the selected task.
   <ul>
-    <li>When the user clicks again on the day with the colors of the legend, revert its colors back to <code>rgb(119,119,119)</code>.</li>
+    <li>When the user clicks again on the day with the colors of the legend, revert its colors to <code>rgb(119,119,119)</code>.</li>
   </ul>
   </li>
 </ol>
 <h3>Bonus - Requirements</h3>
-<p>Let's add some appointments to your calendar? Develop a function that when the user types an appointment in the input text box <em>"COMPROMISSOS"</em>, add a list item to <em>"MEUS COMPROMISSOS"</em> when the user clicks in <em>"ADICIONAR"</em>.</p>  
+<p>Let's add some appointments to your calendar? Develop a function that when the user types an appointment in the input text box <em>"COMPROMISSOS"</em>, add a list item to <em>"MEUS COMPROMISSOS"</em> when the user clicks on <em>"ADICIONAR"</em>.</p>  
 <ul>
-  <li>If no character is inserted in the <code>input</code> element, the function should return an <code>alert</code> with an error message when the user clicks in <em>"ADICIONAR"</em>.</li>
+  <li>If no character is inserted in the <code>input</code> element, the function should return an <code>alert</code> with an error message when the user clicks on <em>"ADICIONAR"</em>.</li>
   <li>The event should also be triggered when the user types <em>"enter"</em>.</li>
 </ul>
