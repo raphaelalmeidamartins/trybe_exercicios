@@ -16,14 +16,14 @@
 
 <h2 id="en">:us: English</h2>
 <h3>HTML & CSS - Page structure</h3>
-<p>In today's class, we learned how to build a web page using HTML tags and how to create internal or external links. We also used this knowledge to develop <a href="https://raphaelalmeidamartins.github.io/" rel="next">our Web Portfolio</a>.</p>
+<p>In today's class, we learned how to build a web page using HTML tags. We also learned how to add internal or external links. Then we used this knowledge to develop <a href="https://raphaelalmeidamartins.github.io/" rel="next">our Web Portfolio</a>.</p>
 <h3>Exercise - Requirements</h3>
 <ol>
   <li>Create an index.html file.
   <li>Add a list of the colleagues you've already made friendship with.
   <li>Add an image from an external URL.
   <li>Add an image from your local computer.
-  <li>Create a paragraph for every person in your list.
+  <li>Create a paragraph for every person on your list.
   <li>Create internal links between the paragraphs and the people.
   <li>Create an external link to a Google web page. 
 </ol>
