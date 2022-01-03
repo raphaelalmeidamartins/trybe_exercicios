@@ -53,10 +53,10 @@
       <li>Create a link named <em>Sobre</em>.
       <li>Create a link named <em>Contato</em>.
     </ul>
-  <li>Create an article containing interesting facts about the Mantis Shrimp. The article need to have the title <em>"Fatos sobre o Stomatopoda"</em>.
-  <li>Divide the article in sections as following:
+  <li>Create an article containing interesting facts about the Mantis Shrimp. The article needs to have the title <em>"Fatos sobre o Stomatopoda"</em>.
+  <li>Divide the article into sections as follows:
     <ul>
-      <li>The first section contains general information about the animal. The title of this section is at your discretion. This section must contain its scientific name, which is <em>Odontodactylus scyllarus</em>, in italic. In addition, there must be tabular information about their scientific classification, specifically: <em>Kingdom, Phylum, Subphylum, Class, Subclass</em> and <em>Order</em>.
+      <li>The first section contains general information about the animal. The title of this section is at your discretion. This section must contain its scientific name, which is <em>Odontodactylus scyllarus</em>, in italic. In addition, there must be tabular information about their scientific classification, specifically: <em>Kingdom, Phylum, Subphylum, Class, Subclass</em>, and <em>Order</em>.
       <li>The other sections should have intriguing facts you choose about the animal. For each fact chosen, you will create a section.
       <li>Add, for each section, a title about the chosen fact.
       <li>Add, for each section, paragraph(s) describing the chosen fact. Highlight impressive features in order to reinforce the uniqueness of the <em>Stomatopoda</em>.
@@ -64,6 +64,6 @@
       <li>Add adjacent content to the article by providing a link <a href="https://youtu.be/E0Li1k5hGBE" rel="external">to this video</a>, that shows the animal in action.
       <li>Add a footer to the page containing something like:
           <blockquote>"Conteúdo compilado por insere_seu_nome, ano_atual".</blockquote>
-      <em>Obs:</em> it's mandatory to use, at least, 6 elements with the following tags: <em>header, nav, article, section, h1, h2, h3, aside, footer,table</em> and <em>img</em>.
+      <em>Obs:</em> it's mandatory to use, at least, 6 elements with the following tags: <em>header, nav, article, section, h1, h2, h3, aside, footer, table</em>, and <em>img</em>.
     </ul>
 <ol>
