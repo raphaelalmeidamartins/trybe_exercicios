@@ -215,7 +215,44 @@
 #### [Bloco 32: Projeto - App de Delivery]()
 - [ ] 32.01 — _[Projeto - App de Delivery]()_
 
-# [...]
+## Ciência da Computação :hourglass_flowing_sand:
+
+#### [Bloco 33: Introdução à Python]()
+- [ ] 33.01 — _Introdução - Ciência da Computação_
+- [ ] 33.01 — _Aprendendo Python_
+- [ ] 33.02 — _Entrada e Saída de Dados_
+- [ ] 33.03 — _Testes_
+- [ ] 33.04 — _[Projeto - Job Insights]()_
+
+#### [Bloco 34: Programação Orientada a Objetos e Padrões de Projeto]()
+- [ ] 34.01 — _Introdução à programação orientada a objetos_
+- [ ] 34.02 — _Herança, Composição e Interfaces_
+- [ ] 34.03 — _Padrões de projeto_
+- [ ] 34.04 — _[Projeto - Relatórios de Estoque]()_
+
+#### [Bloco 35: Redes e Raspagem de Dados]()
+- [ ] 35.01 — _Arquitetura de redes_
+- [ ] 35.02 — _Redes de computadores, ferramentas e segurança_
+- [ ] 35.03 — _Raspagem de Dados_
+- [ ] 35.04 — _[Projeto - Tech news]()_
+
+#### [Bloco 36: Algoritmos]()
+- [ ] 36.01 — _Complexidade de Algoritmos_
+- [ ] 36.02 — _Recursividade e Estratégias para solução de problemas_
+- [ ] 36.03 — _Algoritmos de ordenação e busca_
+- [ ] 36.04 — _[Projeto - Algoritmos]()_
+
+#### [Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets]()
+- [ ] 37.01 — _Arquitetura de Computadores_
+- [ ] 37.02 — _Arrays_
+- [ ] 37.03 — _Hashmap e Dict_
+- [ ] 37.04 — _Set_
+- [ ] 37.05 — _[Projeto - Restaurant Orders]()_
+
+#### [Bloco 38: Estrutura de Dados II: Listas, Filas e Pilhas]()
+- [ ] 38.01 — _Nó e Listas Encadeadas_
+- [ ] 38.02 — _Pilhas e Filas_
+- [ ] 38.03 — _[Projeto - TING - Trybe Is Not Google]()_
 
 <h2 id="en">:us: English</h2>
 <p>Portfolio of exercises and activities performed by <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> during the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
