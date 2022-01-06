@@ -1,4 +1,16 @@
+// Seletores primeiro fieldset
+const name = document.getElementById('input-name');
+const email = document.getElementById('input-email');
+const cpf = document.getElementById('input-cpf');
+const address = document.getElementById('input-endereco');
+const house = document.getElementById('radio-casa');
+const apartment = document.getElementById('radio-apartamento');
 const selectState = document.getElementById('select-estados');
+
+// Seletores segundo filedset
+const abstract = document.getElementById('input-resumo');
+const role = document.getElementById('input-cargo');
+const description = document.getElementById('input-descricao-cargo');
 const startDate = document.getElementById('input-data-inicio');
 
 const arrayEstados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO', 'DF'];
