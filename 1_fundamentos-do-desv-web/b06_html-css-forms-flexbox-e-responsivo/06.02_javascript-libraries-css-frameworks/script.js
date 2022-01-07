@@ -93,9 +93,10 @@ function checkDateFormat(date) {
   if (date.length !== 10) {
     return false;
   }
-  if (!(date[2] === '/' && date[5] === '/')) {
+  if (!date[2] === '/' && !date[5] === '/') {
     return false;
   }
+  return true;
 }
 
 // Função para descobrir se o ano é bissext seguingo os passos:
@@ -146,39 +147,41 @@ function checkLeapYear(year) {
 
 function checkDay(day, month, year) {
   let months = {
-    01: 31,
-    02: 28,
-    03: 31,
-    04: 30,
-    05: 31,
-    06: 30,
-    07: 31,
-    08: 31,
-    09: 30,
-    10: 31,
-    11: 30,
-    12: 31,
+    '01': 31,
+    '02': 28,
+    '03': 31,
+    '04': 30,
+    '05': 31,
+    '06': 30,
+    '07': 31,
+    '08': 31,
+    '09': 30,
+    '10': 31,
+    '11': 30,
+    '12': 31,
   };
 
   if(checkLeapYear(year)) {
     months['02'] = 29;
   }
 
-  if ((day < 1 && day > months[`${month}`])) {
+  if ((day < 1 || day > months[`${month}`])) {
     return false;
   }
   return true;
 }
 
 function checkMonth(month) {
-  if (month < 1 && month > 12) {
+  const monthInserted = parseInt(month);
+  if (monthInserted < 1 || monthInserted > 12) {
     return false;
   }
   return true;
 }
 
 function checkYear(year) {
-  if (year < 0) {
+  const yearInserted = parseInt(year);
+  if (yearInserted < 0) {
     return false;
   }
   return true;

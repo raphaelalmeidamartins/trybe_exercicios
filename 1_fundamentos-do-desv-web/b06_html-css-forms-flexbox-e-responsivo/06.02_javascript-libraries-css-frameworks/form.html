@@ -9,61 +9,64 @@
   <title>Formulário de currículo</title>
 </head>
 <body>
-  <form action="" method="get">
-    <fieldset>
-      <div class="line-content">
-        <label for="input-name">Nome:</label>
-        <input class="input" type="text" name="name" id="input-name" maxlength="40" required>
+  <main>
+    <form class="column box" action="" method="get">
+      <fieldset class="block">
+        <div class="block">
+          <label for="input-name">Nome:</label>
+          <input class="input" type="text" name="name" id="input-name" maxlength="40" required>
+        </div>
+        <div class="block">
+          <label for="input-email">E-mail:</label>
+          <input class="input" type="email" name="email" id="input-email" maxlength="50" required>
+        </div>
+        <div class="block">
+          <label for="input-cpf">CPF:</label>
+          <input class="input" type="text" name="cpf" id="input-cpf" maxlength="11" required>
+        </div>
+        <div class="block">
+          <label for="input-endereco">Endereço:</label>
+          <input class="input" type="text" name="endereco" id="input-endereco" required maxlength="200">
+        </div>
+        <div class="block">
+          <label for="input-cidade">Cidade:</label>
+          <input class="input" type="text" name="endereco" id="input-cidade" required maxlength="28">
+        </div>
+        <div class="block">
+          <label for="select-estados"></label>
+          <select class="select" name="estados" id="select-estados" required></select>
+        </div>
+        <div class="block">
+          <label class="custom-label" for="radio-casa"><input class="radio" type="radio" name="residencia" id="radio-casa" required> Casa</label>
+          <label class="custom-label" for="radio-apartamento"><input class="radio" type="radio" name="residencia" id="radio-apartamento" required> Apartamento</label>
+        </div>
+      </fieldset>
+      <fieldset class="block">
+        <div class="block">
+          <label for="input-resumo">Resumo do currículo:</label>
+          <textarea class="textarea" name="resumo" id="input-resumo" cols="30" rows="10" maxlength="1000" required></textarea>
+        </div>
+        <div class="block">
+          <label for="input-cargo">Cargo:</label>
+          <input class="input" type="text" name="cargo" id="input-cargo" maxlength="40" required>
+        </div>
+        <div class="block">
+          <label for="input-descricao-cargo">Descrição:</label>
+          <textarea class="textarea" name="descricao-cargo" id="input-descricao-cargo" cols="30" rows="10" maxlength="500" required></textarea>
+        </div>
+        <div class="block">
+          <label for="input-data-inicio">Data de início:</label>
+          <input class="input" type="text" name="data-inicio" id="input-data-inicio" placeholder="dd/mm/aaaa" maxlength="10" required>
+        </div>
+      </fieldset>
+      <div class="block">
+        <button class="button" type="submit" id="button-submit">Enviar</button>
+        <button class="button" type="reset">Limpar</button>
       </div>
-      <div class="line-content">
-        <label for="input-email">E-mail:</label>
-        <input class="input" type="email" name="email" id="input-email" maxlength="50" required>
-      </div>
-      <div class="line-content">
-        <label for="input-cpf">CPF:</label>
-        <input class="input" type="text" name="cpf" id="input-cpf" maxlength="11" required>
-      </div>
-      <div class="line-content">
-        <label for="input-endereco">Endereço:</label>
-        <input class="input" type="text" name="endereco" id="input-endereco" required maxlength="200">
-      </div>
-      <div class="line-content">
-        <label for="input-cidade">Cidade:</label>
-        <input class="input" type="text" name="endereco" id="input-cidade" required maxlength="28">
-      </div>
-      <div class="line-content">
-        <label for="select-estados"></label>
-        <select class="select" name="estados" id="select-estados" required></select>
-      </div>
-      <div class="line-content">
-        <label class="custom-label" for="radio-casa"><input class="radio" type="radio" name="residencia" id="radio-casa" required> Casa</label>
-        <label class="custom-label" for="radio-apartamento"><input class="radio" type="radio" name="residencia" id="radio-apartamento" required> Apartamento</label>
-      </div>
-    </fieldset>
-
-    <fieldset>
-      <div class="line-content">
-        <label for="input-resumo">Resumo do currículo:</label>
-        <textarea class="textarea" name="resumo" id="input-resumo" cols="30" rows="10" maxlength="1000" required></textarea>
-      </div>
-      <div class="line-content">
-        <label for="input-cargo">Cargo:</label>
-        <input class="input" type="text" name="cargo" id="input-cargo" maxlength="40" required>
-      </div>
-      <div class="line-content">
-        <label for="input-descricao-cargo">Descrição:</label>
-        <textarea class="textarea" name="descricao-cargo" id="input-descricao-cargo" cols="30" rows="10" maxlength="500" required></textarea>
-      </div>
-      <div class="line-content">
-        <label for="input-data-inicio">Data de início:</label>
-        <input class="input" type="text" name="data-inicio" id="input-data-inicio" placeholder="dd/mm/aaaa" maxlength="10" required>
-      </div>
-    </fieldset>
-    <button class="button" type="submit" id="button-submit">Enviar</button>
-    <button class="button" type="reset">Limpar</button>
-  </form>
-  <div class="resume" id="div-resume">
-  </div>
+    </form>
+    <div class="block box resume column" id="div-resume">
+    </div>
+  </main>
 <script src="script.js"></script>
 </body>
 </html>
