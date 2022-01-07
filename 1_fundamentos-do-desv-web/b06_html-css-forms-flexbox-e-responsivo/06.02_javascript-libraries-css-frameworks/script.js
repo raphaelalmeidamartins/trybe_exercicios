@@ -1,6 +1,3 @@
-var moment = require('moment'); // require
-moment().format(); 
-
 // Seletores primeiro fieldset
 const InputName = document.getElementById('input-name');
 const email = document.getElementById('input-email');
