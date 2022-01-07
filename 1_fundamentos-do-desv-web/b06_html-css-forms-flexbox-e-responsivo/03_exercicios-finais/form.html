@@ -24,7 +24,11 @@
       </div>
       <div>
         <label for="input-endereco">Endereço:</label>
-        <input type="text" name="endereco" id="input-endereco" required>
+        <input type="text" name="endereco" id="input-endereco" required maxlength="200">
+      </div>
+      <div>
+        <label for="input-cidade">Cidade:</label>
+        <input type="text" name="endereco" id="input-cidade" required maxlength="28">
       </div>
       <div>
         <label for="select-estados"></label>
@@ -43,17 +47,18 @@
       </div>
       <div>
         <label for="input-cargo">Cargo:</label>
-        <input type="text" name="cargo" id="input-cargo" required>
+        <input type="text" name="cargo" id="input-cargo" maxlength="40" required>
       </div>
       <div>
         <label for="input-descricao-cargo">Descrição:</label>
-        <textarea name="descricao-cargo" id="input-descricao-cargo" cols="30" rows="10" maxlength="1000" required></textarea>
+        <textarea name="descricao-cargo" id="input-descricao-cargo" cols="30" rows="10" maxlength="500" required></textarea>
       </div>
       <div>
         <label for="input-data-inicio">Data de início:</label>
         <input type="text" name="data-inicio" id="input-data-inicio" placeholder="dd/mm/aaaa" maxlength="10" required>
       </div>
     </fieldset>
+    <button type="submit" id="button-submit">Enviar</button>
   </form>
 <script src="script.js"></script>
 </body>
