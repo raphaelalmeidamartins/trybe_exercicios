@@ -1,0 +1,26 @@
+.resume {
+  border: 1px solid black;
+  padding: 20px;
+  max-width: 800px;
+  display: none;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  max-width: 800px;
+}
+
+fieldset {
+  padding: 20px;
+}
+
+.line-content {
+  padding: 20px 0px;
+}

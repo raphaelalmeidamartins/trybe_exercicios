@@ -17,7 +17,13 @@ const startDate = document.getElementById('input-data-inicio');
 // Seletor botão submit
 const submit = document.getElementById('button-submit');
 
+// Seletor div currículo
+const divResume = document.getElementById('div-resume');
+
 const arrayEstados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO', 'DF'];
+
+let errorMessage = '';
+let errorMessageDate = [];
 
 const appendOptions = (item) => {
   const newOption = document.createElement('option');
@@ -48,6 +54,13 @@ function checkAddress() {
   return true;
 }
 
+function checkCity() {
+  if (city.value.length < 0 || city.value.length > 28) {
+    return false;
+  }
+  return true;
+}
+
 function checkCPF() {
   if (cpf.value.length === 11) {
     return true;
@@ -55,15 +68,32 @@ function checkCPF() {
   return false;
 }
 
-function checkCity() {
-
-}
-
-function checkDateFormat() {
-  if (dateValue !== 10) {
+function checkAbstract() {
+  if (abstract.value.length < 0 || abstract.value.length > 1000) {
     return false;
   }
-  if (!(dateValue[2] === '/' && dateValue[5] === '/')) {
+  return true;
+}
+
+function checkRole() {
+  if (role.value.length < 0 || role.value.length > 40) {
+    return false;
+  }
+  return true;
+}
+
+function checkDescription() {
+  if (description.value.length < 0 || description.value.length > 500) {
+    return false;
+  }
+  return true;  
+}
+
+function checkDateFormat(date) {
+  if (date.length !== 10) {
+    return false;
+  }
+  if (!(date[2] === '/' && date[5] === '/')) {
     return false;
   }
 }
@@ -114,14 +144,7 @@ function checkLeapYear(year) {
   }
 }
 
-function checkDayMonthYear(day, month, year) {
-  if (year < 0) {
-    return false;;
-  }
-  if (month < 1 && month > 12) {
-    return false;
-  }
-
+function checkDay(day, month, year) {
   let months = {
     01: 31,
     02: 28,
@@ -141,27 +164,102 @@ function checkDayMonthYear(day, month, year) {
     months['02'] = 29;
   }
 
-  if ((day < 0 && day > months[`${month}`])) {
+  if ((day < 1 && day > months[`${month}`])) {
     return false;
   }
+  return true;
+}
+
+function checkMonth(month) {
+  if (month < 1 && month > 12) {
+    return false;
+  }
+  return true;
+}
+
+function checkYear(year) {
+  if (year < 0) {
+    return false;
+  }
+  return true;
 }
 
 function checkDateValid() {
   const date = startDate.value;
-  const errorMessage = 'Erro: insira uma data válida.'
-  if (!checkDateFormat(date)) {
-    alert(errorMessage);
-  }
   const day = `${date[0]}${date[1]}`;
   const month = `${date[3]}${date[4]}`;
-  const year = `${date[6]}${date[7]}${date[8]}${date[9]}`;;
-  if (!checkDayMonthYear(day, month, year)) {
-    alert(errorMessage);
+  const year = `${date[6]}${date[7]}${date[8]}${date[9]}`;
+  if(!checkDateFormat(date)) {
+    errorMessageDate = 'Erro 02: data com formato errado.';
+    return;
+  }
+  if (checkMonth(month)) {
+    errorMessageDate.push('mês');
+  }
+  if (checkYear(year)) {
+    errorMessageDate.push('ano');
+  }
+  if (checkDay(day, month, year)) {
+    errorMessageDate.unshift('dia');
+  }
+  if(errorMessageDate.length === 1) {
+    errorMessageDate.join('');
+    errorMessageDate = `Erro 02: ${errorMessageDate} inválido`;
+  }
+  if (errorMessageDate.length > 1 && errorMessageDate.length < 3) {
+    errorMessageDate.join('');
+    errorMessageDate = `Erro 02: ${errorMessageDate} inválidos`;
+  }
+  if (errorMessageDate.length === 3) {
+    errorMessageDate = `Erro 02: ${errorMessageDate[0]}, ${errorMessageDate[1]} e ${errorMessageDate[2]} inválidos`;
   }
 }
 
-submit.addEventListener('click', (event) => event.preventDefault());
+function addDataToResume() {
+  const requiredInputs = document.querySelectorAll('[required]');
+  for (const input of requiredInputs) {
+    const paragraph = document.createElement('p');
+    paragraph.innerHTML = `${input.name.toUpperCase()}: ${input.value}`;
+    divResume.appendChild(paragraph);
+  }
+  divResume.style.display = 'block';
+}
 
 function createResume() {
-
+  divResume.innerHTML = '';
+  if (errorMessage.length === 0 && errorMessageDate.length === 0) {  
+    addDataToResume();
+  } else {
+    if (errorMessage.length > 0) {
+      const paragraph = document.createElement('p');
+      paragraph.innerHTML = errorMessage;
+      divResume.appendChild(paragraph);
+      divResume.style.display = 'block';
+    }   
+    if (errorMessageDate.length > 0) {
+      const paragraph = document.createElement('p');
+      paragraph.innerHTML = errorMessageDate;
+      divResume.appendChild(paragraph);
+      divResume.style.display = 'block';
+    }
+  }
 }
+
+function checkDataSubmitted() {
+  if (!checkName() || !checkEmail() || !checkAddress() || !checkCity() || !checkCPF() || !checkAbstract() || !checkRole() || !checkDescription()) {
+    errorMessage = 'Erro 01: dados inválidos ou insuficientes.'
+  } else {
+    errorMessage = '';
+  }
+}
+
+function submitData(event) {
+  event.preventDefault();
+  checkDataSubmitted();
+  checkDateValid();
+  createResume();
+}
+
+window.onload = () => {
+  submit.addEventListener('click', submitData);
+};
