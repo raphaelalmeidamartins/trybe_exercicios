@@ -1,0 +1,67 @@
+body {
+  align-items: center;
+  color: #525252;
+  display: flex;
+  flex-flow: column wrap;
+  font-family: Raleway, sans-serif;
+  justify-content: center;
+  overflow: hidden;
+  width: 100vw;
+}
+
+h1 {
+  font-family: Cinzel, serif;
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 25px;
+  margin: 0;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+p.trick {
+  color: white;
+  font-size: 14px;
+}
+
+p strong {
+  font-weight: 700;
+}
+
+.card p:nth-last-child(1) {
+  align-self: flex-end;
+  font-size: 14px;
+}
+
+.cards {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.card {
+  border-radius: 5px;
+  color: white;
+  display: none;
+  flex-flow: row wrap;
+  height: 200px;
+  margin: 20px;
+  padding: 20px;
+  width: 200px;
+}
+
+.card:nth-of-type(1) {
+  background-color: #0fa36b;
+}
+
+.card:nth-of-type(2) {
+  background-color: #0255c2;
+}
+
+.card:nth-of-type(3) {
+  background-color: #41197f;
+}
