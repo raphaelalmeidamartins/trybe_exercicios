@@ -93,7 +93,7 @@ function checkDateFormat(date) {
   if (date.length !== 10) {
     return false;
   }
-  if (!date[2] === '/' && !date[5] === '/') {
+  if (!(date[2] === '/') && !(date[5] === '/')) {
     return false;
   }
   return true;
@@ -146,42 +146,49 @@ function checkLeapYear(year) {
 }
 
 function checkDay(day, month, year) {
+  if (!day || !month || !year) {
+    return false;
+  }
   let months = {
-    '01': 31,
-    '02': 28,
-    '03': 31,
-    '04': 30,
-    '05': 31,
-    '06': 30,
-    '07': 31,
-    '08': 31,
-    '09': 30,
-    '10': 31,
-    '11': 30,
-    '12': 31,
+    1: 31,
+    2: 28,
+    3: 31,
+    4: 30,
+    5: 31,
+    6: 30,
+    7: 31,
+    8: 31,
+    9: 30,
+    10: 31,
+    11: 30,
+    12: 31,
   };
 
   if(checkLeapYear(year)) {
     months['02'] = 29;
   }
 
-  if ((day < 1 || day > months[`${month}`])) {
+  if ((day < 1 || day > months[month])) {
     return false;
   }
   return true;
 }
 
 function checkMonth(month) {
-  const monthInserted = parseInt(month);
-  if (monthInserted < 1 || monthInserted > 12) {
+  if (!month) {
+    return false;
+  }
+  if (month < 1 || month > 12) {
     return false;
   }
   return true;
 }
 
 function checkYear(year) {
-  const yearInserted = parseInt(year);
-  if (yearInserted < 0) {
+  if (!year) {
+    return false;
+  }
+  if (year < 0) {
     return false;
   }
   return true;
@@ -189,20 +196,20 @@ function checkYear(year) {
 
 function checkDateValid() {
   const date = startDate.value;
-  const day = `${date[0]}${date[1]}`;
-  const month = `${date[3]}${date[4]}`;
-  const year = `${date[6]}${date[7]}${date[8]}${date[9]}`;
+  const day = parseInt(`${date[0]}${date[1]}`);
+  const month = parseInt(`${date[3]}${date[4]}`);
+  const year = parseInt(`${date[6]}${date[7]}${date[8]}${date[9]}`);
   if(!checkDateFormat(date)) {
     errorMessageDate = 'Erro 02: data com formato errado.';
     return;
   }
-  if (checkMonth(month)) {
+  if (!checkMonth(month)) {
     errorMessageDate.push('mês');
   }
-  if (checkYear(year)) {
+  if (!checkYear(year)) {
     errorMessageDate.push('ano');
   }
-  if (checkDay(day, month, year)) {
+  if (!checkDay(day, month, year)) {
     errorMessageDate.unshift('dia');
   }
   if(errorMessageDate.length === 1) {
@@ -256,8 +263,14 @@ function checkDataSubmitted() {
   }
 }
 
+function resetError() {
+  errorMessage = '';
+  errorMessageDate = [];
+}
+
 function submitData(event) {
   event.preventDefault();
+  resetError();
   checkDataSubmitted();
   checkDateValid();
   createResume();
