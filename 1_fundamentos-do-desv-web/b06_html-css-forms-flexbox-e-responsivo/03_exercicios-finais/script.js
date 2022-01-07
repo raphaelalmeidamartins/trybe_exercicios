@@ -17,6 +17,9 @@ const startDate = document.getElementById('input-data-inicio');
 // Seletor botão submit
 const submit = document.getElementById('button-submit');
 
+// Seletor div currículo
+const divResume = document.getElementById('div-resume');
+
 const arrayEstados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO', 'DF'];
 
 let errorMessage = '';
@@ -63,13 +66,6 @@ function checkCPF() {
     return true;
   }
   return false;
-}
-
-function checkRadio() {
-  if (!house.getAttribute('checked') && !apartment.getAttribute('checked')) {
-    return false;    
-  }
-  return true;
 }
 
 function checkAbstract() {
@@ -194,7 +190,7 @@ function checkDateValid() {
   const month = `${date[3]}${date[4]}`;
   const year = `${date[6]}${date[7]}${date[8]}${date[9]}`;
   if(!checkDateFormat(date)) {
-    errorMessageDate = 'Erro: data com formato errado.';
+    errorMessageDate = 'Erro 02: data com formato errado.';
     return;
   }
   if (checkMonth(month)) {
@@ -219,19 +215,49 @@ function checkDateValid() {
   }
 }
 
-function createResume() {
-  const newDiv = document.createElement('div');
-  newDiv.classList.add('resume');
-  document.body.appendChild(newDiv);
+function addDataToResume() {
+  const requiredInputs = document.querySelectorAll('[required]');
+  for (const input of requiredInputs) {
+    const paragraph = document.createElement('p');
+    paragraph.innerHTML = `${input.name.toUpperCase()}: ${input.value}`;
+    divResume.appendChild(paragraph);
+  }
+  divResume.style.display = 'block';
+}
 
-  if (!checkName() || !checkEmail() || !checkAddress() || !checkCity() || !checkCPF() || !checkRadio() || !checkAbstract() || !checkRole() || !checkDescription()) {
+function createResume() {
+  divResume.innerHTML = '';
+  if (errorMessage.length === 0 && errorMessageDate.length === 0) {  
+    addDataToResume();
+  } else {
+    if (errorMessage.length > 0) {
+      const paragraph = document.createElement('p');
+      paragraph.innerHTML = errorMessage;
+      divResume.appendChild(paragraph);
+      divResume.style.display = 'block';
+    }   
+    if (errorMessageDate.length > 0) {
+      const paragraph = document.createElement('p');
+      paragraph.innerHTML = errorMessageDate;
+      divResume.appendChild(paragraph);
+      divResume.style.display = 'block';
+    }
+  }
+}
+
+function checkDataSubmitted() {
+  if (!checkName() || !checkEmail() || !checkAddress() || !checkCity() || !checkCPF() || !checkAbstract() || !checkRole() || !checkDescription()) {
     errorMessage = 'Erro 01: dados inválidos ou insuficientes.'
+  } else {
+    errorMessage = '';
   }
 }
 
 function submitData(event) {
   event.preventDefault();
+  checkDataSubmitted();
   checkDateValid();
+  createResume();
 }
 
 window.onload = () => {
