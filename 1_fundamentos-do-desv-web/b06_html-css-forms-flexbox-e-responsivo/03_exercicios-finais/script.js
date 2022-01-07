@@ -1,5 +1,21 @@
+// Seletores primeiro fieldset
+const InputName = document.getElementById('input-name');
+const email = document.getElementById('input-email');
+const cpf = document.getElementById('input-cpf');
+const address = document.getElementById('input-endereco');
+const city = document.getElementById('input-cidade');
+const house = document.getElementById('radio-casa');
+const apartment = document.getElementById('radio-apartamento');
 const selectState = document.getElementById('select-estados');
+
+// Seletores segundo filedset
+const abstract = document.getElementById('input-resumo');
+const role = document.getElementById('input-cargo');
+const description = document.getElementById('input-descricao-cargo');
 const startDate = document.getElementById('input-data-inicio');
+
+// Seletor botão submit
+const submit = document.getElementById('button-submit');
 
 const arrayEstados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO', 'DF'];
 
@@ -10,6 +26,38 @@ const appendOptions = (item) => {
 };
 
 arrayEstados.forEach(appendOptions);
+
+function checkName() {
+  if (InputName.value.length < 0 || InputName.value.length > 40) {
+    return false;
+  }
+  return true;
+}
+
+function checkEmail() {
+  if (email.value.length < 0 || email.value.length > 50) {
+    return false;
+  }
+  return true;
+}
+
+function checkAddress() {
+  if (address.value.length < 0 || address.value.length > 200) {
+    return false;
+  }
+  return true;
+}
+
+function checkCPF() {
+  if (cpf.value.length === 11) {
+    return true;
+  }
+  return false;
+}
+
+function checkCity() {
+
+}
 
 function checkDateFormat() {
   if (dateValue !== 10) {
@@ -110,4 +158,10 @@ function checkDateValid() {
   if (!checkDayMonthYear(day, month, year)) {
     alert(errorMessage);
   }
+}
+
+submit.addEventListener('click', (event) => event.preventDefault());
+
+function createResume() {
+
 }
