@@ -65,3 +65,27 @@ p strong {
 .card:nth-of-type(3) {
   background-color: #41197f;
 }
+
+@media screen and (min-width: 500px) {
+  #first-div {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px) {
+  #second-div {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 650px) and (max-width: 950px) {
+  #third-div {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  p.trick {
+    color: #525252;
+  }
+}
