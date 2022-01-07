@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Formulário de currículo</title>
+</head>
+<body>
+  <form action="" method="get">
+    <fieldset>
+      <div class="line-content">
+        <label for="input-name">Nome:</label>
+        <input type="text" name="name" id="input-name" maxlength="40" required>
+      </div>
+      <div class="line-content">
+        <label for="input-email">E-mail:</label>
+        <input type="email" name="email" id="input-email" maxlength="50" required>
+      </div>
+      <div class="line-content">
+        <label for="input-cpf">CPF:</label>
+        <input type="text" name="cpf" id="input-cpf" maxlength="11" required>
+      </div>
+      <div class="line-content">
+        <label for="input-endereco">Endereço:</label>
+        <input type="text" name="endereco" id="input-endereco" required maxlength="200">
+      </div>
+      <div class="line-content">
+        <label for="input-cidade">Cidade:</label>
+        <input type="text" name="endereco" id="input-cidade" required maxlength="28">
+      </div>
+      <div class="line-content">
+        <label for="select-estados"></label>
+        <select name="estados" id="select-estados" required></select>
+      </div>
+      <div class="line-content">
+        <label for="radio-casa"><input type="radio" name="residencia" id="radio-casa" required>Casa</label>
+        <label for="radio-apartamento"><input type="radio" name="residencia" id="radio-apartamento" required>Apartamento</label>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <div class="line-content">
+        <label for="input-resumo">Resumo do currículo:</label>
+        <textarea name="resumo" id="input-resumo" cols="30" rows="10" maxlength="1000" required></textarea>
+      </div>
+      <div class="line-content">
+        <label for="input-cargo">Cargo:</label>
+        <input type="text" name="cargo" id="input-cargo" maxlength="40" required>
+      </div>
+      <div class="line-content">
+        <label for="input-descricao-cargo">Descrição:</label>
+        <textarea name="descricao-cargo" id="input-descricao-cargo" cols="30" rows="10" maxlength="500" required></textarea>
+      </div>
+      <div class="line-content">
+        <label for="input-data-inicio">Data de início:</label>
+        <input type="text" name="data-inicio" id="input-data-inicio" placeholder="dd/mm/aaaa" maxlength="10" required>
+      </div>
+    </fieldset>
+    <button type="submit" id="button-submit">Enviar</button>
+    <button type="reset">Limpar</button>
+  </form>
+  <div class="resume" id="div-resume">
+  </div>
+<script src="script.js"></script>
+</body>
+</html>
