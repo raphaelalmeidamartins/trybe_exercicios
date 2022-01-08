@@ -10,7 +10,10 @@
 </head>
 <body>
   <main>
-    <form class="column box" action="" method="get">
+    <header class="block">
+      <h1 class="title is-1">Formulário currículo</h1>
+    </header>
+    <form id="form" class="column box" action="" method="get">
       <fieldset class="block">
         <div class="block">
           <label for="input-name">Nome:</label>
@@ -26,17 +29,17 @@
         </div>
         <div class="block">
           <label for="input-endereco">Endereço:</label>
-          <input class="input" type="text" name="endereç[o" id="input-endereco" required maxlength="200">
+          <input class="input" type="text" name="endereço" id="input-endereco" required maxlength="200">
         </div>
         <div class="block">
           <label for="input-cidade">Cidade:</label>
           <input class="input" type="text" name="cidade" id="input-cidade" required maxlength="28">
         </div>
         <div class="block">
-          <label for="select-estados"></label>
+          <label for="select-estados">Estado: </label>
           <select class="select" name="estados" id="select-estados" required></select>
         </div>
-        <div class="block">
+        <div id="radio-group" class="block">
           <label class="custom-label" for="radio-casa"><input class="radio" type="radio" name="residencia" value="Casa" id="radio-casa" required> Casa</label>
           <label class="custom-label" for="radio-apartamento"><input class="radio" type="radio" name="residencia" id="radio-apartamento" value="Apartamento" required> Apartamento</label>
         </div>
@@ -67,6 +70,7 @@
     <div class="block box resume column" id="div-resume">
     </div>
   </main>
-<script src="script.js"></script>
+<script src="./node_modules/pikaday/pikaday.js"></script>
+<script src="script.js" type="module"></script>
 </body>
 </html>
