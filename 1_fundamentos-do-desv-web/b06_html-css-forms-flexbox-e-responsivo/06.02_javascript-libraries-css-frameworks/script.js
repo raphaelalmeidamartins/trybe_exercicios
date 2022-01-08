@@ -1,5 +1,4 @@
 import JustValidate from './node_modules/just-validate/dist/just-validate.es.js';
-const validate = new JustValidate('#form');
 
 // Seletores primeiro fieldset
 const InputName = document.getElementById('input-name');
@@ -285,4 +284,5 @@ function submitData(event) {
 
 window.onload = () => {
   submit.addEventListener('click', submitData);
+  new window.JustValidate('#form');
 };
