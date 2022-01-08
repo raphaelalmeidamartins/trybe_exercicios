@@ -106,6 +106,9 @@ function checkLeapYear(year) {
 }
 
 function checkDay(day, month, year) {
+  if (!day || !month || !year) {
+    return false;
+  }
   let months = {
     1: 31,
     2: 28,
@@ -125,13 +128,16 @@ function checkDay(day, month, year) {
     months['02'] = 29;
   }
 
-  if ((day < 1 || day > months[`${month}`])) {
+  if ((day < 1 || day > months[month])) {
     return false;
   }
   return true;
 }
 
 function checkMonth(month) {
+  if (!month) {
+    return false;
+  }
   if (month < 1 || month > 12) {
     return false;
   }
@@ -139,6 +145,9 @@ function checkMonth(month) {
 }
 
 function checkYear(year) {
+  if (!year) {
+    return false;
+  }
   if (year < 0) {
     return false;
   }
@@ -147,9 +156,9 @@ function checkYear(year) {
 
 function checkDateValid() {
   const date = startDate.value;
-  const day = `${date[0]}${date[1]}`;
-  const month = `${date[3]}${date[4]}`;
-  const year = `${date[6]}${date[7]}${date[8]}${date[9]}`;
+  const day = parseInt(`${date[0]}${date[1]}`);
+  const month = parseInt(`${date[3]}${date[4]}`);
+  const year = parseInt(`${date[6]}${date[7]}${date[8]}${date[9]}`);
   if(!checkDateFormat(date)) {
     errorMessageDate = 'Erro 02: data com formato errado.';
     return;
