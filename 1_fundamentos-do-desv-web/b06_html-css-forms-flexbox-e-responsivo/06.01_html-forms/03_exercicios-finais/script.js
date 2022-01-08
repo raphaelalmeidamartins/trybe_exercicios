@@ -93,56 +93,16 @@ function checkDateFormat(date) {
   if (date.length !== 10) {
     return false;
   }
-  if (!(date[2] === '/') && !(date[5] === '/')) {
-    return false;
+  if ((date[2] === '/') && date[5] === '/') {
+    return true;
   }
-  return true;
+  return false;
 }
-
-// Função para descobrir se o ano é bissext seguingo os passos:
-// Step-1 : If the year is evenly divisible by 4, go to step 2. Otherwise, go to step 5.
-// Step-2 : If the year is evenly divisible by 100, go to step 3. Otherwise, go to step 4.
-// Step-3 : If the year is evenly divisible by 400, go to step 4. Otherwise, go to step 5.
-// Step-4 : The year is a leap year (it has 366 days).
-// Step-5 : The year is not a leap year (it has 365 days).
-
 function checkLeapYear(year) {
-  const steps = {
-    1: 4,
-    2: 100,
-    3: 400
+  if (year % 4 === 0 || year % 400 === 0) {
+    return true;
   }
-  
-  let currentStep = '1';
-  let checkDone = false;
-
-  while (checkDone === false) {
-    if (year % steps[currentStep] === 0) {
-      switch (currentStep) {
-        case '1':
-          currentStep = '2'
-          break;
-      
-        case '2':
-          currentStep = '3'
-          break;
-        
-        case '3':
-          return true;
-      }
-    } else {
-      switch (currentStep) {
-        case '1':
-          return false;
-      
-        case '2':
-          return true;
-        
-        case '3':
-          return false;
-      }
-    }
-  }
+  return false;
 }
 
 function checkDay(day, month, year) {
