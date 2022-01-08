@@ -93,68 +93,29 @@ function checkDateFormat(date) {
   if (date.length !== 10) {
     return false;
   }
-  if (!(date[2] === '/' && date[5] === '/')) {
-    return false;
+  if ((date[2] === '/') && date[5] === '/') {
+    return true;
   }
+  return false;
 }
-
-// Função para descobrir se o ano é bissext seguingo os passos:
-// Step-1 : If the year is evenly divisible by 4, go to step 2. Otherwise, go to step 5.
-// Step-2 : If the year is evenly divisible by 100, go to step 3. Otherwise, go to step 4.
-// Step-3 : If the year is evenly divisible by 400, go to step 4. Otherwise, go to step 5.
-// Step-4 : The year is a leap year (it has 366 days).
-// Step-5 : The year is not a leap year (it has 365 days).
-
 function checkLeapYear(year) {
-  const steps = {
-    1: 4,
-    2: 100,
-    3: 400
+  if (year % 4 === 0 || year % 400 === 0) {
+    return true;
   }
-  
-  let currentStep = '1';
-  let checkDone = false;
-
-  while (checkDone === false) {
-    if (year % steps[currentStep] === 0) {
-      switch (currentStep) {
-        case '1':
-          currentStep = '2'
-          break;
-      
-        case '2':
-          currentStep = '3'
-          break;
-        
-        case '3':
-          return true;
-      }
-    } else {
-      switch (currentStep) {
-        case '1':
-          return false;
-      
-        case '2':
-          return true;
-        
-        case '3':
-          return false;
-      }
-    }
-  }
+  return false;
 }
 
 function checkDay(day, month, year) {
   let months = {
-    01: 31,
-    02: 28,
-    03: 31,
-    04: 30,
-    05: 31,
-    06: 30,
-    07: 31,
-    08: 31,
-    09: 30,
+    1: 31,
+    2: 28,
+    3: 31,
+    4: 30,
+    5: 31,
+    6: 30,
+    7: 31,
+    8: 31,
+    9: 30,
     10: 31,
     11: 30,
     12: 31,
@@ -164,14 +125,14 @@ function checkDay(day, month, year) {
     months['02'] = 29;
   }
 
-  if ((day < 1 && day > months[`${month}`])) {
+  if ((day < 1 || day > months[`${month}`])) {
     return false;
   }
   return true;
 }
 
 function checkMonth(month) {
-  if (month < 1 && month > 12) {
+  if (month < 1 || month > 12) {
     return false;
   }
   return true;
@@ -193,13 +154,13 @@ function checkDateValid() {
     errorMessageDate = 'Erro 02: data com formato errado.';
     return;
   }
-  if (checkMonth(month)) {
+  if (!checkMonth(month)) {
     errorMessageDate.push('mês');
   }
-  if (checkYear(year)) {
+  if (!checkYear(year)) {
     errorMessageDate.push('ano');
   }
-  if (checkDay(day, month, year)) {
+  if (!checkDay(day, month, year)) {
     errorMessageDate.unshift('dia');
   }
   if(errorMessageDate.length === 1) {
