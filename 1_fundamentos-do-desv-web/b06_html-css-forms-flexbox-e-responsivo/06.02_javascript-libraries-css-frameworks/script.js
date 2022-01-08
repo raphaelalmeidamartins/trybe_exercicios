@@ -152,6 +152,9 @@ validation
       errorMessage: 'Campo obrigatório',
     },
   ])
+  .onSuccess((event) => {
+    addDataToResume();
+  });
 
 const divResume = document.getElementById('div-resume');
 
@@ -162,14 +165,17 @@ function addDataToResume() {
   resumeTitle.innerHTML = 'Curriculum Vitae';
   resumeTitle.classList.add('title');
   divResume.appendChild(resumeTitle);
-  for (const input of requiredInputs) {
+  for (let i = 0; i < requiredInputs.length; i += 1) {
     const paragraph = document.createElement('p');
-    paragraph.innerHTML = `${input.name.toUpperCase()}: ${input.value}`;
-    divResume.appendChild(paragraph);
+    paragraph.className = 'block';    
+    if (requiredInputs[i].type === 'radio') {
+      if (requiredInputs[i].checked === true) {
+        paragraph.innerHTML = `<strong>Tipo de residência:</strong> ${requiredInputs[i].parentNode.innerHTML}`;
+      }
+    } else {
+      paragraph.innerHTML = `<strong>${requiredInputs[i].previousElementSibling.innerHTML}</strong> ${requiredInputs[i].value}`;
+      divResume.appendChild(paragraph);      
+    }
   }
   divResume.style.display = 'block';
 }
-
-// window.onload = () => {
-
-// };
