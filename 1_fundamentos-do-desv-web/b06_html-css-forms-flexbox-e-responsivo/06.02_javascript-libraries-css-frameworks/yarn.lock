@@ -2,12 +2,17 @@
 # yarn lockfile v1
 
 
-bulma@^0.9.3:
-  version "0.9.3"
-  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.9.3.tgz#ddccb7436ebe3e21bf47afe01d3c43a296b70243"
-  integrity sha512-0d7GNW1PY4ud8TWxdNcP6Cc8Bu7MxcntD/RRLGWuiw/s0a9P+XlH/6QoOIrmbj6o8WWJzJYhytiu9nFjTszk1g==
+"bulma@^0.9.3":
+  "integrity" "sha512-0d7GNW1PY4ud8TWxdNcP6Cc8Bu7MxcntD/RRLGWuiw/s0a9P+XlH/6QoOIrmbj6o8WWJzJYhytiu9nFjTszk1g=="
+  "resolved" "https://registry.npmjs.org/bulma/-/bulma-0.9.3.tgz"
+  "version" "0.9.3"
 
-just-validate@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/just-validate/-/just-validate-3.2.2.tgz#fcc0d4ef263efa8b825f68921c2003e79549b94c"
-  integrity sha512-j5iprzEuDyNl4H0YMhAmHi3O+GLC3418N3xQsjSt1jOZfXpo+I8GHTK1PaKmTN3ijjmKc3HBmewGEGeN9fm3xA==
+"just-validate@^3.2.2":
+  "integrity" "sha512-j5iprzEuDyNl4H0YMhAmHi3O+GLC3418N3xQsjSt1jOZfXpo+I8GHTK1PaKmTN3ijjmKc3HBmewGEGeN9fm3xA=="
+  "resolved" "https://registry.npmjs.org/just-validate/-/just-validate-3.2.2.tgz"
+  "version" "3.2.2"
+
+"pikaday@^1.8.2":
+  "integrity" "sha512-TNtsE+34BIax3WtkB/qqu5uepV1McKYEgvL3kWzU7aqPCpMEN6rBF3AOwu4WCwAealWlBGobXny/9kJb49C1ew=="
+  "resolved" "https://registry.npmjs.org/pikaday/-/pikaday-1.8.2.tgz"
+  "version" "1.8.2"
