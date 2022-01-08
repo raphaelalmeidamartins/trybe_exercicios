@@ -5,12 +5,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
+  <!-- <link rel="stylesheet" href="dist/css/DatePickerX.min.css"> -->
   <link rel="stylesheet" href="style.css">
+  <!-- <script src="dist/js/DatePickerX.min.js"></script> -->
   <title>Formulário de currículo</title>
 </head>
 <body>
   <main>
-    <form class="column box" action="" method="get">
+    <form id="form" class="column box" action="" method="get">
+      <header class="block">
+        <h1 class="title is-1">Formulário currículo</h1>
+      </header>
       <fieldset class="block">
         <div class="block">
           <label for="input-name">Nome:</label>
@@ -26,7 +31,7 @@
         </div>
         <div class="block">
           <label for="input-endereco">Endereço:</label>
-          <input class="input" type="text" name="endereç[o" id="input-endereco" required maxlength="200">
+          <input class="input" type="text" name="endereço" id="input-endereco" required maxlength="200">
         </div>
         <div class="block">
           <label for="input-cidade">Cidade:</label>
@@ -67,6 +72,6 @@
     <div class="block box resume column" id="div-resume">
     </div>
   </main>
-<script src="script.js"></script>
+<script src="script.js" type="module"></script>
 </body>
 </html>

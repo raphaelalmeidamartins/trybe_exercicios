@@ -1,0 +1,16 @@
+{
+  "name": "06.02_javascript-libraries-css-frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "just-validate": "^3.2.2"
+  }
+}

@@ -1,3 +1,6 @@
+import JustValidate from './node_modules/just-validate/dist/just-validate.es.js';
+const validate = new JustValidate('#form');
+
 // Seletores primeiro fieldset
 const InputName = document.getElementById('input-name');
 const email = document.getElementById('input-email');
@@ -227,6 +230,10 @@ function checkDateValid() {
 
 function addDataToResume() {
   const requiredInputs = document.querySelectorAll('[required]');
+  const resumeTitle = document.createElement('h1');
+  resumeTitle.innerHTML = 'Curriculum Vitae';
+  resumeTitle.classList.add('title');
+  divResume.appendChild(resumeTitle);
   for (const input of requiredInputs) {
     const paragraph = document.createElement('p');
     paragraph.innerHTML = `${input.name.toUpperCase()}: ${input.value}`;
