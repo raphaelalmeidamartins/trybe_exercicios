@@ -42,10 +42,12 @@ validation
     {
       rule: 'minLength',
       value: 3,
+      errorMessage: 'Nome precisa ter no mínimo 3 caracteres.',
     },
     {
       rule: 'maxLength',
       value: 40,
+      errorMessage: 'O limite é de 40 caracteres.'
     },
   ])
   .addField('#input-email', [
@@ -54,110 +56,72 @@ validation
       errorMessage: 'Campo obrigatório',
     },    
     {
-      rule: 'minLength',
-      value: 3,
+      rule: 'email',
+      errorMessage: 'Email inválido',
     },
     {
       rule: 'maxLength',
-      value: 40,
+      value: 50,
+      errorMessage: 'O limite é de 50 caracteres.'
     },
   ])
   .addField('#input-cpf', [
     {
       rule: 'required',
       errorMessage: 'Campo obrigatório',
-    },    
+    },
     {
       rule: 'minLength',
-      value: 3,
+      value: 11,
+      errorMessage: 'CPF inválido',
     },
     {
       rule: 'maxLength',
-      value: 40,
+      value: 11,
+      errorMessage: 'CPF inválido',
     },
   ])
   .addField('#input-endereco', [
     {
       rule: 'required',
       errorMessage: 'Campo obrigatório',
-    },    
-    {
-      rule: 'minLength',
-      value: 3,
     },
     {
       rule: 'maxLength',
-      value: 40,
+      value: 200,
+      errorMessage: 'O limite é de 200 caracteres.'      
     },
   ])
   .addField('#input-cidade', [
     {
       rule: 'required',
       errorMessage: 'Campo obrigatório',
-    },    
-    {
-      rule: 'minLength',
-      value: 3,
     },
     {
       rule: 'maxLength',
-      value: 40,
+      value: 28,
+      errorMessage: 'O limite é de 28 caracteres.'
     },
   ])
   .addField('#select-estados', [
     {
       rule: 'required',
       errorMessage: 'Campo obrigatório',
-    },    
-    {
-      rule: 'minLength',
-      value: 3,
-    },
-    {
-      rule: 'maxLength',
-      value: 40,
     },
   ])
-  .addField('#radio-casa', [
-    {
-      rule: 'required',
-      errorMessage: 'Campo obrigatório',
-    },    
-    {
-      rule: 'minLength',
-      value: 3,
-    },
-    {
-      rule: 'maxLength',
-      value: 40,
-    },
-  ])
-  .addField('#radio-apartamento', [
-    {
-      rule: 'required',
-      errorMessage: 'Campo obrigatório',
-    },    
-    {
-      rule: 'minLength',
-      value: 3,
-    },
-    {
-      rule: 'maxLength',
-      value: 40,
-    },
-  ])
+  .addRequiredGroup(
+    '#radio-group',
+    'Uma das opções precisa ser selecionada'
+  )
   .addField('#input-resumo', [
     {
       rule: 'required',
       errorMessage: 'Campo obrigatório',
     },    
     {
-      rule: 'minLength',
-      value: 3,
-    },
-    {
       rule: 'maxLength',
-      value: 40,
+      value: 1000,
+      errorMessage: 'O limite é de 1000 caracteres.'
     },
   ])
   .addField('#input-cargo', [
@@ -166,12 +130,9 @@ validation
       errorMessage: 'Campo obrigatório',
     },    
     {
-      rule: 'minLength',
-      value: 3,
-    },
-    {
       rule: 'maxLength',
       value: 40,
+      errorMessage: 'O limite é de 40 caracteres.'
     },
   ])
   .addField('#input-descricao-cargo', [
@@ -180,123 +141,17 @@ validation
       errorMessage: 'Campo obrigatório',
     },    
     {
-      rule: 'minLength',
-      value: 3,
-    },
-    {
       rule: 'maxLength',
-      value: 40,
+      value: 500,
+      errorMessage: 'O limite é de 500 caracteres.'
     },
   ])
   .addField('#input-data-inicio', [
     {
       rule: 'required',
       errorMessage: 'Campo obrigatório',
-    },    
-    {
-      rule: 'minLength',
-      value: 3,
-    },
-    {
-      rule: 'maxLength',
-      value: 40,
     },
   ])
-
-// new JustValidate('#form', {
-//   rules: {
-//     name: {
-//       required: true,
-//       minLength: 3,
-//       maxLength: 40
-//     },
-//     email: {
-//       required: true,
-//       email: true,
-//       maxLength: 50
-//     },
-//     cpf: {
-//       required: true,
-//       maxLength: 11
-//     },
-//     address: {
-//       required: true,
-//       maxLength: 200
-//     },
-//     city: {
-//       required: true,
-//       maxLength: 28
-//     },
-//     state: {
-//       required: true,
-//     },
-//     radio: {
-//       required: true,
-//     },
-//     resume: {
-//       required: true,
-//       maxLength: 1000
-//     },
-//     position: {
-//       required: true,
-//       maxLength: 40
-//     },
-//     description: {
-//       required: true,
-//       maxLength: 500
-//     },
-//     date: {
-//       required: true,
-//     }
-//   },
-//   messages: {
-//     name: {
-//       required: 'O campo de nome é obrigatório.',
-//       maxLength: 'O limite é de 40 caracteres.'
-//     },
-//     email: {
-//       required: 'O campo de email é obrigatório.',
-//       email: 'O email digitado não é válido.',
-//       maxLength: 'O limite é de 50 caracteres.'
-//     },
-//     cpf: {
-//       required: 'O campo de CPF é obrigatório.',
-//       maxLength: 'O limite é de 11 caracteres.'
-//     },
-//     address: {
-//       required: 'O campo endereço é obrigatório.',
-//       maxLength: 'O limite é de 200 caracteres.'
-//     },
-//     city: {
-//       required: 'O campo cidade é obrigatório.',
-//       maxLength: 'O limite é de 28 caracteres.'
-//     },
-//     state: {
-//       required: 'O campo estado é obrigatório.',
-//     },
-//     radio: {
-//       required: 'A escolha de um item é obrigatória.',
-//     },
-//     resume: {
-//       required: 'Este campo é obrigatório.',
-//       maxLength: 'O limite é de 1000 caracteres.'
-//     },
-//     position: {
-//       required: 'Este campo é obrigatório.',
-//       maxLength: 'O limite é de 40 caracteres.'
-//     },
-//     description: {
-//       required: 'Este campo é obrigatório.',
-//       maxLength: 'O limite é de 500 caracteres.'
-//     },
-//     date: {
-//       required: 'Este campo é obrigatório.',
-//     }
-//   },
-//   submitHandler: function (form, values) {
-//     console.log(form, values);
-//   }
-// });
 
 const divResume = document.getElementById('div-resume');
 
