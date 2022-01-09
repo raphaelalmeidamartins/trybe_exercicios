@@ -5,10 +5,12 @@
 <p id="pt">Portfólio de exercícios e atividades realizadas por <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> no decorrer do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 
 <p>Turma 19 | Novembro de 2021.</p>
-<i>
-    <p>"A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso proﬁssional das pessoas estudantes. Com o Modelo de Sucesso Compartilhado, quem estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando.</p>
-    <p>São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."</p>
-</i>
+<blockquote>
+  <i>
+      <p>"A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso proﬁssional das pessoas estudantes. Com o Modelo de Sucesso Compartilhado, quem estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando.</p>
+      <p>São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."</p>
+  </i>
+</blockquote>
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
@@ -47,11 +49,11 @@
 - [x] 05.07 — _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
 #### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo]()
-- [ ] 06.01 — _HTML & CSS - Forms_
-- [ ] 06.02 — _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 06.03 — _Introdução - CSS Flexbox_
-- [ ] 06.03 — _CSS Flexbox - Parte 1_
-- [ ] 06.04 — _CSS Flexbox - Parte 2_
+- [x] 06.01 — _HTML & CSS - Forms_
+- [x] 06.02 — _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 06.03 — _Introdução - CSS Flexbox_
+- [x] 06.03 — _CSS Flexbox - Parte 1_
+- [x] 06.04 — _CSS Flexbox - Parte 2_
 - [ ] 06.05 — _CSS Responsivo - Mobile First_
 - [ ] 06.06 — _[Projeto - Trybewarts]()_
 
@@ -258,10 +260,12 @@
 <h2 id="en">:us: English</h2>
 <p>Portfolio of exercises and activities performed by <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a> during the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 <p>19th Class | November 2021.</b>
-<i>
-    <p>"Trybe is a technology school that has a genuine commitment to the professional success of its students. With the Shared Success Model, those who study at Trybe have the option of paying only when they are already working.</b>
-    <p>There are more than 1500 hours of training that covers the fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies, and soft skills."</p>
-</i>
+<blockquote>
+  <i>
+      <p>"Trybe is a technology school that has a genuine commitment to the professional success of its students. With the Shared Success Model, those who study at Trybe have the option of paying only when they are already working.</b>
+      <p>There are more than 1500 hours of training that covers the fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies, and soft skills."</p>
+  </i>
+</blockquote>
 
 ## Principles of Web Development :hourglass_flowing_sand:
 
@@ -299,7 +303,7 @@
 - [x] 05.07 — _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - [x] 05.07 — _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
-#### [Unit 06: HTML & CSS: Forms, Flexbox, and Responsivity]()
+#### [Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness]()
 - [ ] 06.01 — _HTML & CSS - Forms_
 - [ ] 06.02 — _JavaScript Libraries and CSS Frameworks_
 - [ ] 06.03 — _Introduction - Flexbox CSS_
