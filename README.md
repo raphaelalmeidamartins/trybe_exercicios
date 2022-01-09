@@ -303,7 +303,7 @@
 - [x] 05.07 — _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - [x] 05.07 — _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
-#### [Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness]()
+#### [Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo)
 - [ ] 06.01 — _HTML & CSS - Forms_
 - [ ] 06.02 — _JavaScript Libraries and CSS Frameworks_
 - [ ] 06.03 — _Introduction - Flexbox CSS_
