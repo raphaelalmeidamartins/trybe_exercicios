@@ -48,7 +48,7 @@
 - [x] 05.07 — _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
 - [x] 05.07 — _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
-#### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo]()
+#### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo)
 - [x] 06.01 — _HTML & CSS - Forms_
 - [x] 06.02 — _Bibliotecas JavaScript e Frameworks CSS_
 - [x] 06.03 — _Introdução - CSS Flexbox_
