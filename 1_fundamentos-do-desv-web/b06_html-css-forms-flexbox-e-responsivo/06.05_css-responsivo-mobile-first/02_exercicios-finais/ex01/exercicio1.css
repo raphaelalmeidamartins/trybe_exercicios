@@ -46,6 +46,11 @@ figcaption {
   font-size: .8em;
 }
 
+header, main, article {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 @media screen and (min-width: 469px) {
   body {
     background-color: red;
@@ -64,5 +69,12 @@ figcaption {
 
   section figure {
     width: 50%;
+  }
+}
+
+@media screen and (min-width: 918px) {
+  body {
+    background-color: blue;
+    font-size: 0.8em;
   }
 }
