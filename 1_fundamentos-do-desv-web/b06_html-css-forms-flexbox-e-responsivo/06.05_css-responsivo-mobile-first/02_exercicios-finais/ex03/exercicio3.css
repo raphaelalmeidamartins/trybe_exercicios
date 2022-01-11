@@ -84,3 +84,60 @@ body {
     display: none;
   }
 }
+
+@media screen and (max-width: 660px) {
+  #aside {
+    display: none;
+  }
+
+  body {
+    padding: 0;
+    font-size: 12px;
+  }
+
+  main {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  #header {
+    top: 0;
+    position: fixed;
+    width: 100vw;
+  }
+
+  #header h1 {
+    font-size: 16px;
+  }
+
+  #content {
+    width: 92%;
+    margin: 0 10px;
+  }
+
+  #navigation {
+    margin: 70px 0 0;
+  }
+
+  #navigation ul{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #navigation ul li a{
+    border: 0;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  body {
+    font-size: 16px;
+  }
+
+  #header h1 {
+    font-size: 20px;
+  }
+}
