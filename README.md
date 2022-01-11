@@ -54,7 +54,7 @@
 - [x] 06.03 — _Introdução - CSS Flexbox_
 - [x] 06.03 — _CSS Flexbox - Parte 1_
 - [x] 06.04 — _CSS Flexbox - Parte 2_
-- [ ] 06.05 — _CSS Responsivo - Mobile First_
+- [x] 06.05 — _CSS Responsivo - Mobile First_
 - [ ] 06.06 — _[Projeto - Trybewarts]()_
 
 #### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários]()
@@ -304,12 +304,12 @@
 - [x] 05.07 — _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
 
 #### [Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo)
-- [ ] 06.01 — _HTML & CSS - Forms_
-- [ ] 06.02 — _JavaScript Libraries and CSS Frameworks_
-- [ ] 06.03 — _Introduction - Flexbox CSS_
-- [ ] 06.03 — _Flexbox CSS - Part 1_
-- [ ] 06.04 — _Flexbox CSS - Part 2_
-- [ ] 06.05 — _CSS Responsive - Mobile First_
+- [x] 06.01 — _HTML & CSS - Forms_
+- [x] 06.02 — _JavaScript Libraries and CSS Frameworks_
+- [x] 06.03 — _Introduction - Flexbox CSS_
+- [x] 06.03 — _Flexbox CSS - Part 1_
+- [x] 06.04 — _Flexbox CSS - Part 2_
+- [x] 06.05 — _CSS Responsive - Mobile First_
 - [ ] 06.06 — _[Project - Trybewarts]()_
 
 #### [Unit 07: Introduction to JavaScript ES6 and Unitary Tests]()
