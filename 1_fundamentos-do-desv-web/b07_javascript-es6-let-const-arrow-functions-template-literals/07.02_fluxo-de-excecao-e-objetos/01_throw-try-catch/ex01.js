@@ -12,10 +12,12 @@ const sum2 = (value1, value2) => {
 console.log(sum2(2, '3'));
 
 // new - criar objeto, seja personalizado, seja padrão do JavaScript.
-function Student(name, age, favoriteLanguage) {
-  this.name = name;
-  this.age = age;
-  this.favoriteLanguage = favoriteLanguage;
+class Student {
+  constructor(name, age, favoriteLanguage) {
+    this.name = name;
+    this.age = age;
+    this.favoriteLanguage = favoriteLanguage;
+  }
 }
 const student1 = new Student('Raphael', 27, 'JavaScript');
 console.log(student1);
