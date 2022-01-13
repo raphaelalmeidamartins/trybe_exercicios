@@ -1,0 +1,2 @@
+const sentence = 'Olá, Tribo!';
+
