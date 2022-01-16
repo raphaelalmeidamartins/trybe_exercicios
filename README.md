@@ -55,7 +55,7 @@
 - [x] 06.03 — _CSS Flexbox - Parte 1_
 - [x] 06.04 — _CSS Flexbox - Parte 2_
 - [x] 06.05 — _CSS Responsivo - Mobile First_
-- [ ] 06.06 — _[Projeto - Trybewarts]()_
+- [x] 06.06 — _[Projeto - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts)_
 
 #### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários]()
 - [ ] 07.01 — _JavaScript ES6 - let, const, arrow functions e template literals_
@@ -310,7 +310,7 @@
 - [x] 06.03 — _Flexbox CSS - Part 1_
 - [x] 06.04 — _Flexbox CSS - Part 2_
 - [x] 06.05 — _CSS Responsive - Mobile First_
-- [ ] 06.06 — _[Project - Trybewarts]()_
+- [x] 06.06 — _[Project - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts)_
 
 #### [Unit 07: Introduction to JavaScript ES6 and Unitary Tests]()
 - [ ] 07.01 — _JavaScript ES6 - let, const, arrow functions, and template literals_
