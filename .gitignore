@@ -22,12 +22,12 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
-./1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules
+/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/
 
-./1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/.vscode
+/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/.vscode/
 
-./1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo/06.02_javascript-libraries-css-frameworks/node_modules
+/1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo/06.02_javascript-libraries-css-frameworks/node_modules/
 
-./1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/.vscode
+/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/.vscode/
 
 
