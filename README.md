@@ -60,7 +60,7 @@
 #### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals)
 - [x] 07.01 — _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 07.02 — _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [ ] 07.03 — _Primeiros passos em Jest_
+- [x] 07.03 — _Primeiros passos em Jest_
 - [ ] 07.04 — _[Projeto - JavaScript Testes Unitários]()_
 
 #### [Bloco 08: Higher-Order Functions do JavaScript ES6]()
@@ -315,7 +315,7 @@
 #### [Unit 07: Introduction to JavaScript ES6 and Unitary Tests](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals)
 - [x] 07.01 — _JavaScript ES6 - let, const, arrow functions, and template literals_
 - [x] 07.02 — _JavaScript ES6 - Exception flow and Objetcs_
-- [ ] 07.03 — _First steps with Jest_
+- [x] 07.03 — _First steps with Jest_
 - [ ] 07.04 — _[Project - JavaScript Unitary Tests]()_
 
 #### [Unit 08: JavaScript ES6 Higher-Order Functions]()
