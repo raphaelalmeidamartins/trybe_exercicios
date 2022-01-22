@@ -81,4 +81,4 @@ function longestNamedBook(arrayObjects) {
   });
 }
 
-console.log(longestNamedBook(books))
+console.log(longestNamedBook(books));
