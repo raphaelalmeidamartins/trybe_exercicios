@@ -25,19 +25,19 @@ const battleMembers = { mage, warrior, dragon };
 
 // Parte I
 
-const dragonDamage = (dragon) => {
+const dragonAttack = (dragon) => {
   const min = 15;
   const max = dragon.strength;
   return Math.floor(Math.random() * (max - min) + min);
 };
 
-const warriorDamage = (warrior) => {
+const warriorAttack = (warrior) => {
   const min = warrior.strength;
   const max = min * warrior.weaponDmg;
   return Math.floor(Math.random() * (max - min) + min);
 };
 
-const mageDamage = (mage) => {
+const mageAttack = (mage) => {
   if (mage.mana < 15) throw new Error('mana suficiente');
   const min = mage.intelligence;
   const max = min * 2;
@@ -49,9 +49,9 @@ const mageDamage = (mage) => {
 // Parte II
 
 const gameActions = {
-  warriorAction: (warriorDamage) => {
+  warriorAction: (warriorAttack) => {
     try {
-      warrior.damage = warriorDamage(warrior);
+      warrior.damage = warriorAttack(warrior);
       if (!dragon.alive) throw new Error('Dragão já está morto.');
       dragon.healthPoints -= warrior.damage;
       if (dragon.healthPoints < 0) dragon.alive = false;
@@ -59,9 +59,9 @@ const gameActions = {
       console.log(`Ataque do Guerreiro falhou: ${error.message}`);
     }
   },
-  mageAction: (mageDamage) => {
+  mageAction: (mageAttack) => {
     try {
-      const actionResults = mageDamage(mage);
+      const actionResults = mageAttack(mage);
       mage.damage = actionResults.damage;
       mage.mana -= actionResults.spentMana;
       if (!dragon.alive) throw new Error('Dragão já está morto.');
@@ -71,9 +71,9 @@ const gameActions = {
       console.log(`Ataque do Mago falhou: ${error.message}`);
     }
   },
-  dragonAction: (dragonDamage) => {
+  dragonAction: (dragonAttack) => {
     try {
-      dragon.damage = dragonDamage(dragon);
+      dragon.damage = dragonAttack(dragon);
       const damageWarrior = () => {
         if (!warrior.alive) throw new Error('Guerreiro já está morto.');    
         warrior.healthPoints -= dragon.damage;
@@ -93,7 +93,7 @@ const gameActions = {
   endTurn: () => battleMembers
 };
 
-gameActions.warriorAction(warriorDamage);
-gameActions.mageAction(mageDamage);
-gameActions.dragonAction(dragonDamage);
+gameActions.warriorAction(warriorAttack);
+gameActions.mageAction(mageAttack);
+gameActions.dragonAction(dragonAttack);
 console.log(gameActions.endTurn());
