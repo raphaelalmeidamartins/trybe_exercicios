@@ -63,7 +63,7 @@
 - [x] 07.03 — _Primeiros passos em Jest_
 - [x] 07.04 — _[Projeto - JavaScript ES6 Testes Unitários](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
 
-#### [Bloco 08: Higher-Order Functions do JavaScript ES6]()
+#### [Bloco 08: Higher-Order Functions do JavaScript ES6](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b08_HOF-JavaScrip-ES6)
 - [x] 08.01 — _JavaScript ES6 - Introdução a Higher-Order Functions_
 - [x] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
 - [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
@@ -318,7 +318,7 @@
 - [x] 07.03 — _First steps with Jest_
 - [x] 07.04 — _[Project - JavaScript ES6 Unit Tests](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
 
-#### [Unit 08: JavaScript ES6 Higher-Order Functions]()
+#### [Unit 08: JavaScript ES6 Higher-Order Functions](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b08_HOF-JavaScrip-ES6)
 - [x] 08.01 — _JavaScript ES6 - Introduction to Higher-Order Functions_
 - [x] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
 - [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
