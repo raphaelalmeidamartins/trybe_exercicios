@@ -61,13 +61,13 @@
 - [x] 07.01 — _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 07.02 — _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [x] 07.03 — _Primeiros passos em Jest_
-- [x] 07.04 — _[Projeto - JavaScript Testes Unitários](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
+- [x] 07.04 — _[Projeto - JavaScript ES6 Testes Unitários](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
 
 #### [Bloco 08: Higher-Order Functions do JavaScript ES6]()
-- [ ] 08.01 — _JavaScript ES6 - Introdução a Higher-Order Functions_
-- [ ] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
-- [ ] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
-- [ ] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
+- [x] 08.01 — _JavaScript ES6 - Introdução a Higher-Order Functions_
+- [x] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
+- [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
+- [x] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
 - [ ] 08.05 — _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [ ] 08.06 — _[Projeto - Zoo functions]()_
 
@@ -312,17 +312,17 @@
 - [x] 06.05 — _CSS Responsive - Mobile First_
 - [x] 06.06 — _[Project - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts)_
 
-#### [Unit 07: Introduction to JavaScript ES6 and Unitary Tests](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals)
+#### [Unit 07: Introduction to JavaScript ES6 and Unit Tests](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals)
 - [x] 07.01 — _JavaScript ES6 - let, const, arrow functions, and template literals_
 - [x] 07.02 — _JavaScript ES6 - Exception flow and Objetcs_
 - [x] 07.03 — _First steps with Jest_
-- [x] 07.04 — _[Project - JavaScript Unitary Tests](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
+- [x] 07.04 — _[Project - JavaScript ES6 Unit Tests](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
 
 #### [Unit 08: JavaScript ES6 Higher-Order Functions]()
-- [ ] 08.01 — _JavaScript ES6 - Introduction to Higher-Order Functions_
-- [ ] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
-- [ ] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
-- [ ] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
+- [x] 08.01 — _JavaScript ES6 - Introduction to Higher-Order Functions_
+- [x] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
+- [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
+- [x] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
 - [ ] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 - [ ] 08.06 — _[Projeto - Zoo functions]()_
 
