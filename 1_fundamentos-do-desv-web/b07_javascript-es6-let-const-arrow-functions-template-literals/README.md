@@ -8,8 +8,8 @@
 - _[Projeto - Zoo Functions]()_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned new EcmaScript 2015 (ES6) features, such as <strong>arrow functions</strong>, <strong>template literals</strong> the reserved words <code>let</code> and <code>const</code> to declare variables. We also learned about exception flow and how to use <code>try...catch...finally</code> to handle erros in our code.</p>
-<p>Finally, we were introduced to the tests framework Jest. We learned how we can test our code and about the TDD methodology (Test Driven Development).</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned new EcmaScript 2015 (ES6) features, such as <strong>arrow functions</strong>, <strong>template literals</strong> the reserved words <code>let</code> and <code>const</code> to declare variables. We also learned about exception flow and how to use <code>try...catch...finally</code> to handle errors in our code.</p>
+<p>Finally, we were introduced to the framework Jest. We learned how we can test our code and about the TDD methodology (Test Driven Development).</p>
 <p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 
 - _[Project - Zoo Functions]()_
