@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript ES6 - Exception flow and Objetcs</h3>
-<p>In today's class, we studied exception flow, how we can use <code>try...catch...finally</code> to handle errors on our code. We also learned functions to access and manipulate objects, such as <code>Object.keys()</code>, <code>Object.values()</code>, <code>Object.entries()</code>, and <code>Object.assign()</code>.</p>
+<p>In today's class, we studied exception flow, how we can use <code>try...catch...finally</code> to handle errors in our code. We also learned functions to access and manipulate objects, such as <code>Object.keys()</code>, <code>Object.values()</code>, <code>Object.entries()</code>, and <code>Object.assign()</code>.</p>
