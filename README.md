@@ -68,8 +68,8 @@
 - [x] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
 - [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
 - [x] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
-- [ ] 08.05 — _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [ ] 08.06 — _[Projeto - Zoo functions]()_
+- [x] 08.05 — _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
 
 #### [Bloco 09: JavaScript e Testes Assíncronos]()
 - [ ] 09.01 — _JavaScript Assíncrono e Callbacks_
@@ -323,8 +323,8 @@
 - [x] 08.02 — _JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort_
 - [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
 - [x] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
-- [ ] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [ ] 08.06 — _[Projeto - Zoo functions]()_
+- [x] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
+- [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
 
 #### [Unit 09: JavaScript and Asynchronous Tests]()
 - [ ] 09.01 — _Asynchronous JavaScript and Callbacks_
