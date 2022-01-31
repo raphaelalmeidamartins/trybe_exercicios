@@ -36,6 +36,4 @@ const ifError = (error, message) => error ? console.log(error) : console.log(mes
 
 getPokemonDetails(pokemonFilter, ifError);
 
-module.exports = {
-  getPokemonDetails,
-};
+module.exports = getPokemonDetails;
