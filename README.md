@@ -72,7 +72,7 @@
 - [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
 
 #### [Bloco 09: JavaScript e Testes Assíncronos]()
-- [ ] 09.01 — _JavaScript Assíncrono e Callbacks_
+- [x] 09.01 — _JavaScript Assíncrono e Callbacks_
 - [ ] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 09.03 — _Jest - Testes Assíncronos_
 - [ ] 09.04 — _[Projeto - Carrinho de Compras]()_
@@ -327,7 +327,7 @@
 - [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
 
 #### [Unit 09: JavaScript and Asynchronous Tests]()
-- [ ] 09.01 — _Asynchronous JavaScript and Callbacks_
+- [x] 09.01 — _Asynchronous JavaScript and Callbacks_
 - [ ] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
 - [ ] 09.03 — _Jest - Asynchronous Tests_
 - [ ] 09.04 — _[Project - Shopping Cart]()_
