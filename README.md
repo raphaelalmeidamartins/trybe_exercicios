@@ -71,7 +71,7 @@
 - [x] 08.05 — _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
 
-#### [Bloco 09: JavaScript e Testes Assíncronos]()
+#### [Bloco 09: JavaScript e Testes Assíncronos](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b09_JavaScript-testes-assincronos)
 - [x] 09.01 — _JavaScript Assíncrono e Callbacks_
 - [ ] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 09.03 — _Jest - Testes Assíncronos_
@@ -326,7 +326,7 @@
 - [x] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 - [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
 
-#### [Unit 09: JavaScript and Asynchronous Tests]()
+#### [Unit 09: JavaScript and Asynchronous Tests](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b09_JavaScript-testes-assincronos)
 - [x] 09.01 — _Asynchronous JavaScript and Callbacks_
 - [ ] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
 - [ ] 09.03 — _Jest - Asynchronous Tests_
