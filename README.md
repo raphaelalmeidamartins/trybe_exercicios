@@ -7,8 +7,8 @@
 <p>Turma 19 | Novembro de 2021.</p>
 <blockquote>
   <i>
-      <p>"A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso proﬁssional das pessoas estudantes. Com o Modelo de Sucesso Compartilhado, quem estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando.</p>
-      <p>São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."</p>
+    <p>"A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso proﬁssional das pessoas estudantes. Com o Modelo de Sucesso Compartilhado, quem estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando.</p>
+    <p>São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."</p>
   </i>
 </blockquote>
 
@@ -73,8 +73,8 @@
 
 #### [Bloco 09: JavaScript e Testes Assíncronos](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b09_JavaScript-testes-assincronos)
 - [x] 09.01 — _JavaScript Assíncrono e Callbacks_
-- [ ] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
-- [ ] 09.03 — _Jest - Testes Assíncronos_
+- [x] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
+- [x] 09.03 — _Jest - Testes Assíncronos_
 - [ ] 09.04 — _[Projeto - Carrinho de Compras]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
@@ -328,8 +328,8 @@
 
 #### [Unit 09: JavaScript and Asynchronous Tests](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b09_JavaScript-testes-assincronos)
 - [x] 09.01 — _Asynchronous JavaScript and Callbacks_
-- [ ] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
-- [ ] 09.03 — _Jest - Asynchronous Tests_
+- [x] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
+- [x] 09.03 — _Jest - Asynchronous Tests_
 - [ ] 09.04 — _[Project - Shopping Cart]()_
 
 ## Front-end Development :hourglass_flowing_sand:
