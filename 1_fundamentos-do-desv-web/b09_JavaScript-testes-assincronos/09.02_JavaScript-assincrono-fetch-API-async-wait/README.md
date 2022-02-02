@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>Asynchronous JavaScript - Fetch API, and async/await</h3>
-<p>In today's class, we learned how to use APIs in our code with the <code>fetch()</code> function. We also learned how to simplify asynchoronous functions with <code>async/await</code></p>
+<p>In today's class, we learned how to use APIs in our code with the <code>fetch()</code> function. We also learned how to simplify asynchronous functions with <code>async/await</code></p>
