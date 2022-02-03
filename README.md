@@ -12,7 +12,7 @@
   </i>
 </blockquote>
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
 #### [Bloco 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b01_unix-e-shell)
 - [x] 01.03 — _Unix & Bash - Parte 1_
@@ -75,7 +75,7 @@
 - [x] 09.01 — _JavaScript Assíncrono e Callbacks_
 - [x] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
 - [x] 09.03 — _Jest - Testes Assíncronos_
-- [ ] 09.04 — _[Projeto - Carrinho de Compras]()_
+- [x] 09.04 — _[Projeto - Carrinho de Compras]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
