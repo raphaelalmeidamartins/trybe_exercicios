@@ -273,7 +273,7 @@
 <h3>Copyright disclaimer</h3>
 <p>The resolutions of the exercises published here, as well as the description texts of each module, unit and day in Portuguese and English are my authorship and the rights belong exclusively to me. It is allowed to download or clone the repository for study purposes. However, it is not allowed to publish full or partial copies. This disclaimer does not cover libraries and dependencies, which are subject to their respective licenses.</p>
 
-## Principles of Web Development :hourglass_flowing_sand:
+## Principles of Web Development :heavy_check_mark:
 
 #### [Unit 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b01_unix-e-shell)
 - [x] 01.03 — _Unix & Bash - Part 1_
