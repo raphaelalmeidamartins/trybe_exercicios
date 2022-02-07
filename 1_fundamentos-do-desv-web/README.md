@@ -15,7 +15,21 @@
 - Aprendemos a utilizar APIs;
 - Também aprendemos como implementar testes unitários síncronos e assíncronos com o framework Jest.
 
-- _[Projeto - Carrinho de Compras](https://github.com/raphaelalmeidamartins/shopping-cart)_
+<h3>Projetos entregues:</h3>
+
+- [x] _[Projeto - Lessons Learned](https://github.com/raphaelalmeidamartins/project-lessons-learned) — Nota: 100%_
+- [x] _[Projeto - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions) — Nota: 100%_
+- [x] _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art) — Nota: 100%_
+- [x] _[Projeto - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list) — Nota: 100%_
+- [x] _[(Bônus) Projeto - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator) — Nota: 100%_
+- [x] _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess) — Nota: 100%_
+- [x] _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter) — Nota: 100%_
+- [x] _[Projeto - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts) — Nota: 100%_
+- [x] _[Projeto - JavaScript ES6 Testes Unitários](https://github.com/raphaelalmeidamartins/es6-unit-tests) — Nota: 100%_
+- [x] _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions) — Nota: 100%_
+- [x] _[Projeto - Carrinho de Compras](https://github.com/raphaelalmeidamartins/shopping-cart) — Nota: 100%_
+
+<br>
 
 <h2 id="en">:us: English</h2>
 <p>First module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this module, we were introduced to the fundamental concepts of web development:</p>
@@ -31,3 +45,17 @@
 - Learned how to use CSS Frameworks to style our pages more effortlessly and how to use JavaScript libraries;
 - We learned how to use APIs;
 - Finally, we also learned how to implement synchronous and asynchronous uni tests with the Jest Framework.
+
+<h3>Developed projects:</h3>
+
+- [x] _[Project - Lessons Learned](https://github.com/raphaelalmeidamartins/project-lessons-learned) — Grade: 100%_
+- [x] _[Project - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions) — Grade: 100%_
+- [x] _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art) — Grade: 100%_
+- [x] _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list) — Grade: 100%_
+- [x] _[(Bonus) Project - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator) — Grade: 100%_
+- [x] _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess) — Grade: 100%_
+- [x] _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter) — Grade: 100%_
+- [x] _[Project - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts) — Grade: 100%_
+- [x] _[Project - JavaScript ES6 Unit Tests](https://github.com/raphaelalmeidamartins/es6-unit-tests) — Grade: 100%_
+- [x] _[Project - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions) — Grade: 100%_
+- [x] _[Project - Shopping Cart](https://github.com/raphaelalmeidamartins/shopping-cart) — Grade: 100%_
