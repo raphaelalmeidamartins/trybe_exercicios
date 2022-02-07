@@ -15,7 +15,7 @@
 <h3>Aviso de direitos autorais</h3>
 <p>As resoluções dos exercícios publicadas aqui, bem como os textos de descrição de cada módulo, bloco e dia em português e inglês são de minha autoria e os direitos pertencem exclusivamente a mim. É permitido baixar ou clonar o repositório para fins de estudo, porém, não é permitido publicar cópias totais nem parciais. Este aviso não cobre as bibliotecas e dependências, estas estão sujeitas a licenças próprias.</p>
 
-## Fundamentos do Desenvolvimento Web :heavy_check_mark:
+## [Fundamentos do Desenvolvimento Web](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web) :heavy_check_mark:
 
 #### [Bloco 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b01_unix-e-shell)
 - [x] 01.03 — _Unix & Bash - Parte 1_
@@ -273,7 +273,7 @@
 <h3>Copyright disclaimer</h3>
 <p>The resolutions of the exercises published here, as well as the description texts of each module, unit and day in Portuguese and English are my authorship and the rights belong exclusively to me. It is allowed to download or clone the repository for study purposes. However, it is not allowed to publish full or partial copies. This disclaimer does not cover libraries and dependencies, which are subject to their respective licenses.</p>
 
-## Principles of Web Development :heavy_check_mark:
+## [Principles of Web Development](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web) :heavy_check_mark:
 
 #### [Unit 01: Unix & Bash](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b01_unix-e-shell)
 - [x] 01.03 — _Unix & Bash - Part 1_
