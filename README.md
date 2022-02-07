@@ -78,7 +78,7 @@
 - [x] 09.01 — _JavaScript Assíncrono e Callbacks_
 - [x] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
 - [x] 09.03 — _Jest - Testes Assíncronos_
-- [x] 09.04 — _[Projeto - Carrinho de Compras](https://raphaelalmeidamartins.github.io/shopping-cart/)_
+- [x] 09.04 — _[Projeto - Carrinho de Compras](https://github.com/raphaelalmeidamartins/shopping-cart)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -336,7 +336,7 @@
 - [x] 09.01 — _Asynchronous JavaScript and Callbacks_
 - [x] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
 - [x] 09.03 — _Jest - Asynchronous Tests_
-- [x] 09.04 — _[Project - Shopping Cart](https://raphaelalmeidamartins.github.io/shopping-cart/)_
+- [x] 09.04 — _[Project - Shopping Cart](https://github.com/raphaelalmeidamartins/shopping-cart)_
 
 ## Front-end Development :hourglass_flowing_sand:
 
