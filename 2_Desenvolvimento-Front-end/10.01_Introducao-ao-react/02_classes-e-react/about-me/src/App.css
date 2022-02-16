@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  width: 500px;
+  padding: 1.5rem;
+  margin: 0 auto;
+  line-height: 2rem;
+  color: white;
+}
+
+.App h1 {
+  font-size: 3rem;
+}
+
+.App img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  filter: saturate(0);
+}
+
+.App div p {
+  text-align: left;
+}
