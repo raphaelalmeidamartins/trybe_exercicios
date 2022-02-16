@@ -83,9 +83,9 @@
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 #### [Bloco 10: Introdução à React]()
-- [ ] 10.01 — _Introdução - Front-end_
-- [ ] 10.01 — _Introdução - React_
-- [ ] 10.01 — _'Hello, world!' no React!_
+- [x] 10.01 — _Introdução - Front-end_
+- [x] 10.01 — _Introdução - React_
+- [x] 10.01 — _'Hello, world!' no React!_
 - [ ] 10.02 — _Componentes React_
 - [ ] 10.03 — _[Projeto - Sistema Solar]()_
 
@@ -341,9 +341,9 @@
 ## Front-end Development :hourglass_flowing_sand:
 
 #### [Unit 10: Introduction to React]()
-- [ ] 10.01 — _Introduction - Front-end_
-- [ ] 10.01 — _Introduction - React_
-- [ ] 10.01 — _'Hello, world!' using React!_
+- [x] 10.01 — _Introduction - Front-end_
+- [x] 10.01 — _Introduction - React_
+- [x] 10.01 — _'Hello, world!' using React!_
 - [ ] 10.02 — _React Components_
 - [ ] 10.03 — _[Project - Solar System]()_
 
