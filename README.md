@@ -340,7 +340,7 @@
 
 ## Front-end Development :hourglass_flowing_sand:
 
-#### [Unit 10: Introduction to React]()
+#### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/10.01_Introducao-ao-react)
 - [x] 10.01 — _Introduction - Front-end_
 - [x] 10.01 — _Introduction - React_
 - [x] 10.01 — _'Hello, world!' using React!_
