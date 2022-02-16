@@ -82,7 +82,7 @@
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-#### [Bloco 10: Introdução à React]()
+#### [Bloco 10: Introdução à React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
 - [x] 10.01 — _Introdução - Front-end_
 - [x] 10.01 — _Introdução - React_
 - [x] 10.01 — _'Hello, world!' no React!_
@@ -340,7 +340,7 @@
 
 ## Front-end Development :hourglass_flowing_sand:
 
-#### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/10.01_Introducao-ao-react)
+#### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
 - [x] 10.01 — _Introduction - Front-end_
 - [x] 10.01 — _Introduction - React_
 - [x] 10.01 — _'Hello, world!' using React!_
