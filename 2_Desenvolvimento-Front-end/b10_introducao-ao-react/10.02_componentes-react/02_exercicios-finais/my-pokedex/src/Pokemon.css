@@ -1,0 +1,8 @@
+.Pokemon {
+  display: flex;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin: 1rem;
+  padding: 1.5rem;
+  width: 400px;
+}
