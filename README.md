@@ -87,7 +87,7 @@
 - [x] 10.01 — _Introdução - React_
 - [x] 10.01 — _'Hello, world!' no React!_
 - [x] 10.02 — _Componentes React_
-- [ ] 10.03 — _[Projeto - Sistema Solar]()_
+- [x] 10.03 — _[Projeto - Sistema Solar](https://raphaelalmeidamartins.github.io/solar-system/)_
 
 #### [Bloco 11: Componentes com Estado, Eventos e Formulários com React]()
 - [ ] 11.01 — _Componentes com estado e eventos_
@@ -345,7 +345,7 @@
 - [x] 10.01 — _Introduction - React_
 - [x] 10.01 — _'Hello, world!' using React!_
 - [x] 10.02 — _React Components_
-- [ ] 10.03 — _[Project - Solar System]()_
+- [x] 10.03 — _[Project - Solar System](https://raphaelalmeidamartins.github.io/solar-system/)_
 
 #### [Unit 11: Components with State, Events, and Forms with React]()
 - [ ] 11.01 — _Components with state and events_
