@@ -87,7 +87,7 @@
 - [x] 10.01 — _Introdução - React_
 - [x] 10.01 — _'Hello, world!' no React!_
 - [x] 10.02 — _Componentes React_
-- [x] 10.03 — _[Projeto - Sistema Solar](https://raphaelalmeidamartins.github.io/solar-system/)_
+- [x] 10.03 — _[Projeto - Sistema Solar](https://github.com/raphaelalmeidamartins/solar-system)_
 
 #### [Bloco 11: Componentes com Estado, Eventos e Formulários com React]()
 - [ ] 11.01 — _Componentes com estado e eventos_
@@ -340,7 +340,7 @@
 
 ## Front-end Development :hourglass_flowing_sand:
 
-#### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
+#### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/solar-system)
 - [x] 10.01 — _Introduction - Front-end_
 - [x] 10.01 — _Introduction - React_
 - [x] 10.01 — _'Hello, world!' using React!_
