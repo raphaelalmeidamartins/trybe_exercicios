@@ -89,7 +89,7 @@
 - [x] 10.02 — _Componentes React_
 - [x] 10.03 — _[Projeto - Sistema Solar](https://github.com/raphaelalmeidamartins/solar-system)_
 
-#### [Bloco 11: Componentes com Estado, Eventos e Formulários com React]()
+#### [Bloco 11: Componentes com Estado, Eventos e Formulários com React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b11_componentes-com-estados-eventos-e-formularios-React)
 - [x] 11.01 — _Componentes com estado e eventos_
 - [ ] 11.02 — _Formulários no React_
 - [ ] 11.03 — _[Projeto - Tryunfo]()_
@@ -340,14 +340,14 @@
 
 ## Front-end Development :hourglass_flowing_sand:
 
-#### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/solar-system)
+#### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
 - [x] 10.01 — _Introduction - Front-end_
 - [x] 10.01 — _Introduction - React_
 - [x] 10.01 — _'Hello, world!' using React!_
 - [x] 10.02 — _React Components_
 - [x] 10.03 — _[Project - Solar System](https://raphaelalmeidamartins.github.io/solar-system/)_
 
-#### [Unit 11: Components with State, Events, and Forms with React]()
+#### [Unit 11: Components with State, Events, and Forms with React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b11_componentes-com-estados-eventos-e-formularios-React)
 - [x] 11.01 — _Components with state and events_
 - [ ] 11.02 — _Forms with React_
 - [ ] 11.03 — _[Project - Tryunfo]()_
