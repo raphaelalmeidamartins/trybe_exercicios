@@ -90,7 +90,7 @@
 - [x] 10.03 — _[Projeto - Sistema Solar](https://github.com/raphaelalmeidamartins/solar-system)_
 
 #### [Bloco 11: Componentes com Estado, Eventos e Formulários com React]()
-- [ ] 11.01 — _Componentes com estado e eventos_
+- [x] 11.01 — _Componentes com estado e eventos_
 - [ ] 11.02 — _Formulários no React_
 - [ ] 11.03 — _[Projeto - Tryunfo]()_
 
@@ -348,7 +348,7 @@
 - [x] 10.03 — _[Project - Solar System](https://raphaelalmeidamartins.github.io/solar-system/)_
 
 #### [Unit 11: Components with State, Events, and Forms with React]()
-- [ ] 11.01 — _Components with state and events_
+- [x] 11.01 — _Components with state and events_
 - [ ] 11.02 — _Forms with React_
 - [ ] 11.03 — _[Project - Tryunfo]()_
 
