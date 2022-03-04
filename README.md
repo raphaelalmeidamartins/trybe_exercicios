@@ -91,8 +91,8 @@
 
 #### [Bloco 11: Componentes com Estado, Eventos e Formulários com React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b11_componentes-com-estados-eventos-e-formularios-React)
 - [x] 11.01 — _Componentes com estado e eventos_
-- [ ] 11.02 — _Formulários no React_
-- [ ] 11.03 — _[Projeto - Tryunfo]()_
+- [x] 11.02 — _Formulários no React_
+- [x] 11.03 — _[Projeto - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
 
 #### [Bloco 12: Ciclo de Vida de Componentes e React Router]()
 - [ ] 12.01 — _Ciclo de vida de componentes_
@@ -349,8 +349,8 @@
 
 #### [Unit 11: Components with State, Events, and Forms with React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b11_componentes-com-estados-eventos-e-formularios-React)
 - [x] 11.01 — _Components with state and events_
-- [ ] 11.02 — _Forms with React_
-- [ ] 11.03 — _[Project - Tryunfo]()_
+- [x] 11.02 — _Forms with React_
+- [x] 11.03 — _[Project - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
 
 #### [Unit 12: Components and React Router Lifecycle]()
 - [ ] 12.01 — _Components Lifecycle_
