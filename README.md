@@ -95,7 +95,7 @@
 - [x] 11.03 — _[Projeto - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
 
 #### [Bloco 12: Ciclo de Vida de Componentes e React Router]()
-- [ ] 12.01 — _Ciclo de vida de componentes_
+- [x] 12.01 — _Ciclo de vida de componentes_
 - [ ] 12.02 — _React Router_
 - [ ] 12.03 — _[Projeto - TrybeTunes]()_
 
@@ -353,7 +353,7 @@
 - [x] 11.03 — _[Project - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
 
 #### [Unit 12: Components and React Router Lifecycle]()
-- [ ] 12.01 — _Components Lifecycle_
+- [x] 12.01 — _Components Lifecycle_
 - [ ] 12.02 — _React Router_
 - [ ] 12.03 — _[Project - TrybeTunes]()_
 
