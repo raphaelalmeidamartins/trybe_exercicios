@@ -354,15 +354,15 @@
 
 #### [Unit 12: Components and React Router Lifecycle]()
 - [x] 12.01 — _Components Lifecycle_
-- [ ] 12.02 — _React Router_
+- [x] 12.02 — _React Router_
 - [ ] 12.03 — _[Project - TrybeTunes]()_
 
 #### [Unit 13: Agile Methodologies]()
-- [ ] 13.01 — _Agile Methodologies_
+- [x] 13.01 — _Agile Methodologies_
 - [ ] 13.02 — _[Project - Front-end Online Store]()_
 
 #### [Unit 14: Automated testing with React Testing Library]()
-- [ ] 14.01 — _RTL - First Steps_
+- [x] 14.01 — _RTL - First Steps_
 - [ ] 14.02 — _RTL - Mocks and Inputs_
 - [ ] 14.03 — _RTL - Testing React Router_
 - [ ] 14.04 — _[Project - Tests with React]()_
