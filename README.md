@@ -94,7 +94,7 @@
 - [x] 11.02 — _Formulários no React_
 - [x] 11.03 — _[Projeto - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
 
-#### [Bloco 12: Ciclo de Vida de Componentes e React Router]()
+#### [Bloco 12: Ciclo de Vida de Componentes e React Router](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b12_ciclo-de-vida-dos-componentes-e-react-router)
 - [x] 12.01 — _Ciclo de vida de componentes_
 - [x] 12.02 — _React Router_
 - [x] 12.03 — _[Projeto - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
@@ -352,7 +352,7 @@
 - [x] 11.02 — _Forms with React_
 - [x] 11.03 — _[Project - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
 
-#### [Unit 12: Components and React Router Lifecycle]()
+#### [Unit 12: Components Lifecycle and React Router](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b12_ciclo-de-vida-dos-componentes-e-react-router)
 - [x] 12.01 — _Components Lifecycle_
 - [x] 12.02 — _React Router_
 - [x] 12.03 — _[Project - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
