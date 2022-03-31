@@ -7,7 +7,7 @@
 - _[Projeto - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end">Front-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned about agile development methodologies and how they can help us improve producitivy in software development.</p>
-<p>We had some group dynamics, and at the end of the unit we developed a group project that you can checkout below:</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end">Front-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned about agile development methodologies and how they can help us improve productivity in software development.</p>
+<p>We had some group dynamics, and at the end of the unit we developed a group project that you can check out below:</p>
 
 - _[Projeto - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
