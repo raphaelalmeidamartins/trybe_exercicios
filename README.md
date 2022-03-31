@@ -96,25 +96,25 @@
 
 #### [Bloco 12: Ciclo de Vida de Componentes e React Router]()
 - [x] 12.01 — _Ciclo de vida de componentes_
-- [ ] 12.02 — _React Router_
-- [ ] 12.03 — _[Projeto - TrybeTunes]()_
+- [x] 12.02 — _React Router_
+- [x] 12.03 — _[Projeto - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
 
 #### [Bloco 13: Metodologias Ágeis]()
-- [ ] 13.01 — _Metodologias Ágeis_
-- [ ] 13.02 — _[Projeto - Front-end Online Store]()_
+- [x] 13.01 — _Metodologias Ágeis_
+- [x] 13.02 — _[Projeto - Front-end Online Store]()_
 
-#### [Bloco 14: Testes automatizados com React Testing Library]()
-- [ ] 14.01 — _RTL - Primeiros passos_
-- [ ] 14.02 — _RTL - Mocks e Inputs_
-- [ ] 14.03 — _RTL - Testando React Router_
-- [ ] 14.04 — _[Projeto - Testes em React]()_
+#### [Bloco 14: Testes automatizados com React Testing Library](https://github.com/raphaelalmeidamartins/front-end-online-store)
+- [x] 14.01 — _RTL - Primeiros passos_
+- [x] 14.02 — _RTL - Mocks e Inputs_
+- [x] 14.03 — _RTL - Testando React Router_
+- [x] 14.04 — _[Projeto - Testes em React]()_
 
 #### [Bloco 15: Gerenciamento de estado com Redux]()
-- [ ] 15.01 — _Introdução ao Redux - O estado global da aplicação_
-- [ ] 15.02 — _Usando o Redux no React_
-- [ ] 15.03 — _Usando o Redux no React - Prática_
-- [ ] 15.04 — _Usando o Redux no React - Actions Assíncronas_
-- [ ] 15.05 — _Testes em React-Redux_
+- [x] 15.01 — _Introdução ao Redux - O estado global da aplicação_
+- [x] 15.02 — _Usando o Redux no React_
+- [x] 15.03 — _Usando o Redux no React - Prática_
+- [x] 15.04 — _Usando o Redux no React - Actions Assíncronas_
+- [x] 15.05 — _Testes em React-Redux_
 - [ ] 15.06 — _[Projeto - Trybe Wallet]()_
 
 #### [Bloco 16: Projeto - Jogo de Trivia]()
@@ -355,24 +355,24 @@
 #### [Unit 12: Components and React Router Lifecycle]()
 - [x] 12.01 — _Components Lifecycle_
 - [x] 12.02 — _React Router_
-- [ ] 12.03 — _[Project - TrybeTunes]()_
+- [x] 12.03 — _[Project - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
 
 #### [Unit 13: Agile Methodologies]()
 - [x] 13.01 — _Agile Methodologies_
-- [ ] 13.02 — _[Project - Front-end Online Store]()_
+- [x] 13.02 — _[Project - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
 
 #### [Unit 14: Automated testing with React Testing Library]()
 - [x] 14.01 — _RTL - First Steps_
-- [ ] 14.02 — _RTL - Mocks and Inputs_
-- [ ] 14.03 — _RTL - Testing React Router_
-- [ ] 14.04 — _[Project - Tests with React]()_
+- [x] 14.02 — _RTL - Mocks and Inputs_
+- [x] 14.03 — _RTL - Testing React Router_
+- [x] 14.04 — _[Project - Tests with React](https://github.com/raphaelalmeidamartins/tests-with-react-testing-library)_
 
 #### [Unit 15: State management with Redux]()
-- [ ] 15.01 — _Introduction to Redux - the global application state_
-- [ ] 15.02 — _Using Redux with React_
-- [ ] 15.03 — _Using Redux with React - Practice_
-- [ ] 15.04 — _Using Redux with React - Asynchronous Actions_
-- [ ] 15.05 — _Tests with React-Redux_
+- [x] 15.01 — _Introduction to Redux - the global application state_
+- [x] 15.02 — _Using Redux with React_
+- [x] 15.03 — _Using Redux with React - Practice_
+- [x] 15.04 — _Using Redux with React - Asynchronous Actions_
+- [x] 15.05 — _Tests with React-Redux_
 - [ ] 15.06 — _[Project - Trybe Wallet]()_
 
 #### [Unit 16: Project - Trivia Game]()
