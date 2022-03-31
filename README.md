@@ -103,11 +103,11 @@
 - [x] 13.01 — _Metodologias Ágeis_
 - [x] 13.02 — _[Projeto - Front-end Online Store]()_
 
-#### [Bloco 14: Testes automatizados com React Testing Library](https://github.com/raphaelalmeidamartins/front-end-online-store)
+#### [Bloco 14: Testes automatizados com React Testing Library]()
 - [x] 14.01 — _RTL - Primeiros passos_
 - [x] 14.02 — _RTL - Mocks e Inputs_
 - [x] 14.03 — _RTL - Testando React Router_
-- [x] 14.04 — _[Projeto - Testes em React]()_
+- [x] 14.04 — _[Projeto - Testes em React](https://github.com/raphaelalmeidamartins/front-end-online-store)_
 
 #### [Bloco 15: Gerenciamento de estado com Redux]()
 - [x] 15.01 — _Introdução ao Redux - O estado global da aplicação_
