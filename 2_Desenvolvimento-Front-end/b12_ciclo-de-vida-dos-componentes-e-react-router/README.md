@@ -8,7 +8,7 @@
 - _[Projeto - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end">Front-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned about the React components lifecycle and about the functions provided by the library that we can use in each phase. Such as: <code>componentDidMount()</code>, <code>componentDidUpdate</code>, <code>componentWillUnmount</code>, among others.</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end">Front-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned about the React components' lifecycle and about the functions provided by the library that we can use in each phase. Such as: <code>componentDidMount()</code>, <code>componentDidUpdate</code>, <code>componentWillUnmount</code>, among others.</p>
 <p>We also learned how to use the React Router library to deal with page navigation in our application</p>
 <p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 
