@@ -99,7 +99,7 @@
 - [x] 12.02 — _React Router_
 - [x] 12.03 — _[Projeto - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
 
-#### [Bloco 13: Metodologias Ágeis]()
+#### [Bloco 13: Metodologias Ágeis](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b13_metodologias-ageis)
 - [x] 13.01 — _Metodologias Ágeis_
 - [x] 13.02 — _[Projeto - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
 
@@ -357,7 +357,7 @@
 - [x] 12.02 — _React Router_
 - [x] 12.03 — _[Project - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
 
-#### [Unit 13: Agile Methodologies]()
+#### [Unit 13: Agile Methodologies](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b13_metodologias-ageis)
 - [x] 13.01 — _Agile Methodologies_
 - [x] 13.02 — _[Project - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
 
