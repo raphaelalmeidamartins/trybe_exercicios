@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>React Components</h3>
-<p>In today's class, we learned how to use <code>props</code> to reuse our components and let the code cleaner.</p>
+<p>In today's class, we learned how to use <code>props</code> to reuse our components and make the code cleaner.</p>

@@ -11,4 +11,4 @@
 <h2 id="en">:us: English</h2>
 <h3>RTL - Testing React Router</h3>
 <p>In today's class, we learned how to test a React application that has React Router by creating the helper function <code>renderWithRouter()</code>.</p>
-<p>Today's exercises were done in a private forked repository, that's why they are not available here.</p>
+<p>I did today's exercises in a private forked repository. That's why they are not available here.</p>

@@ -11,4 +11,4 @@
 <h2 id="en">:us: English</h2>
 <h3>Components Lifecycle</h3>
 <p>In today's class, we learned how to use pre-defined React functions related to the components' lifecycle. Such as: <code>componentDidMount</code>, <code>componentDidUpdate</code>, <code>shouldComponentUpdate</code>, among others.</p>
-<p>Today's exercises were done in a private forked repository, that's why they are not available here.</p>
+<p>I did today's exercises in a private forked repository. That's why they are not available here.</p>

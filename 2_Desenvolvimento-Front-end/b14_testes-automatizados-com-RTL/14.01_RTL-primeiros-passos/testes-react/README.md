@@ -10,5 +10,5 @@
 
 <h2 id="en">:us: English</h2>
 <h3>RTL - First Steps</h3>
-<p>In today's class, we were introduced to the React Testing Library (RTL) used to implement unit and integration tests to React applications.</p>
-<p>Today's exercises were done in a private forked repository, that's why they are not available here.</p>
+<p>In today's class, we learned React Testing Library (RTL), a library used to implement unit and integration tests to React applications.</p>
+<p>I did today's exercises in a private forked repository. That's why they are not available here.</p>

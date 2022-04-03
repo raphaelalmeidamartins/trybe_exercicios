@@ -7,7 +7,7 @@
 - _[Projeto - Sistema Solar](https://github.com/raphaelalmeidamartins/solar-system) — Nota: 100%_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end">Front-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we were introduced to Front-end development with the React.js library. We learned how to build a simple application, and to create and reuse components.</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end">Front-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we started with Front-end development with the React.js library. We learned how to build a simple application and create and reuse components.</p>
 <p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 
 - _[Project - Solar System](https://github.com/raphaelalmeidamartins/solar-system) — Grade: 100%_

@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>Forms with React</h3>
-<p>In today's class, we learned how to create forms with React controlling the input elements with states and props. I didn't do this day exercises because they have a very similar logic to the <a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Tryunfo</a> project I made shortly after, so I use the project itself to practice.</p>
+<p>In today's class, we learned how to create forms with React. We need to control the input elements with states and props. I didn't today's exercises because they have similar logic to the <a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Tryunfo</a> project I made shortly after. I use the project itself to practice.</p>

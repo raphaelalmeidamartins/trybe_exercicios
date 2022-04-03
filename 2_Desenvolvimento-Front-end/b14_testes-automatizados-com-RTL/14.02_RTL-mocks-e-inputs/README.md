@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>RTL - Mocks and Inputs</h3>
-<p>In today's class, we learned how to mock functions and how to test React forms. We also learned how to use the <code>'user-event'</code> library to simulate user interactions</p>
+<p>In today's class, we learned how to mock functions and how to test React forms. We also learned the <code>'user-event'</code> library to simulate user interactions</p>
