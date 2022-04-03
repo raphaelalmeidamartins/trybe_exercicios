@@ -1,4 +1,4 @@
-# Dia 1/Day 1
+# Dia 2/Day 2
 
 <small>(for the English version, <a href="#en">click here</a>)</small>
 
