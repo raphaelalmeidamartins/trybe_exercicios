@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript ES6 - spread operator, rest parameter, destructuring and more</h3>
-<p>In today's class, we learned how to use the spread operator, the rest parameter, and how to use object/array destructuring to access arrays/object data more easily.</p>
+<p>In today's class, we learned how to use the spread operator, the rest parameter, and object/array destructuring to access arrays/object data easier.</p>

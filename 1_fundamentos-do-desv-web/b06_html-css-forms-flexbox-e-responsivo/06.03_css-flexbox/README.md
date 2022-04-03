@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>Introduction - Flexbox CSS</h3>
-<p>In today's class, we were introduced to flexbox. A CSS feature that can help us develop responsive web pages (pages that adapts to different screen sizes).</p>
+<p>In today's class, we learned flexbox. A CSS feature that can help us develop responsive web pages (pages that adapts to different screen sizes).</p>

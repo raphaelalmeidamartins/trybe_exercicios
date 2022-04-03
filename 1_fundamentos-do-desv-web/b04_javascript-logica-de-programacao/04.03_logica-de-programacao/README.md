@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Programming Logic and Algorithms</h3>
-<p>In today's class, we learned more about programming logic. We saw how to divide big problems into smaller ones when developing our algorithms.</p>
+<p>In today's class, we learned more about programming logic. How we can divide big problems into smaller ones when developing our algorithms.</p>

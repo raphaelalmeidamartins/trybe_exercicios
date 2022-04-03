@@ -8,8 +8,8 @@
 - _[Projeto - Zoo Functions](https://github.com/raphaelalmeidamartins/zoo-functions) — Nota: 100%_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned what are Higher-Order Functions (HOFs), functions that receive other functions as parameters or return them. We also learned more EcmaScript 2015 (ES6) features, such as the manipulation arrays HOFs: <code>forEach</code>, <code>find</code>, <code>some</code>, <code>every</code>, <code>sort</code>, <code>map</code>, <code>filter</code> and <code>reduce</code>.</p>
-<p>Finally, we learned even more ES6 features, such as the <strong>spread operator</strong>, <strong>rest parameter</strong>, <strong>object and array destructuring</strong>, among others.</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned Higher-Order Functions (HOFs), functions that receive other functions as parameters or return them. We also learned more EcmaScript 2015 (ES6) features, such as the manipulation arrays HOFs: <code>forEach</code>, <code>find</code>, <code>some</code>, <code>every</code>, <code>sort</code>, <code>map</code>, <code>filter</code> and <code>reduce</code>.</p>
+<p>Finally, we learned even more ES6 features. Such as the <strong>spread operator</strong>, <strong>rest parameter</strong>, <strong>object and array destructuring</strong>, among others.</p>
 <p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 
 - _[Project - Zoo Functions](https://github.com/raphaelalmeidamartins/zoo-functions) — Grade: 100%_

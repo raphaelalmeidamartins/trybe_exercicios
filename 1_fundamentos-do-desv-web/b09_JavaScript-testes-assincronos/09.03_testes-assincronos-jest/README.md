@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>Jest - Asynchronous Tests</h3>
-<p>In today's class, we learned how to test asynchronous functions by using the Jest framework. The exercises were developed forking private repositories, that's why they are not available here.</p>
+<p>In today's class, we learned how to test asynchronous functions by using the Jest framework. I did the exercises in forked private repositories. That's why they are not available here.</p>

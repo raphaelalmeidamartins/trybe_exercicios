@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript ES6 - let, const, arrow functions, and template literals</h3>
-<p>In today's class, we learned new EcmaScript 2015 (ES6) features, such as the new reserved words <strong>let</strong> and <strong>const</strong> to declare variables. We also learned how to use <strong>arrow functions</strong> and <strong>template literals</strong> to make our code cleaner.</p>
+<p>In today's class, we learned EcmaScript 2015 (ES6) features. Such as the new reserved words <strong>let</strong> and <strong>const</strong> to declare variables. We also learned <strong>arrow functions</strong> and <strong>template literals</strong> to make our code cleaner.</p>

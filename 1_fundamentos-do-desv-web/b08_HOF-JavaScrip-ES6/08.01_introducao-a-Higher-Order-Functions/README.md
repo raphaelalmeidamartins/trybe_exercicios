@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript ES6 - Introduction to Higher-Order Functions</h3>
-<p>In today's class, we learned what are HOFs (Higher-Order Functions), their structure, and what are callback functions they receive as parameters.</p>
+<p>In today's class, we learned HOFs (Higher-Order Functions), their structure, and what are callback functions they receive as parameters.</p>

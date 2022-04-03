@@ -8,7 +8,7 @@
 - _[Projeto - Lessons Learned](https://github.com/raphaelalmeidamartins/project-lessons-learned) — Nota: 100%_
 
 <h2 id="en">:us: English</h2>
-<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned how to build web pages by using tags HTML and how to style them by using CSS selectors.</p>
+<p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned how to build web pages with HTML. And how to style them by using CSS selectors.</p>
 <p>Then we learned how to improve the accessibility and indexation of our page by using Semantic HTML.</p>
 <p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 

@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript ES6 - Higher-Order Functions - map e filter</h3>
-<p>In today's class, we learned how to use the manipulation array HOF <code>.reduce()</code>.</p>
+<p>In today's class, we learned how to use the <code>.reduce()</code> manipulation-array HOF.</p>

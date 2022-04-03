@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript Libraries and CSS Frameworks</h3>
-<p>In today's class, we learned how to use CSS Frameworks to be more productive while styling our pages. And how to import JavaScript libraries to our code, so we can solve some problems easily. We use this knowledge to improve the forms we developed in the last class.</p>
+<p>In today's class, we learned how to use CSS Frameworks. And how to import external JavaScript libraries. We use this knowledge to improve the forms we developed in the last class.</p>

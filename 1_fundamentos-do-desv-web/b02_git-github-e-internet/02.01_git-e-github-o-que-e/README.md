@@ -7,4 +7,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>Git & GitHub - What are they and what are they used for</h3>
-<p>In today's class, we learned about the Git version control system and the GitHub platform. In this exercise, we practiced creating and linking a local Git repository to one of our GitHub account using bash.</p>
+<p>In today's class, we learned about the Git version control system and the GitHub platform. In this exercise, we practiced creating and linking a local Git repository to one of our GitHub remote repositories using bash.</p>

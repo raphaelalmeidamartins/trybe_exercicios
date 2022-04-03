@@ -5,4 +5,4 @@
 <br>
 
 <h2 id="en">:us: English</h2>
-<p>Today we learned about the Unix system, its history, how it influenced modern Operating Systems (such as Linux and macOS), its internal structure, and its file system. We also learned about bash, which is an extremely useful command-line interface (or shell) in the software development process. Then, we practiced some Unix commands on the bash terminal to create, manipulate, and search files and directories.</p>
+<p>Today we learned about the Unix system, its history, how it influenced modern Operating Systems (such as Linux and macOS), its internal structure, and its file system. We also learned about bash, a command-line interface (or shell) in the software development process. Then, we practiced some Unix commands on the bash terminal to create, manipulate, and search files and directories.</p>

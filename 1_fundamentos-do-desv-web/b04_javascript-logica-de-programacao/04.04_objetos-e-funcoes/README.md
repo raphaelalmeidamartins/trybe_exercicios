@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript - Objects and functions</h3>
-<p>In today's class, we learned how to use objects, how to use for/in, and how to create and use functions.</p>
+<p>In today's class, we learned how to use objects, how to use <code>for/in</code>, and how to create and use functions.</p>

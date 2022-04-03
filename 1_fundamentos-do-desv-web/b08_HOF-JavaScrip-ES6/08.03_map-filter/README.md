@@ -9,4 +9,4 @@
 
 <h2 id="en">:us: English</h2>
 <h3>JavaScript ES6 - Higher-Order Functions - map e filter</h3>
-<p>In today's class, we learned some array manipulation HOFs introduced in EcmaScript 2015 (ES6). The function <code>.map()</code> generates a new array with the same length of the original array by running a callback function for every one of its items. The .filter() function on the other hand, generates a new array filtering the items of the original array that corresponds to the condition provided in the callback function.</p>
+<p>In today's class, we learned some array-manipulation ES6 HOFs. The function <code>.map()</code> generates a new array with the same length as the original array by running a callback function for every one of its items. The <code>.filter()</code> function, on the other hand, generates a new array by filtering the items of the original one that corresponds to the condition provided in the callback function.</p>
