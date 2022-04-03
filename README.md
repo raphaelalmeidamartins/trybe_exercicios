@@ -109,7 +109,7 @@
 - [x] 14.03 — _RTL - Testando React Router_
 - [x] 14.04 — _[Projeto - Testes em React](https://github.com/raphaelalmeidamartins/tests-with-react-testing-library)_
 
-#### [Bloco 15: Gerenciamento de estado com Redux]()
+#### [Bloco 15: Gerenciamento de estado com Redux](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b15_gerenciamento-de-estado-com-redux/15.03_usando-redux-no-react)
 - [x] 15.01 — _Introdução ao Redux - O estado global da aplicação_
 - [x] 15.02 — _Usando o Redux no React_
 - [x] 15.03 — _Usando o Redux no React - Prática_
@@ -367,7 +367,7 @@
 - [x] 14.03 — _RTL - Testing React Router_
 - [x] 14.04 — _[Project - Tests with React](https://github.com/raphaelalmeidamartins/tests-with-react-testing-library)_
 
-#### [Unit 15: State management with Redux]()
+#### [Unit 15: State management with Redux](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b15_gerenciamento-de-estado-com-redux/15.03_usando-redux-no-react)
 - [x] 15.01 — _Introduction to Redux - the global application state_
 - [x] 15.02 — _Using Redux with React_
 - [x] 15.03 — _Using Redux with React - Practice_
