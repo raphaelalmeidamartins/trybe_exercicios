@@ -5,11 +5,11 @@
 <p>Por fim, vimos como podemos utilizar o flexbox para tornar as nossas páginas responsivas e a utilizar frameworks CSS para tornar o processo de estilização mais produtivo.</p>
 <p>Aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri no decorrer do bloco. Além disso, você também pode conferir o projeto que desenvolvi ao final:</p>
 
-- _[Projeto - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts)_
+- _[Projeto - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts) — Nota: 100%_
 
 <h2 id="en">:us: English</h2>
 <p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web">Principles of Web Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we learned how to create forms with HTML and handle the submitted data with JavaScript locally. We also learned how to import JavaScript third party libraries to make this job easier.</p>
 <p>Finally, we saw how to use flexbox to develop responsive pages, and to use CSS frameworks to make us more productive when we are styling our pages.</p>
 <p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 
-- _[Project - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts)_
+- _[Project - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts) — Grade: 100%_
