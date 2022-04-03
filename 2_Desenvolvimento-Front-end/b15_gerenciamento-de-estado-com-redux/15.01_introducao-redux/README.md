@@ -5,7 +5,7 @@
 <h2>:brazil: Português</h2>
 <h3>RTL - Primeiros passos</h3>
 <p>Na aula de hoje, fomos introduzidos a biblioteca Redux utilizada para criar um estado global da aplicação. O Redux foi criado para eliminar o problema de <em>prop drilling</em> que ocorre quando um aplicação possui uma árvore muito grande de componentes que precisam trocar informações através de props e callbacks.</p>
-<p>Nós aprendemos a configurar o Redux, a criar a <code>store</code> (onde o estado global será armazenado), a criar e combinar os <code>reducers</code> (as funções que serão utilizadas para atualizar o estado), e a criar as <code>actions creators</code> (funções que retornam objetos <code>actions</code> indicando quais serão essas alterações).</p>
+<p>Nós aprendemos a configurar o Redux, a criar a <em>store</em> (onde o estado global será armazenado), a criar e combinar os <em>reducers</em> (as funções que serão utilizadas para atualizar o estado), e a implementar as <em>actions creators</em> (funções que retornam objetos <em>actions</em> indicando quais serão essas alterações).</p>
 <br>
 
 <h2 id="en">:us: English</h2>
