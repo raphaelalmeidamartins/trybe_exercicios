@@ -103,7 +103,7 @@
 - [x] 13.01 — _Metodologias Ágeis_
 - [x] 13.02 — _[Projeto - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
 
-#### [Bloco 14: Testes automatizados com React Testing Library]()
+#### [Bloco 14: Testes automatizados com React Testing Library](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b14_testes-automatizados-com-RTL)
 - [x] 14.01 — _RTL - Primeiros passos_
 - [x] 14.02 — _RTL - Mocks e Inputs_
 - [x] 14.03 — _RTL - Testando React Router_
@@ -361,7 +361,7 @@
 - [x] 13.01 — _Agile Methodologies_
 - [x] 13.02 — _[Project - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
 
-#### [Unit 14: Automated testing with React Testing Library]()
+#### [Unit 14: Automated testing with React Testing Library](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b14_testes-automatizados-com-RTL)
 - [x] 14.01 — _RTL - First Steps_
 - [x] 14.02 — _RTL - Mocks and Inputs_
 - [x] 14.03 — _RTL - Testing React Router_
