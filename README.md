@@ -115,7 +115,7 @@
 - [x] 15.03 — _Usando o Redux no React - Prática_
 - [x] 15.04 — _Usando o Redux no React - Actions Assíncronas_
 - [x] 15.05 — _Testes em React-Redux_
-- [ ] 15.06 — _[Projeto - Trybe Wallet]()_
+- [x] 15.06 — _[Projeto - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet)_
 
 #### [Bloco 16: Projeto - Jogo de Trivia]()
 - [ ] 16.01 — _[Projeto - Jogo de Trivia]()_
@@ -373,7 +373,7 @@
 - [x] 15.03 — _Using Redux with React - Practice_
 - [x] 15.04 — _Using Redux with React - Asynchronous Actions_
 - [x] 15.05 — _Tests with React-Redux_
-- [ ] 15.06 — _[Project - Trybe Wallet]()_
+- [x] 15.06 — _[Project - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet)_
 
 #### [Unit 16: Project - Trivia Game]()
 - [ ] 16.01 — _[Project - Trivia Game]()_
