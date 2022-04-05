@@ -12,4 +12,4 @@
 <p>We also learned how to use the React Router library to deal with page navigation in our application</p>
 <p>Here you can check out the exercises I performed during the unit. You can also check out the project I developed at the end:</p>
 
-- _[Projeto - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes) — Grade: 100%_
+- _[Project - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes) — Grade: 100%_
