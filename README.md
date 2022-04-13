@@ -118,7 +118,7 @@
 - [x] 15.06 — _[Projeto - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet)_
 
 #### [Bloco 16: Projeto - Jogo de Trivia]()
-- [ ] 16.01 — _[Projeto - Jogo de Trivia]()_
+- [x] 16.01 — _[Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trivia)_
 
 #### [Bloco 17: Context API e React Hooks]()
 - [ ] 17.01 — _Context API do React_
@@ -376,7 +376,7 @@
 - [x] 15.06 — _[Project - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet)_
 
 #### [Unit 16: Project - Trivia Game]()
-- [ ] 16.01 — _[Project - Trivia Game]()_
+- [x] 16.01 — _[Project - Trivia Game](https://github.com/raphaelalmeidamartins/trivia)_
 
 #### [Unit 17: Context API and React Hooks]()
 - [ ] 17.01 — _React Context API_
