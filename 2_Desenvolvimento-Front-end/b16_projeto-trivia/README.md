@@ -9,6 +9,6 @@
 
 <h2 id="en">:us: English</h2>
 <p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end">Front-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we only had to develop a group project.</p>
-<p>We had to develop a Trivia game React application using everything we've learned so far. Furthermore, we had a deadline of 5 days to finishe the project.</p>
+<p>We had to develop a Trivia game React application using everything we've learned so far. Furthermore, we had a deadline of 5 days to finish the project.</p>
 
 - _[Project - Trivia Game](https://github.com/raphaelalmeidamartins/trivia) — Grade: 100%_
