@@ -31,25 +31,25 @@
 - [x] 03.02 — _HTML & CSS - Primeiros passos em CSS_
 - [x] 03.03 — _HTML & CSS - Seletores e posicionamento_
 - [x] 03.04 — _HTML Semântico_
-- [x] 03.05 — _[Projeto - Lessons Learned](https://github.com/raphaelalmeidamartins/project-lessons-learned)_
+- [x] 03.05 — _[Projeto - Lessons Learned](https://github.com/raphaelalmeidamartins/project-lessons-learned) — Nota: 100%_
 
 #### [Bloco 04: Introdução - JavaScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/)
 - [x] 04.01 — _JavaScript - Primeiros passos_
 - [x] 04.02 — _JavaScript - Array e loop For_
 - [x] 04.03 — _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 04.04 — _JavaScript - Objetos e Funções_
-- [x] 04.05 — _[Projeto - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions)_
+- [x] 04.05 — _[Projeto - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions) — Nota: 100%_
 
 #### [Bloco 05: JavaScript - DOM, Eventos e Web Storage](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage)
 - [x] 05.01 — _JavaScript - DOM e seletores_
 - [x] 05.02 — _JavaScript - Trabalhando com elementos_
 - [x] 05.03 — _JavaScript - Eventos_
 - [x] 05.04 — _JavaScript - Web Storage_
-- [x] 05.05 — _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
-- [x] 05.06 — _[Projeto - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
-- [x] 05.07 — _[(Bônus) Projeto - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
-- [x] 05.07 — _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
-- [x] 05.07 — _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
+- [x] 05.05 — _[Projeto - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art) — Nota: 100%_
+- [x] 05.06 — _[Projeto - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list) — Nota: 100%_
+- [x] 05.07 — _[(Bônus) Projeto - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator) — Nota: 100%_
+- [x] 05.07 — _[(Bônus) Projeto - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess) — Nota: 100%_
+- [x] 05.07 — _[(Bônus) Projeto - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter) — Nota: 100%_
 
 #### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo)
 - [x] 06.01 — _HTML & CSS - Forms_
@@ -58,13 +58,13 @@
 - [x] 06.03 — _CSS Flexbox - Parte 1_
 - [x] 06.04 — _CSS Flexbox - Parte 2_
 - [x] 06.05 — _CSS Responsivo - Mobile First_
-- [x] 06.06 — _[Projeto - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts)_
+- [x] 06.06 — _[Projeto - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts) — Nota: 100%_
 
 #### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals)
 - [x] 07.01 — _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 07.02 — _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [x] 07.03 — _Primeiros passos em Jest_
-- [x] 07.04 — _[Projeto - JavaScript ES6 Testes Unitários](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
+- [x] 07.04 — _[Projeto - JavaScript ES6 Testes Unitários](https://github.com/raphaelalmeidamartins/es6-unit-tests) — Nota: 100%_
 
 #### [Bloco 08: Higher-Order Functions do JavaScript ES6](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b08_HOF-JavaScrip-ES6)
 - [x] 08.01 — _JavaScript ES6 - Introdução a Higher-Order Functions_
@@ -72,13 +72,13 @@
 - [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
 - [x] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
 - [x] 08.05 — _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
+- [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions) — Nota: 100%_
 
 #### [Bloco 09: JavaScript e Testes Assíncronos](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b09_JavaScript-testes-assincronos)
 - [x] 09.01 — _JavaScript Assíncrono e Callbacks_
 - [x] 09.02 — _JavaScript Assíncrono - Fetch API e async/await_
 - [x] 09.03 — _Jest - Testes Assíncronos_
-- [x] 09.04 — _[Projeto - Carrinho de Compras](https://github.com/raphaelalmeidamartins/shopping-cart)_
+- [x] 09.04 — _[Projeto - Carrinho de Compras](https://github.com/raphaelalmeidamartins/shopping-cart) — Nota: 100%_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -87,27 +87,27 @@
 - [x] 10.01 — _Introdução - React_
 - [x] 10.01 — _'Hello, world!' no React!_
 - [x] 10.02 — _Componentes React_
-- [x] 10.03 — _[Projeto - Sistema Solar](https://github.com/raphaelalmeidamartins/solar-system)_
+- [x] 10.03 — _[Projeto - Sistema Solar](https://github.com/raphaelalmeidamartins/solar-system) — Nota: 100%_
 
 #### [Bloco 11: Componentes com Estado, Eventos e Formulários com React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b11_componentes-com-estados-eventos-e-formularios-React)
 - [x] 11.01 — _Componentes com estado e eventos_
 - [x] 11.02 — _Formulários no React_
-- [x] 11.03 — _[Projeto - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
+- [x] 11.03 — _[Projeto - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps) — Nota: 100%_
 
 #### [Bloco 12: Ciclo de Vida de Componentes e React Router](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b12_ciclo-de-vida-dos-componentes-e-react-router)
 - [x] 12.01 — _Ciclo de vida de componentes_
 - [x] 12.02 — _React Router_
-- [x] 12.03 — _[Projeto - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
+- [x] 12.03 — _[Projeto - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes) — Nota: 100%_
 
 #### [Bloco 13: Metodologias Ágeis](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b13_metodologias-ageis)
 - [x] 13.01 — _Metodologias Ágeis_
-- [x] 13.02 — _[Projeto - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
+- [x] 13.02 — _[Projeto - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store) — Nota: 100%_
 
 #### [Bloco 14: Testes automatizados com React Testing Library](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b14_testes-automatizados-com-RTL)
 - [x] 14.01 — _RTL - Primeiros passos_
 - [x] 14.02 — _RTL - Mocks e Inputs_
 - [x] 14.03 — _RTL - Testando React Router_
-- [x] 14.04 — _[Projeto - Testes em React](https://github.com/raphaelalmeidamartins/tests-with-react-testing-library)_
+- [x] 14.04 — _[Projeto - Testes em React](https://github.com/raphaelalmeidamartins/tests-with-react-testing-library) — Nota: 100%_
 
 #### [Bloco 15: Gerenciamento de estado com Redux](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b15_gerenciamento-de-estado-com-redux)
 - [x] 15.01 — _Introdução ao Redux - O estado global da aplicação_
@@ -115,10 +115,10 @@
 - [x] 15.03 — _Usando o Redux no React - Prática_
 - [x] 15.04 — _Usando o Redux no React - Actions Assíncronas_
 - [x] 15.05 — _Testes em React-Redux_
-- [x] 15.06 — _[Projeto - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet)_
+- [x] 15.06 — _[Projeto - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet) — Nota: 100%_
 
 #### [Bloco 16: Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b16_projeto-trivia)
-- [x] 16.01 — _[Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trivia)_
+- [x] 16.01 — _[Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trivia) — Nota: 100%_
 
 #### [Bloco 17: Context API e React Hooks]()
 - [ ] 17.01 — _Context API do React_
@@ -289,25 +289,25 @@
 - [x] 03.02 — _HTML & CSS - First steps with CSS_
 - [x] 03.03 — _HTML & CSS - Selectors and positioning_
 - [x] 03.04 — _Semantic HTML_
-- [x] 03.05 — _[Project - Lessons Learned]()_
+- [x] 03.05 — _[Project - Lessons Learned](https://github.com/raphaelalmeidamartins/project-lessons-learned) — Grade: 100%_
 
 #### [Unit 04: Introduction to JavaScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b04_javascript-logica-de-programacao/)
 - [x] 04.01 — _JavaScript - First steps_
 - [x] 04.02 — _JavaScript - Array and For loop_
 - [x] 04.03 — _JavaScript - Programming Logic and Algorithms_
 - [x] 04.04 — _JavaScript - Objects and Functions_
-- [x] 04.05 — _[Project - Playground Functions]()_
+- [x] 04.05 — _[Project - Playground Functions](https://github.com/raphaelalmeidamartins/project-playground-functions) — Grade: 100%_
 
 #### [Unit 05: JavaScript - DOM, Events and Web Storage](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b05_javascript-DOM-eventos-e-web-storage)
 - [x] 05.01 — _JavaScript - DOM and selectors_
 - [x] 05.02 — _JavaScript - Working with elements_
 - [x] 05.03 — _JavaScript - Events_
 - [x] 05.04 — _JavaScript - Web Storage_
-- [x] 05.05 — _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art)_
-- [x] 05.06 — _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list)_
-- [x] 05.07 — _[(Bonus) Project - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator)_
-- [x] 05.07 — _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess)_
-- [x] 05.07 — _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter)_
+- [x] 05.05 — _[Project - Pixels Art](https://github.com/raphaelalmeidamartins/project-pixels-art) — Grade: 100%_
+- [x] 05.06 — _[Project - To-do List](https://github.com/raphaelalmeidamartins/project-to-do-list) — Grade: 100%_
+- [x] 05.07 — _[(Bonus) Project - Meme Generator](https://github.com/raphaelalmeidamartins/project-meme-generator) — Grade: 100%_
+- [x] 05.07 — _[(Bonus) Project - Color Guess](https://github.com/raphaelalmeidamartins/project-color-guess) — Grade: 100%_
+- [x] 05.07 — _[(Bonus) Project - Mystery Letter](https://github.com/raphaelalmeidamartins/project-mystery-letter) — Grade: 100%_
 
 #### [Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo)
 - [x] 06.01 — _HTML & CSS - Forms_
@@ -316,13 +316,13 @@
 - [x] 06.03 — _Flexbox CSS - Part 1_
 - [x] 06.04 — _Flexbox CSS - Part 2_
 - [x] 06.05 — _CSS Responsive - Mobile First_
-- [x] 06.06 — _[Project - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts)_
+- [x] 06.06 — _[Project - Trybewarts](https://github.com/raphaelalmeidamartins/trybewarts) — Grade: 100%_
 
 #### [Unit 07: Introduction to JavaScript ES6 and Unit Tests](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals)
 - [x] 07.01 — _JavaScript ES6 - let, const, arrow functions, and template literals_
 - [x] 07.02 — _JavaScript ES6 - Exception flow and Objetcs_
 - [x] 07.03 — _First steps with Jest_
-- [x] 07.04 — _[Project - JavaScript ES6 Unit Tests](https://github.com/raphaelalmeidamartins/es6-unit-tests)_
+- [x] 07.04 — _[Project - JavaScript ES6 Unit Tests](https://github.com/raphaelalmeidamartins/es6-unit-tests) — Grade: 100%_
 
 #### [Unit 08: JavaScript ES6 Higher-Order Functions](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b08_HOF-JavaScrip-ES6)
 - [x] 08.01 — _JavaScript ES6 - Introduction to Higher-Order Functions_
@@ -330,13 +330,13 @@
 - [x] 08.03 — _JavaScript ES6 - Higher-Order Functions - map e filter_
 - [x] 08.04 — _JavaScript ES6 - Higher-Order Functions - reduce_
 - [x] 08.05 — _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions)_
+- [x] 08.06 — _[Projeto - Zoo functions](https://github.com/raphaelalmeidamartins/zoo-functions) — Grade: 100%_
 
 #### [Unit 09: JavaScript and Asynchronous Tests](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web/b09_JavaScript-testes-assincronos)
 - [x] 09.01 — _Asynchronous JavaScript and Callbacks_
 - [x] 09.02 — _Asynchronous JavaScript - Fetch API, and async/await_
 - [x] 09.03 — _Jest - Asynchronous Tests_
-- [x] 09.04 — _[Project - Shopping Cart](https://github.com/raphaelalmeidamartins/shopping-cart)_
+- [x] 09.04 — _[Project - Shopping Cart](https://github.com/raphaelalmeidamartins/shopping-cart) — Grade: 100%_
 
 ## Front-end Development :hourglass_flowing_sand:
 
@@ -345,27 +345,27 @@
 - [x] 10.01 — _Introduction - React_
 - [x] 10.01 — _'Hello, world!' using React!_
 - [x] 10.02 — _React Components_
-- [x] 10.03 — _[Project - Solar System](https://raphaelalmeidamartins.github.io/solar-system/)_
+- [x] 10.03 — _[Project - Solar System](https://raphaelalmeidamartins.github.io/solar-system/) — Grade: 100%_
 
 #### [Unit 11: Components with State, Events, and Forms with React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b11_componentes-com-estados-eventos-e-formularios-React)
 - [x] 11.01 — _Components with state and events_
 - [x] 11.02 — _Forms with React_
-- [x] 11.03 — _[Project - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps)_
+- [x] 11.03 — _[Project - Tryunfo](https://github.com/raphaelalmeidamartins/sonic-trumps) — Grade: 100%_
 
 #### [Unit 12: Components Lifecycle and React Router](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b12_ciclo-de-vida-dos-componentes-e-react-router)
 - [x] 12.01 — _Components Lifecycle_
 - [x] 12.02 — _React Router_
-- [x] 12.03 — _[Project - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes)_
+- [x] 12.03 — _[Project - TrybeTunes](https://github.com/raphaelalmeidamartins/trybetunes) — Grade: 100%_
 
 #### [Unit 13: Agile Methodologies](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b13_metodologias-ageis)
 - [x] 13.01 — _Agile Methodologies_
-- [x] 13.02 — _[Project - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store)_
+- [x] 13.02 — _[Project - Front-end Online Store](https://github.com/raphaelalmeidamartins/front-end-online-store) — Grade: 100%_
 
 #### [Unit 14: Automated testing with React Testing Library](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b14_testes-automatizados-com-RTL)
 - [x] 14.01 — _RTL - First Steps_
 - [x] 14.02 — _RTL - Mocks and Inputs_
 - [x] 14.03 — _RTL - Testing React Router_
-- [x] 14.04 — _[Project - Tests with React](https://github.com/raphaelalmeidamartins/tests-with-react-testing-library)_
+- [x] 14.04 — _[Project - Tests with React](https://github.com/raphaelalmeidamartins/tests-with-react-testing-library) — Grade: 100%_
 
 #### [Unit 15: State management with Redux](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b15_gerenciamento-de-estado-com-redux)
 - [x] 15.01 — _Introduction to Redux - the global application state_
@@ -373,10 +373,10 @@
 - [x] 15.03 — _Using Redux with React - Practice_
 - [x] 15.04 — _Using Redux with React - Asynchronous Actions_
 - [x] 15.05 — _Tests with React-Redux_
-- [x] 15.06 — _[Project - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet)_
+- [x] 15.06 — _[Project - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet) — Grade: 100%_
 
 #### [Unit 16: Project - Trivia Game](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b16_projeto-trivia)
-- [x] 16.01 — _[Project - Trivia Game](https://github.com/raphaelalmeidamartins/trivia)_
+- [x] 16.01 — _[Project - Trivia Game](https://github.com/raphaelalmeidamartins/trivia) — Grade: 100%_
 
 #### [Unit 17: Context API and React Hooks]()
 - [ ] 17.01 — _React Context API_
