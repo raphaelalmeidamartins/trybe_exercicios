@@ -32,7 +32,7 @@
 <br>
 
 <h2 id="en">:us: English</h2>
-<p>First module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this module, we were introduced to the fundamental concepts of web development:</p>
+<p>The first module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this module, we were introduced to the fundamental concepts of web development:</p>
 
 - We studied the Unix system and learned how to use the bash shell on both Linux and macOS;
 - We learned about the Git version control system and the GitHub platform;
