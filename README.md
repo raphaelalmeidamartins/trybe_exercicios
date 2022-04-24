@@ -121,10 +121,10 @@
 - [x] 16.01 — _[Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trivia) — Nota: 100%_
 
 #### [Bloco 17: Context API e React Hooks]()
-- [ ] 17.01 — _Context API do React_
-- [ ] 17.02 — _React Hooks - useState e useContext_
-- [ ] 17.03 — _React Hooks - useEffect e Hooks customizados_
-- [ ] 17.04 — _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17.01 — _Context API do React_
+- [x] 17.02 — _React Hooks - useState e useContext_
+- [x] 17.03 — _React Hooks - useEffect e Hooks customizados_
+- [x] 17.04 — _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Nota: 100%_
 
 #### [Bloco 18: Projeto - App de Receitas]()
 - [ ] 18.01 — _[Projeto - App de Receitas]()_
@@ -379,10 +379,10 @@
 - [x] 16.01 — _[Project - Trivia Game](https://github.com/raphaelalmeidamartins/trivia) — Grade: 100%_
 
 #### [Unit 17: Context API and React Hooks]()
-- [ ] 17.01 — _React Context API_
-- [ ] 17.02 — _React Hooks - useState and useContext_
-- [ ] 17.03 — _React Hooks - useEffect and custom Hooks_
-- [ ] 17.04 — _[Project - StarWars Datatable with Context API and Hooks]()_
+- [x] 17.01 — _React Context API_
+- [x] 17.02 — _React Hooks - useState and useContext_
+- [x] 17.03 — _React Hooks - useEffect and custom Hooks_
+- [x] 17.04 — _[Project - StarWars Datatable with Context API and Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Grade: 100%_
 
 #### [Unit 18: Project - Recipes App]()
 - [ ] 18.01 — _[Project - Recipes App]()_
