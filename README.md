@@ -120,7 +120,7 @@
 #### [Bloco 16: Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b16_projeto-trivia)
 - [x] 16.01 — _[Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trivia) — Nota: 100%_
 
-#### [Bloco 17: Context API e React Hooks]()
+#### [Bloco 17: Context API e React Hooks](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b17_react-hooks-e-context-API)
 - [x] 17.01 — _Context API do React_
 - [x] 17.02 — _React Hooks - useState e useContext_
 - [x] 17.03 — _React Hooks - useEffect e Hooks customizados_
@@ -378,7 +378,7 @@
 #### [Unit 16: Project - Trivia Game](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b16_projeto-trivia)
 - [x] 16.01 — _[Project - Trivia Game](https://github.com/raphaelalmeidamartins/trivia) — Grade: 100%_
 
-#### [Unit 17: Context API and React Hooks]()
+#### [Unit 17: Context API and React Hooks](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b17_react-hooks-e-context-API)
 - [x] 17.01 — _React Context API_
 - [x] 17.02 — _React Hooks - useState and useContext_
 - [x] 17.03 — _React Hooks - useEffect and custom Hooks_
