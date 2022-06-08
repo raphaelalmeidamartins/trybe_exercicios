@@ -131,26 +131,26 @@
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-#### [Bloco 19: Docker: Utilizando Containers]()
-- [ ] 19.01 — _Introdução - Back-end_
-- [ ] 19.01 — _Utilizando Containers - Docker_
-- [ ] 19.02 — _Manipulação e Criação de Imagens no Docker_
-- [ ] 19.03 — _Orquestrando Containers com Docker Compose_
-- [ ] 19.04 — _[Projeto - Docker To-do List]()_
+#### [Bloco 19: Docker: Utilizando Containers](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b19_Docker-utilizando-containers)
+- [x] 19.01 — _Introdução - Back-end_
+- [x] 19.01 — _Utilizando Containers - Docker_
+- [x] 19.02 — _Manipulação e Criação de Imagens no Docker_
+- [x] 19.03 — _Orquestrando Containers com Docker Compose_
+- [x] 19.04 — _[Projeto - Docker To-do List](https://github.com/raphaelalmeidamartins/docker-todo-list) — Nota: 100%_
 
 #### [Bloco 20: Introdução à SQL]()
-- [ ] 20.01 — _Introdução - Bancos de dados relacionais_
-- [ ] 20.01 — _Banco de dados SQL_
-- [ ] 20.02 — _Encontrando dados em um banco de dados_
-- [ ] 20.03 — _Filtrando dados de forma específica_
-- [ ] 20.04 — _Manipulando tabelas_
-- [ ] 20.05 — _[Projeto - All For One]()_
+- [x] 20.01 — _Introdução - Bancos de dados relacionais_
+- [x] 20.01 — _Banco de dados SQL_
+- [x] 20.02 — _Encontrando dados em um banco de dados_
+- [x] 20.03 — _Filtrando dados de forma específica_
+- [x] 20.04 — _Manipulando tabelas_
+- [x] 20.05 — _[Projeto - All For One](https://github.com/raphaelalmeidamartins/mysql-all-for-one) — Nota: 100%_
 
 #### [Bloco 21: Funções SQL, JOINs e Normalização]()
-- [ ] 21.01 — _Funções mais usadas no SQL_
-- [ ] 21.02 — _Descomplicando JOINs_
-- [ ] 21.03 — _Transformando ideias em um modelo de banco de dados_
-- [ ] 21.04 — _Aula ao vivo + [Projeto - One For All]()_
+- [x] 21.01 — _Funções mais usadas no SQL_
+- [x] 21.02 — _Descomplicando JOINs_
+- [x] 21.03 — _Transformando ideias em um modelo de banco de dados_
+- [x] 21.04 — _Aula ao vivo + [Projeto - One For All]()_
 
 #### [Bloco 22: Introdução ao desenvolvimento Web com Node.js]()
 - [ ] 22.01 — _Intro - Node.js_
@@ -389,26 +389,26 @@
 
 ## Back-end Development :hourglass_flowing_sand:
 
-#### [Unit 19: Docker: Using Containers]()
-- [ ] 19.01 — _Introduction - Back-end_
-- [ ] 19.01 — _Using Containers - Docker_
-- [ ] 19.02 — _Manipulation and Creation of Images with Docker_
-- [ ] 19.03 — _Orchestrating Containers with Docker Compose_
-- [ ] 19.04 — _[Project - Docker To-do List]()_
+#### [Unit 19: Docker: Using Containers](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b19_Docker-utilizando-containers)
+- [x] 19.01 — _Introduction - Back-end_
+- [x] 19.01 — _Using Containers - Docker_
+- [x] 19.02 — _Manipulation and Creation of Images with Docker_
+- [x] 19.03 — _Orchestrating Containers with Docker Compose_
+- [x] 19.04 — _[Project - Docker To-do List](https://github.com/raphaelalmeidamartins/docker-todo-list) — Grade: 100%_
 
 #### [Unit 20: Introduction to SQL]()
-- [ ] 20.01 — _Introduction - Relational Databases_
-- [ ] 20.01 — _SQL Databases_
-- [ ] 20.02 — _Finding data in a database_
-- [ ] 20.03 — _Filtering data in specific ways_
-- [ ] 20.04 — _Manipulating tables_
-- [ ] 20.05 — _[Project - All For One]()_
+- [x] 20.01 — _Introduction - Relational Databases_
+- [x] 20.01 — _SQL Databases_
+- [x] 20.02 — _Finding data in a database_
+- [x] 20.03 — _Filtering data in specific ways_
+- [x] 20.04 — _Manipulating tables_
+- [x] 20.05 — _[Project - All For One](https://github.com/raphaelalmeidamartins/mysql-all-for-one) — Grade: 100%_
 
 #### [Unit 21: SQL Functions, JOINs e Normalization]()
-- [ ] 21.01 — _Most used SQL functions_
-- [ ] 21.02 — _Simplifying JOINs_
-- [ ] 21.03 — _Turning ideas into a database model_
-- [ ] 21.04 — _Live lecture + [Project - One For All]()_
+- [x] 21.01 — _Most used SQL functions_
+- [x] 21.02 — _Simplifying JOINs_
+- [x] 21.03 — _Turning ideas into a database model_
+- [x] 21.04 — _Live lecture + [Project - One For All](https://github.com/raphaelalmeidamartins/mysql-one-for-all) — Grade: 100%_
 
 #### [Unit 22: Introduction to Web Development with Node.js]()
 - [ ] 22.01 — _Intro - Node.js_
