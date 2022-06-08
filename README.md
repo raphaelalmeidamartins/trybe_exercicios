@@ -126,7 +126,7 @@
 - [x] 17.03 — _React Hooks - useEffect e Hooks customizados_
 - [x] 17.04 — _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Nota: 100%_
 
-#### [Bloco 18: Projeto - App de Receitas]()
+#### [Bloco 18: Projeto - App de Receitas](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b18_projeto-app-de-receitas)
 - [x] 18.01 — _[Projeto - App de Receitas](https://github.com/raphaelalmeidamartins/fine-flavor) — Nota: 100%_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
@@ -174,7 +174,7 @@
 - [ ] 24.01 — _ORM - Interface da aplicação com o banco de dados_
 - [ ] 24.02 — _ORM - Associations_
 - [ ] 24.03 — _JWT - (JSON Web Token)_
-- [ ] 24.04 — _Testando APIs com Testes de Integração_
+- [ ] 24.04 — _Testando APIs com Testes de Integração_https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b18_projeto-app-de-receitas
 - [ ] 24.05 — _[Projeto - API de Blogs]()_
 
 #### [Bloco 25: Deployment]()
@@ -384,7 +384,7 @@
 - [x] 17.03 — _React Hooks - useEffect and custom Hooks_
 - [x] 17.04 — _[Project - StarWars Datatable with Context API and Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Grade: 100%_
 
-#### [Unit 18: Project - Recipes App]()
+#### [Unit 18: Project - Recipes App](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b18_projeto-app-de-receitas)
 - [x] 18.01 — _[Project - Recipes App](https://github.com/raphaelalmeidamartins/fine-flavor) — Grade: 100%_
 
 ## Back-end Development :hourglass_flowing_sand:
