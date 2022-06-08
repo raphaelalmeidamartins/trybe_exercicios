@@ -24,7 +24,7 @@
 - [x] _[Projeto - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet) — Nota: 100%_
 - [x] _[Projeto - Jogo de Trivia](https://github.com/raphaelalmeidamartins/trivia) — Nota: 100%_
 - [x] _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Nota: 100%_
-- [ ] _[Projeto - App de Receitas]() (Não iniciado)_
+- [x] _[Projeto - App de Receitas](https://github.com/raphaelalmeidamartins/fine-flavor) — Nota: 100%_
 
 <br>
 
@@ -52,4 +52,4 @@
 - [x] _[Project - Trybe Wallet](https://github.com/raphaelalmeidamartins/trybewallet) — Grade: 100%_
 - [x] _[Project - Trivia Game](https://github.com/raphaelalmeidamartins/trivia) — Grade: 100%_
 - [x] _[Project - StarWars Datatable with Context API and Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Grade: 100%_
-- [ ] _[Project - Recipes App]() (Uninitiated)_
+- [x] _[Project - Recipes App](https://github.com/raphaelalmeidamartins/fine-flavor) — Grade: 100%_

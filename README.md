@@ -127,7 +127,7 @@
 - [x] 17.04 — _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Nota: 100%_
 
 #### [Bloco 18: Projeto - App de Receitas]()
-- [x] 18.01 — _[Projeto - App de Receitas](https://github.com/raphaelalmeidamartins/fine-flavor)_
+- [x] 18.01 — _[Projeto - App de Receitas](https://github.com/raphaelalmeidamartins/fine-flavor) — Nota: 100%_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -385,7 +385,7 @@
 - [x] 17.04 — _[Project - StarWars Datatable with Context API and Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Grade: 100%_
 
 #### [Unit 18: Project - Recipes App]()
-- [x] 18.01 — _[Project - Recipes App](https://github.com/raphaelalmeidamartins/fine-flavor)_
+- [x] 18.01 — _[Project - Recipes App](https://github.com/raphaelalmeidamartins/fine-flavor) — Grade: 100%_
 
 ## Back-end Development :hourglass_flowing_sand:
 
