@@ -80,7 +80,7 @@
 - [x] 09.03 — _Jest - Testes Assíncronos_
 - [x] 09.04 — _[Projeto - Carrinho de Compras](https://github.com/raphaelalmeidamartins/shopping-cart) — Nota: 100%_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 #### [Bloco 10: Introdução à React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
 - [x] 10.01 — _Introdução - Front-end_
@@ -127,7 +127,7 @@
 - [x] 17.04 — _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Nota: 100%_
 
 #### [Bloco 18: Projeto - App de Receitas]()
-- [ ] 18.01 — _[Projeto - App de Receitas]()_
+- [x] 18.01 — _[Projeto - App de Receitas](https://github.com/raphaelalmeidamartins/fine-flavor)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -338,7 +338,7 @@
 - [x] 09.03 — _Jest - Asynchronous Tests_
 - [x] 09.04 — _[Project - Shopping Cart](https://github.com/raphaelalmeidamartins/shopping-cart) — Grade: 100%_
 
-## Front-end Development :hourglass_flowing_sand:
+## Front-end Development :heavy_check_mark:
 
 #### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
 - [x] 10.01 — _Introduction - Front-end_
@@ -385,7 +385,7 @@
 - [x] 17.04 — _[Project - StarWars Datatable with Context API and Hooks](https://github.com/raphaelalmeidamartins/starwars-planets-search) — Grade: 100%_
 
 #### [Unit 18: Project - Recipes App]()
-- [ ] 18.01 — _[Project - Recipes App]()_
+- [x] 18.01 — _[Project - Recipes App](https://github.com/raphaelalmeidamartins/fine-flavor)_
 
 ## Back-end Development :hourglass_flowing_sand:
 
