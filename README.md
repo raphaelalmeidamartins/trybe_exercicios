@@ -174,7 +174,7 @@
 - [ ] 24.01 — _ORM - Interface da aplicação com o banco de dados_
 - [ ] 24.02 — _ORM - Associations_
 - [ ] 24.03 — _JWT - (JSON Web Token)_
-- [ ] 24.04 — _Testando APIs com Testes de Integração_https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b18_projeto-app-de-receitas
+- [ ] 24.04 — _Testando APIs com Testes de Integração_
 - [ ] 24.05 — _[Projeto - API de Blogs]()_
 
 #### [Bloco 25: Deployment]()
