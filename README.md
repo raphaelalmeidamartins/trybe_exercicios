@@ -138,7 +138,7 @@
 - [x] 19.03 — _Orquestrando Containers com Docker Compose_
 - [x] 19.04 — _[Projeto - Docker To-do List](https://github.com/raphaelalmeidamartins/docker-todo-list) — Nota: 100%_
 
-#### [Bloco 20: Introdução à SQL]()
+#### [Bloco 20: Introdução à SQL](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b20_Introducao-SQL)
 - [x] 20.01 — _Introdução - Bancos de dados relacionais_
 - [x] 20.01 — _Banco de dados SQL_
 - [x] 20.02 — _Encontrando dados em um banco de dados_
@@ -396,7 +396,7 @@
 - [x] 19.03 — _Orchestrating Containers with Docker Compose_
 - [x] 19.04 — _[Project - Docker To-do List](https://github.com/raphaelalmeidamartins/docker-todo-list) — Grade: 100%_
 
-#### [Unit 20: Introduction to SQL]()
+#### [Unit 20: Introduction to SQL](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b20_Introducao-SQL)
 - [x] 20.01 — _Introduction - Relational Databases_
 - [x] 20.01 — _SQL Databases_
 - [x] 20.02 — _Finding data in a database_
