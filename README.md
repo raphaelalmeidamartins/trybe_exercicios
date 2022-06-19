@@ -152,7 +152,7 @@
 - [x] 21.03 — _Transformando ideias em um modelo de banco de dados_
 - [x] 21.04 — _Aula ao vivo + [Projeto - One For All]()_
 
-#### [Bloco 22: Introdução ao desenvolvimento Web com Node.js]()
+#### [Bloco 22: Introdução ao desenvolvimento Web com Node.js](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b22_Desenvolvimento-web-com-node-js)
 - [x] 22.01 — _Intro - Node.js_
 - [x] 22.01 — _Node.js - Um motor JavaScript_
 - [x] 22.02 — _Node.js - Fluxo Assíncrono_
@@ -410,7 +410,7 @@
 - [x] 21.03 — _Turning ideas into a database model_
 - [x] 21.04 — _Live lecture + [Project - One For All](https://github.com/raphaelalmeidamartins/mysql-one-for-all) — Grade: 100%_
 
-#### [Unit 22: Introduction to Web Development with Node.js]()
+#### [Unit 22: Introduction to Web Development with Node.js](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b22_Desenvolvimento-web-com-node-js)
 - [x] 22.01 — _Intro - Node.js_
 - [x] 22.01 — _Node.js - An JavaScript engine_
 - [x] 22.02 — _Node.js - Asynchronous Flow_
