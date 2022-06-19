@@ -153,10 +153,10 @@
 - [x] 21.04 — _Aula ao vivo + [Projeto - One For All]()_
 
 #### [Bloco 22: Introdução ao desenvolvimento Web com Node.js]()
-- [ ] 22.01 — _Intro - Node.js_
-- [ ] 22.01 — _Node.js - Um motor JavaScript_
-- [ ] 22.02 — _Node.js - Fluxo Assíncrono_
-- [ ] 22.03 — _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+- [x] 22.01 — _Intro - Node.js_
+- [x] 22.01 — _Node.js - Um motor JavaScript_
+- [x] 22.02 — _Node.js - Fluxo Assíncrono_
+- [x] 22.03 — _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [ ] 22.04 — _Express - HTTP com Node.js_
 - [ ] 22.05 — _Express - Middlewares_
 - [ ] 22.06 — _[Projeto - Talker Manager]()_
@@ -411,10 +411,10 @@
 - [x] 21.04 — _Live lecture + [Project - One For All](https://github.com/raphaelalmeidamartins/mysql-one-for-all) — Grade: 100%_
 
 #### [Unit 22: Introduction to Web Development with Node.js]()
-- [ ] 22.01 — _Intro - Node.js_
-- [ ] 22.01 — _Node.js - An JavaScript engine_
-- [ ] 22.02 — _Node.js - Asynchronous Flow_
-- [ ] 22.03 — _Mocha, Chai and Sinon - Back-end Tests with Node.js_
+- [x] 22.01 — _Intro - Node.js_
+- [x] 22.01 — _Node.js - An JavaScript engine_
+- [x] 22.02 — _Node.js - Asynchronous Flow_
+- [x] 22.03 — _Mocha, Chai and Sinon - Back-end Tests with Node.js_
 - [ ] 22.04 — _Express - HTTP with Node.js_
 - [ ] 22.05 — _Express - Middlewares_
 - [ ] 22.06 — _[Project - Talker Manager]()_
