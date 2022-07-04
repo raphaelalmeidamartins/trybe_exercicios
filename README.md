@@ -412,7 +412,7 @@
 
 #### [Unit 22: Introduction to Web Development with Node.js](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b22_Desenvolvimento-web-com-node-js)
 - [x] 22.01 — _Intro - Node.js_
-- [x] 22.01 — _Node.js - An JavaScript engine_
+- [x] 22.01 — _Node.js - A JavaScript engine_
 - [x] 22.02 — _Node.js - Asynchronous Flow_
 - [x] 22.03 — _Mocha, Chai and Sinon - Back-end Tests with Node.js_
 - [x] 22.04 — _Express - HTTP with Node.js_
