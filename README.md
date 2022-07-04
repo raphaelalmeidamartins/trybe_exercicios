@@ -146,7 +146,7 @@
 - [x] 20.04 — _Manipulando tabelas_
 - [x] 20.05 — _[Projeto - All For One](https://github.com/raphaelalmeidamartins/mysql-all-for-one) — Nota: 100%_
 
-#### [Bloco 21: Funções SQL, JOINs e Normalização]()
+#### [Bloco 21: Funções SQL, JOINs e Normalização](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b21_funcoes-SQL-joins-normatizacao)
 - [x] 21.01 — _Funções mais usadas no SQL_
 - [x] 21.02 — _Descomplicando JOINs_
 - [x] 21.03 — _Transformando ideias em um modelo de banco de dados_
@@ -404,7 +404,7 @@
 - [x] 20.04 — _Manipulating tables_
 - [x] 20.05 — _[Project - All For One](https://github.com/raphaelalmeidamartins/mysql-all-for-one) — Grade: 100%_
 
-#### [Unit 21: SQL Functions, JOINs e Normalization]()
+#### [Unit 21: SQL Functions, JOINs e Normalization](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b21_funcoes-SQL-joins-normatizacao)
 - [x] 21.01 — _Most used SQL functions_
 - [x] 21.02 — _Simplifying JOINs_
 - [x] 21.03 — _Turning ideas into a database model_
