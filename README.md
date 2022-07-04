@@ -150,24 +150,24 @@
 - [x] 21.01 — _Funções mais usadas no SQL_
 - [x] 21.02 — _Descomplicando JOINs_
 - [x] 21.03 — _Transformando ideias em um modelo de banco de dados_
-- [x] 21.04 — _Aula ao vivo + [Projeto - One For All]()_
+- [x] 21.04 — _Aula ao vivo + [Projeto - One For All](https://github.com/raphaelalmeidamartins/mysql-one-for-all) — Nota: 100%_
 
 #### [Bloco 22: Introdução ao desenvolvimento Web com Node.js](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b22_Desenvolvimento-web-com-node-js)
 - [x] 22.01 — _Intro - Node.js_
 - [x] 22.01 — _Node.js - Um motor JavaScript_
 - [x] 22.02 — _Node.js - Fluxo Assíncrono_
 - [x] 22.03 — _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
-- [ ] 22.04 — _Express - HTTP com Node.js_
-- [ ] 22.05 — _Express - Middlewares_
-- [ ] 22.06 — _[Projeto - Talker Manager]()_
+- [x] 22.04 — _Express - HTTP com Node.js_
+- [x] 22.05 — _Express - Middlewares_
+- [x] 22.06 — _[Projeto - Talker Manager](https://github.com/raphaelalmeidamartins/talker-manager) — Nota: 100%_
 
-#### [Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
-- [ ] 23.01 — _Introdução - Arquitetura de Software_
-- [ ] 23.01 — _Arquitetura de Software - Camada de Model_
-- [ ] 23.02 — _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 23.03 — _Arquitetura Web - Rest e Restful_
-- [ ] 23.04 — _Arquitetura de Software - Testando as Camadas_
-- [ ] 23.05 — _[Projeto - Store Manager]()_
+#### [Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b23_Camada-de-servi%C3%A7o-e-arquitetura-rest-restful)
+- [x] 23.01 — _Introdução - Arquitetura de Software_
+- [x] 23.01 — _Arquitetura de Software - Camada de Model_
+- [x] 23.02 — _Arquitetura de Software - Camada de Controller e Service_
+- [x] 23.03 — _Arquitetura Web - Rest e Restful_
+- [x] 23.04 — _Arquitetura de Software - Testando as Camadas_
+- [x] 23.05 — _[Projeto - Store Manager](https://github.com/raphaelalmeidamartins/store-manager) — Nota: 100%_
 
 #### [Bloco 24: Node.js: ORM e Autenticação]()
 - [ ] 24.01 — _Introdução - Node.js: ORM e Autenticação_
@@ -415,17 +415,17 @@
 - [x] 22.01 — _Node.js - An JavaScript engine_
 - [x] 22.02 — _Node.js - Asynchronous Flow_
 - [x] 22.03 — _Mocha, Chai and Sinon - Back-end Tests with Node.js_
-- [ ] 22.04 — _Express - HTTP with Node.js_
-- [ ] 22.05 — _Express - Middlewares_
-- [ ] 22.06 — _[Project - Talker Manager]()_
+- [x] 22.04 — _Express - HTTP with Node.js_
+- [x] 22.05 — _Express - Middlewares_
+- [x] 22.06 — _[Project - Talker Manager](https://github.com/raphaelalmeidamartins/talker-manager) — Grade: 100%_
 
-#### [Unit 23: Node.js: Service Layer, Rest Architecture, and Restful]()
-- [ ] 23.01 — _Introduction to - Software Architecture_
-- [ ] 23.01 — _Software Architecture - Model Layer_
-- [ ] 23.02 — _Software Architecture - Controller and Service Layers_
-- [ ] 23.03 — _Web Architecture - Rest and Restful_
-- [ ] 23.04 — _Software Architecture - Testing the Layers_
-- [ ] 23.05 — _[Project - Store Manager]()_
+#### [Unit 23: Node.js: Service Layer, Rest Architecture, and Restful](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b23_Camada-de-servi%C3%A7o-e-arquitetura-rest-restful)
+- [x] 23.01 — _Introduction to - Software Architecture_
+- [x] 23.01 — _Software Architecture - Model Layer_
+- [x] 23.02 — _Software Architecture - Controller and Service Layers_
+- [x] 23.03 — _Web Architecture - Rest and Restful_
+- [x] 23.04 — _Software Architecture - Testing the Layers_
+- [x] 23.05 — _[Project - Store Manager](https://github.com/raphaelalmeidamartins/store-manager) — Grade: 100%_
 
 #### [Unit 24: Node.js: ORM and Autentication]()
 - [ ] 24.01 — _Introduction - Node.js: ORM and Autentication_
