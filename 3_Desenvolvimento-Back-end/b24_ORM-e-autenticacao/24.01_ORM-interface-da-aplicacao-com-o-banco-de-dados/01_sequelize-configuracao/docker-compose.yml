@@ -1,0 +1,9 @@
+version: '3.1'
+services:
+  mysql:
+    image: mysql:5.7
+    container_name: pet_trybe_backend
+    environment: 
+      - MYSQL_ROOT_PASSWORD=password
+    ports:
+      - 5000:3306
