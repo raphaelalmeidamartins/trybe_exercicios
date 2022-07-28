@@ -1,5 +1,3 @@
-./node_modules
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -18,3 +16,5 @@
 
 # Support for Project snippet scope
 !.vscode/*.code-snippets
+
+node_modules/

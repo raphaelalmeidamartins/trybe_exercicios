@@ -22,19 +22,4 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
-/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/
-
-/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/.vscode/
-
-/1_fundamentos-do-desv-web/b06_html-css-forms-flexbox-e-responsivo/06.02_javascript-libraries-css-frameworks/node_modules/
-
-/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/node_modules/.vscode/
-
-/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/03_exercicios-finais/node_modules/
-
-/1_fundamentos-do-desv-web/b07_javascript-es6-let-const-arrow-functions-template-literals/07.03_jest-primeiros-passos/03_exercicios-finais/.vscode/
-
-/3_Desenvolvimento-Back-end/b22_Desenvolvimento-web-com-node-js/22.01_um-motor-javascript/node_modules
-
-/3_Desenvolvimento-Back-end/b24_ORM-e-autenticacao/24.01_ORM-interface-da-aplicacao-com-o-banco-de-dados/01_sequelize-configuracao/node_modules
-
+node_modules/
