@@ -1,0 +1,19 @@
+[
+  {
+    "id": "16372398-b28f-4a39-8e67-3f6a035ee076",
+    "breed": "Bromelia",
+    "size": 102,
+    "needsSun": false,
+    "origin": "Argentina",
+    "specialCare": {
+      "waterFrequency": 3
+    }
+  },
+  {
+    "id": "cb9aea00-d3fa-44b0-a4b4-7bd4c1a32770",
+    "breed": "Orquidea",
+    "size": 99,
+    "needsSun": true,
+    "origin": "Brazil"
+  }
+]
