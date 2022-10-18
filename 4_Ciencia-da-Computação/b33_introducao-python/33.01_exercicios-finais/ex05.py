@@ -1,17 +1,17 @@
 import math
 
 
-def howMuchInk(wallArea: float):
-    if wallArea <= 0:
+def how_much_ink(wall_area: float):
+    if wall_area <= 0:
         print("Invalid size")
 
-    inkLtPerM = 1 / 3
-    totalInkLt = wallArea * inkLtPerM
-    paintPots = math.ceil(totalInkLt / 18)
-    paintPotPrice = 80.00
-    totalPrice = paintPots * paintPotPrice
+    ink_lt_per_m = 1 / 3
+    total_ink_lt = wall_area * ink_lt_per_m
+    paint_pots = math.ceil(total_ink_lt / 18)
+    paint_pot_price = 80.00
+    total_price = paint_pots * paint_pot_price
 
-    return (paintPots, totalPrice)
+    return (paint_pots, total_price)
 
 
-print(howMuchInk(53))
+print(how_much_ink(53))

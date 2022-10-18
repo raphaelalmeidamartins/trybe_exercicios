@@ -1,25 +1,25 @@
-def printSquare(lineLength: int):
-    if lineLength <= 0:
+def print_square(line_length: int):
+    if line_length <= 0:
         print("The number should be higher than 0")
     else:
-        for index in range(lineLength):
-            currLine: str = ""
-            for index in range(lineLength):
-                currLine += "*"
-            print(currLine)
+        for index in range(line_length):
+            curr_line: str = ""
+            for index in range(line_length):
+                curr_line += "*"
+            print(curr_line)
 
 
-printSquare(5)
+print_square(5)
 
 # Solução alternativa
 
 
-def printSquareAlt(lineLength: int):
-    if lineLength <= 0:
+def print_square_alt(line_length: int):
+    if line_length <= 0:
         print("The number should be higher than 0")
     else:
-        for row in range(lineLength):
-            print(lineLength * "*")
+        for row in range(line_length):
+            print(line_length * "*")
 
 
-printSquareAlt(5)
+print_square_alt(5)
