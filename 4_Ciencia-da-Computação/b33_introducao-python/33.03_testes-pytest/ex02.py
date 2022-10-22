@@ -13,7 +13,7 @@ def decode_string(string: str):
     decoded = ""
 
     for char in string:
-        value = char
+        value = char if "01-".find(char) >= 0 else ""
 
         for key, number in codex:
             if key.find(char.upper()) >= 0:
@@ -26,4 +26,4 @@ def decode_string(string: str):
 
 
 if __name__ == "__main__":
-    print(decode_string("My LOVE"))
+    print(decode_string("My0LOVE"))
