@@ -13,10 +13,10 @@ def decode_string(string: str):
     decoded = ""
 
     for char in string:
-        value = char if "01-".find(char) >= 0 else ""
+        value = char if char in "01-" else ""
 
         for key, number in codex:
-            if key.find(char.upper()) >= 0:
+            if char.upper() in key:
                 value = str(number)
                 break
 
@@ -26,4 +26,4 @@ def decode_string(string: str):
 
 
 if __name__ == "__main__":
-    print(decode_string("My0LOVE"))
+    print(decode_string("MY-LOVE"))
