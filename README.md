@@ -254,10 +254,9 @@
 
 ### [Bloco 33: Introdução à Python]()
 
-- [ ] 33.01 — _Introdução - Ciência da Computação_
-- [ ] 33.01 — _Aprendendo Python_
-- [ ] 33.02 — _Entrada e Saída de Dados_
-- [ ] 33.03 — _Testes_
+- [x] 33.01 — _Aprendendo Python_
+- [x] 33.02 — _Entrada e Saída de Dados_
+- [x] 33.03 — _Testes_
 - [ ] 33.04 — _[Projeto - Job Insights]()_
 
 ### [Bloco 34: Programação Orientada a Objetos e Padrões de Projeto]()
@@ -549,10 +548,9 @@
 
 ### [Unit 33: Introduction to Python]()
 
-- [ ] 33.01 — _Introduction to - Computer Science_
-- [ ] 33.01 — _Learning Python_
-- [ ] 33.02 — _Data Input and Output_
-- [ ] 33.03 — _Tests_
+- [x] 33.01 — _Learning Python_
+- [x] 33.02 — _Data Input and Output_
+- [x] 33.03 — _Tests_
 - [ ] 33.04 — _[Project - Job Insights]()_
 
 ### [Unit 34: Object-Oriented Programming and Design Patterns]()
