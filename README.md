@@ -191,7 +191,7 @@
 - [x] 23.04 — _Arquitetura de Software - Testando as Camadas_
 - [x] 23.05 — _[Projeto - Store Manager](https://github.com/raphaelalmeidamartins/store-manager) — Nota: 100%_
 
-#### [Bloco 24: Node.js: ORM e Autenticação]()
+#### [Bloco 24: Node.js: ORM e Autenticação](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b24_ORM-e-autenticacao)
 
 - [x] 24.01 — _Introdução - Node.js: ORM e Autenticação_
 - [x] 24.01 — _ORM - Interface da aplicação com o banco de dados_
@@ -200,21 +200,21 @@
 - [x] 24.04 — _Testando APIs com Testes de Integração_
 - [x] 24.05 — _[Projeto - API de Blogs](https://github.com/raphaelalmeidamartins/blogs-api) — Nota: 100%_
 
-#### [Bloco 25: Deployment]()
+#### [Bloco 25: Deployment](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b24_ORM-e-autenticacao)
 
 - [x] 25.01 — _Infraestrutura - Deploy com Heroku_
 - [x] 25.02 — _Deploy Docker & Heroku_
 - [x] 25.03 — _[Projeto - Stranger Things - Front-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-frontend) — Nota: 100%_
 - [x] 25.03 — _[Projeto - Stranger Things - Back-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-backend) — Nota: 100%_
 
-#### [Bloco 26: TypeScript]()
+#### [Bloco 26: TypeScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b26_TypeScript)
 
 - [x] 26.01 — _Introdução ao TypeScript_
 - [x] 26.02 — _Tipagem Estática e Generics_
 - [x] 26.03 — _Express com TypeScript_
 - [x] 26.04 — _[Projeto - Trybe Smith](https://github.com/raphaelalmeidamartins/trybesmith) — Nota: 100%_
 
-#### [Bloco 27: Programação Orientada a Objetos (POO) e SOLID]()
+#### [Bloco 27: Programação Orientada a Objetos (POO) e SOLID](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b27_POO)
 
 - [x] 27.01 — _Introdução à Orientação a Objetos_
 - [x] 27.02 — _Herança e Interfaces_
@@ -223,7 +223,7 @@
 - [x] 27.05 — _SOLID - Continuação_
 - [x] 27.06 — _[Projeto - Trybers and Dragons](https://github.com/raphaelalmeidamartins/trybers-and-dragons) — Nota: 100%_
 
-#### [Bloco 28: Projeto - TFC - Trybe Futebol Clube]()
+#### [Bloco 28: Projeto - TFC - Trybe Futebol Clube](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b28_projeto-trybe-futebol-clube)
 
 - [x] 28.01 — _[Projeto - TFC - Trybe Futebol Clube](https://github.com/raphaelalmeidamartins/trybe-futebol-clube) — Nota: 100%_
 
@@ -486,7 +486,7 @@
 - [x] 23.04 — _Software Architecture - Testing the Layers_
 - [x] 23.05 — _[Project - Store Manager](https://github.com/raphaelalmeidamartins/store-manager) — Grade: 100%_
 
-#### [Unit 24: Node.js: ORM and Autentication]()
+#### [Unit 24: Node.js: ORM and Autentication](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b24_ORM-e-autenticacao)
 
 - [x] 24.01 — _Introduction - Node.js: ORM and Autentication_
 - [x] 24.01 — _ORM - Application interface with the database_
@@ -495,21 +495,21 @@
 - [x] 24.04 — _Testing APIs with Integration Tests_
 - [x] 24.05 — _[Project - Blogs API](https://github.com/raphaelalmeidamartins/blogs-api) — Grade: 100%_
 
-#### [Unit 25: Deployment]()
+#### [Unit 25: Deployment](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b24_ORM-e-autenticacao)
 
 - [x] 25.01 — _Infrastructure - Deploy with Heroku_
 - [x] 25.02 — _Deploy Docker & Heroku_
 - [x] 25.03 — _[Project - Stranger Things - Front-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-frontend) — Grade: 100%_
 - [x] 25.03 — _[Project - Stranger Things - Back-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-backend) — Grade: 100%_
 
-#### [Unit 26: TypeScript]()
+#### [Unit 26: TypeScript](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b26_TypeScript)
 
 - [x] 26.01 — _Introduction to TypeScript_
 - [x] 26.02 — _Static typing and Generics_
 - [x] 26.03 — _Express with TypeScript_
 - [x] 26.04 — _[Project - Trybe Smith](https://github.com/raphaelalmeidamartins/trybesmith) — Grade: 100%_
 
-#### [Unit 27: Object-Oriented Programming (OOP) and SOLID]()
+#### [Unit 27: Object-Oriented Programming (OOP) and SOLID](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b27_POO)
 
 - [x] 27.01 — _Introduction to Object-Oriented Programming_
 - [x] 27.02 — _Inheritance and Interfaces_
@@ -518,7 +518,7 @@
 - [x] 27.05 — _SOLID - Continuation_
 - [x] 27.06 — _[Project - Trybers and Dragons](https://github.com/raphaelalmeidamartins/trybers-and-dragons) — Grade: 100%_
 
-#### [Unit 28: Project - TFC - Trybe Soccer Team]()
+#### [Unit 28: Project - TFC - Trybe Soccer Team](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b28_projeto-trybe-futebol-clube)
 
 - [x] 28.01 — _[Project - TFC - Trybe Soccer Team](https://github.com/raphaelalmeidamartins/trybe-futebol-clube) — Grade: 100%_
 
