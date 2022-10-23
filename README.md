@@ -204,7 +204,8 @@
 
 - [x] 25.01 — _Infraestrutura - Deploy com Heroku_
 - [x] 25.02 — _Deploy Docker & Heroku_
-- [x] 25.03 — _[Projeto - Stranger Things]() — Nota: 100%_
+- [x] 25.03 — _[Projeto - Stranger Things - Front-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-frontend) — Nota: 100%_
+- [x] 25.03 — _[Projeto - Stranger Things - Back-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-backend) — Nota: 100%_
 
 ### [Bloco 26: TypeScript]()
 
@@ -498,7 +499,8 @@
 
 - [x] 25.01 — _Infrastructure - Deploy with Heroku_
 - [x] 25.02 — _Deploy Docker & Heroku_
-- [x] 25.03 — _[Project - Stranger Things]() — Grade: 100%_
+- [x] 25.03 — _[Project - Stranger Things - Front-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-frontend) — Grade: 100%_
+- [x] 25.03 — _[Project - Stranger Things - Back-end](https://github.com/raphaelalmeidamartins/heroku-stranger-things-backend) — Grade: 100%_
 
 ### [Unit 26: TypeScript]()
 
