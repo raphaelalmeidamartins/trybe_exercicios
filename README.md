@@ -258,7 +258,7 @@
 - [x] 33.01 — _Aprendendo Python_
 - [x] 33.02 — _Entrada e Saída de Dados_
 - [x] 33.03 — _Testes_
-- [ ] 33.04 — _[Projeto - Job Insights]()_
+- [x] 33.04 — _[Projeto - Job Insights](https://github.com/raphaelalmeidamartins/python-job-insights)_
 
 #### [Bloco 34: Programação Orientada a Objetos e Padrões de Projeto]()
 
@@ -553,7 +553,7 @@
 - [x] 33.01 — _Learning Python_
 - [x] 33.02 — _Data Input and Output_
 - [x] 33.03 — _Tests_
-- [ ] 33.04 — _[Project - Job Insights]()_
+- [x] 33.04 — _[Project - Job Insights](https://github.com/raphaelalmeidamartins/python-job-insights)_
 
 #### [Unit 34: Object-Oriented Programming and Design Patterns]()
 
