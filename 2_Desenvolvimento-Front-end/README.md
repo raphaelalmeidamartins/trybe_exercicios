@@ -1,5 +1,7 @@
 ![Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/53470381)
 
+---
+
 # Desenvolvimento Front-end/Front-end Development
 <small>(for the English version, <a href="#en">click here</a>)</small>
 <h2>:brazil: Português</h2>
