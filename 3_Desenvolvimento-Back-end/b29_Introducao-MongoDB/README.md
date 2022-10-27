@@ -6,7 +6,7 @@
 <p>Aprendemos a criar coleções, criar, atualizar e filtrar documentos. Fazer atualizações simples e também atualizações complexas envolvendo arrays.</p>
 <p>Aqui você pode conferir o projeto que desenvolvi ao final:</p>
 
-- _[Projeto - Commerce](https://github.com/raphaelalmeidamartins/mongodb-commerce) — Grade: 100%_
+- _[Projeto - Commerce](https://github.com/raphaelalmeidamartins/mongodb-commerce) — Nota: 100%_
 
 <h2 id="en">:us: English</h2>
 <p>This unit belongs to the <a href="https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end">Back-end Development</a> Module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this unit, we were introduced to MongoDB and NoSQL (Not-only SQL) databases.</p>
