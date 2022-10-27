@@ -43,7 +43,7 @@
 <br>
 
 <h2 id="en">:us: English</h2>
-<p>The second module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this module, we started developing RESTful APIs with Node.js:</p>
+<p>The third module of <a href="https://www.betrybe.com/">Trybe</a>'s course. In this module, we started developing RESTful APIs with Node.js:</p>
 
 - We learned to use, manipulate and create containers and images with Docker;
 - We learned to orchestrate containers with Docker Compose;
@@ -56,7 +56,7 @@
 - Implement authentication with JSON Web Tokens;
 - Deploy applications on the Heroku platform;
 - Use TypeScript;
-- We learned Object Oriented Programming (OOP) with TypeScript;
+- We learned Object-Oriented Programming (OOP) with TypeScript;
 - We were introduced to the SOLID principles;
 - We learned about NoSQL databases (Not-only SQL) and how to use MongoDB;
 - We learned to use the Mongoose ODM (Object Document Mapper) library to abstract the integration with the database in projects with MongoDB;
