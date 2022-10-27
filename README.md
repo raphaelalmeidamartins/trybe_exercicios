@@ -529,7 +529,7 @@
 - [x] 29.03 — _Query Operators_
 - [x] 29.04 — _Simple Updates_
 - [x] 29.05 — _Complex Updates - Arrays_
-- [x] 30.04 — _[Project - Commerce](https://github.com/raphaelalmeidamartins/mongodb-commerce) — Grade: 100%_
+- [x] 29.06 — _[Project - Commerce](https://github.com/raphaelalmeidamartins/mongodb-commerce) — Grade: 100%_
 
 #### [Unit 30: MongoDB with Node.js and POO](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b30_MongoDB-com-Node-e-POO)
 
