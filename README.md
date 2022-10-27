@@ -227,7 +227,7 @@
 
 - [x] 28.01 — _[Projeto - TFC - Trybe Futebol Clube](https://github.com/raphaelalmeidamartins/trybe-futebol-clube) — Nota: 100%_
 
-#### [Bloco 29: Introdução ao MongoDB]()
+#### [Bloco 29: Introdução ao MongoDB](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b29_Introducao-MongoDB)
 
 - [x] 29.01 — _MongoDB - Introdução_
 - [x] 29.02 — _Filter Operators_
@@ -236,17 +236,17 @@
 - [x] 29.05 — _Updates Complexos - Arrays_
 - [x] 30.04 — _[Projeto - Commerce](https://github.com/raphaelalmeidamartins/mongodb-commerce) — Nota: 100%_
 
-#### [Bloco 30: MongoDB com Node.js e POO]()
+#### [Bloco 30: MongoDB com Node.js e POO](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b30_MongoDB-com-Node-e-POO)
 
 - [x] 30.01 — _Mongoose e arquitetura MSC (Camada Model)_
 - [x] 30.02 — _Mongoose e arquitetura MSC (Camada Service e Controller)_
 - [x] 30.03 — _[Projeto - Car Shop](https://github.com/raphaelalmeidamartins/mongodb-car-shop) — Nota: 100%_
 
-#### [Bloco 31: Projeto - App de Delivery]()
+#### [Bloco 31: Projeto - App de Delivery](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b31_Delivery-App)
 
 - [x] 31.01 — _[Projeto - App de Delivery](https://github.com/raphaelalmeidamartins/delivery-app) — Nota: 100%_
 
-#### [Bloco 32: MasterClass - VPS, CI/CD]()
+#### [Bloco 32: MasterClass - VPS, CI/CD](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b32_Masterclass-CI-CD-VPS)
 
 - [x] 32.01 — _CI/CD_
 - [x] 32.02 — _VPS_
@@ -522,7 +522,7 @@
 
 - [x] 28.01 — _[Project - TFC - Trybe Soccer Team](https://github.com/raphaelalmeidamartins/trybe-futebol-clube) — Grade: 100%_
 
-#### [Unit 29: Introduction to MongoDB]()
+#### [Unit 29: Introduction to MongoDB](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b29_Introducao-MongoDB)
 
 - [x] 29.01 — _MongoDB - Introduction_
 - [x] 29.02 — _Filter Operators_
@@ -531,17 +531,17 @@
 - [x] 29.05 — _Complex Updates - Arrays_
 - [x] 30.04 — _[Project - Commerce](https://github.com/raphaelalmeidamartins/mongodb-commerce) — Grade: 100%_
 
-#### [Unit 30: MongoDB with Node.js and POO]()
+#### [Unit 30: MongoDB with Node.js and POO](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b30_MongoDB-com-Node-e-POO)
 
 - [x] 30.01 — _Mongoose and MSC architecture (Model Layer)_
 - [x] 30.02 — _Mongoose and MSC architecture (Service and Controller Layers)_
 - [x] 30.03 — _[Projeto - Car Shop](https://github.com/raphaelalmeidamartins/mongodb-car-shop) — Grade: 100%_
 
-#### [Unit 31: Project - Delivery App]()
+#### [Unit 31: Project - Delivery App](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b31_Delivery-App)
 
 - [x] 31.01 — _[Project - Delivery App](https://github.com/raphaelalmeidamartins/delivery-app) — Grade: 100%_
 
-#### [Unit 32: MasterClass - VPS, CI/CD]()
+#### [Unit 32: MasterClass - VPS, CI/CD](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b32_Masterclass-CI-CD-VPS)
 
 - [x] 32.01 — _CI/CD_
 - [x] 32.02 — _VPS_
