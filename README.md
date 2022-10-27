@@ -88,7 +88,7 @@
 - [x] 09.03 — _Jest - Testes Assíncronos_
 - [x] 09.04 — _[Projeto - Carrinho de Compras](https://github.com/raphaelalmeidamartins/shopping-cart) — Nota: 100%_
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## [Desenvolvimento Front-end](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end) :heavy_check_mark:
 
 #### [Bloco 10: Introdução à React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
 
@@ -146,7 +146,7 @@
 
 - [x] 18.01 — _[Projeto - App de Receitas](https://github.com/raphaelalmeidamartins/fine-flavor) — Nota: 100%_
 
-## Desenvolvimento Back-end :heavy_check_mark:
+## [Desenvolvimento Back-end](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end) :heavy_check_mark:
 
 #### [Bloco 19: Docker: Utilizando Containers](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b19_Docker-utilizando-containers)
 
@@ -251,7 +251,7 @@
 - [x] 32.01 — _CI/CD_
 - [x] 32.02 — _VPS_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## [Ciência da Computação](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/4_Ciencia-da-Computa%C3%A7%C3%A3o) :hourglass_flowing_sand:
 
 #### [Bloco 33: Introdução à Python]()
 
@@ -383,7 +383,7 @@
 - [x] 09.03 — _Jest - Asynchronous Tests_
 - [x] 09.04 — _[Project - Shopping Cart](https://github.com/raphaelalmeidamartins/shopping-cart) — Grade: 100%_
 
-## Front-end Development :heavy_check_mark:
+## [Front-end Development](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end) :heavy_check_mark:
 
 #### [Unit 10: Introduction to React](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end/b10_introducao-ao-react/)
 
@@ -441,7 +441,7 @@
 
 - [x] 18.01 — _[Project - Recipes App](https://github.com/raphaelalmeidamartins/fine-flavor) — Grade: 100%_
 
-## Back-end Development :heavy_check_mark:
+## [Back-end Development](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end) :heavy_check_mark:
 
 #### [Unit 19: Docker: Using Containers](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end/b19_Docker-utilizando-containers)
 
@@ -546,7 +546,7 @@
 - [x] 32.01 — _CI/CD_
 - [x] 32.02 — _VPS_
 
-## Computer Science :hourglass_flowing_sand:
+## [Computer Science](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/4_Ciencia-da-Computa%C3%A7%C3%A3o) :hourglass_flowing_sand:
 
 #### [Unit 33: Introduction to Python]()
 
