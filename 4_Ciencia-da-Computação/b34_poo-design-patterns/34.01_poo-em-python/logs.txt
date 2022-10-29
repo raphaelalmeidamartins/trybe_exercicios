@@ -1,0 +1,8 @@
+[WARNING - 29/10/2022, 19:41:25] Coisonaro não pode ganhar
+[ERROR - 29/10/2022, 19:41:25] Você ainda não fez a pré-venda do Sonic Frontiers!
+[WARNING - 29/10/2022, 19:42:34] Coisonaro não pode ganhar
+[ERROR - 29/10/2022, 19:42:34] Você ainda não fez a pré-venda do Sonic Frontiers!
+[DEBUG - 29/10/2022, 19:42:34] Debugando uhuul!
+[WARNING - 29/10/2022, 19:43:04] Coisonaro não pode ganhar
+[ERROR - 29/10/2022, 19:43:04] Você ainda não fez a pré-venda do Sonic Frontiers!
+[DEBUG - 29/10/2022, 19:43:04] Debugando uhuul!
